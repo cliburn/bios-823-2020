@@ -1,10 +1,15 @@
 # Syllabus for BIOS-823-2020
 
-BIOS 823 describes the challenges faced by analysts as data gets larger and more complex, and the strategies that have been developed in response to these challenges. The core topics are how to manage data and how to make computation scalable. Applications to the analysis of structured, semi-structured and unstructured data, especially from biomedical contexts, will be interleaved into the course. The course examples are primarily in Python and fluency in Python is assumed.
+BIOS 823 is designed for people who want to work in a data science team, especially in a healthcare setting. Hence the course focuses on the skils and knowledge needed to contribute to the main roles in a data science team:
 
-Pre-requisites:
+- Making data available and accessible for analysis
+- Processsing data and performing exploratory data analysis
+- Statistical inference and machine learning
+- Scaling up to big data and deplying automated workflows
 
-- Fluency in Python (BIOS821, STA 663 or equivalent)
+You will learn how to use the essential tools for each of these roles effectively. The emphasis is on conceptual understanding, and we will hgihlight only selected software packages that examplify each role. Once you understand the concepts, it should be simple to self-learn other similar packages, and you have the opportuntity to do so in projects. Applications of data science to the analysis of structured, semi-structured and unstructured data, especially from biomedical contexts, will be interleaved into the course. 
+
+The course examples are primarily in Python and fluency in Python is assumed.
 
 Course repository is at https://github.com/cliburn/bios-823-2020
 
@@ -13,7 +18,8 @@ Due to the wide-ranging nature of the syllabus, there is no course textbook. How
 
 ## Learning objectives
 
-- Data science is a team sport
+- How to contribute as a data science team member
+
 - How to process data and perform exploratory data analysis
 - How to manage data with SQL and NoSQL databases
 - How to build machine learning pipelines
