@@ -3,13 +3,20 @@
 BIOS 823 is designed for people who want to work in a data science team, especially in a healthcare setting. Hence the course focuses on the skils and knowledge needed to contribute to the main roles in a data science team:
 
 - Making data available and accessible for analysis
-- Processsing data and performing exploratory data analysis
+- Processing data and performing exploratory data analysis
 - Statistical inference and machine learning
-- Scaling up to big data and deplying automated workflows
+- Scaling up to big data and deploying automated workflows
 
-You will learn how to use the essential tools for each of these roles effectively. The emphasis is on conceptual understanding, and we will hgihlight only selected software packages that examplify each role. Once you understand the concepts, it should be simple to self-learn other similar packages, and you have the opportuntity to do so in projects. Applications of data science to the analysis of structured, semi-structured and unstructured data, especially from biomedical contexts, will be interleaved into the course. 
+You will learn how to use the essential tools for each of these roles effectively. The emphasis is on conceptual understanding, and we will highlight only selected software packages that exemplify each role. Once you understand the concepts, it should be simple to self-learn other similar packages, and you have the opportunity to do so in projects. Applications of data science to the analysis of structured, semi-structured and unstructured data, especially from biomedical contexts, will be interleaved into the course. 
 
-The course examples are primarily in Python and fluency in Python is assumed.
+**Prerequisites**
+
+- You have a background in calculus and linear algebra
+- You have a background in basic statistics inference
+- YOu have a background in basic machine learning
+- You are fluent in Python
+- You are familiar with the use of `git` for version control
+- YOu enjoy coding and playing with data
 
 Course repository is at https://github.com/cliburn/bios-823-2020
 
