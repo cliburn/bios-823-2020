@@ -1,6 +1,6 @@
 # Syllabus for BIOS-823-2020
 
-BIOS 823 is designed for people who want to work in a data science team, especially in a healthcare setting. Hence the course focuses on the skils and knowledge needed to contribute to the main roles in a data science team:
+BIOS 823 is designed for people who want to work in a data science team, especially in a healthcare setting. Hence the course focuses on the skills and knowledge needed to contribute to the main roles in a data science team:
 
 - Making data available and accessible for analysis
 - Processing data and performing exploratory data analysis
@@ -13,10 +13,10 @@ You will learn how to use the essential tools for each of these roles effectivel
 
 - You have a background in calculus and linear algebra
 - You have a background in basic statistics inference
-- YOu have a background in basic machine learning
+- You have a background in basic machine learning
 - You are fluent in Python
 - You are familiar with the use of `git` for version control
-- YOu enjoy coding and playing with data
+- You enjoy coding and playing with data
 
 Course repository is at https://github.com/cliburn/bios-823-2020
 
@@ -47,7 +47,7 @@ For letter grade
 
 ## Data Science
 
-As with R, the basic foundationn of data science is the creation of tidy data formats that can then be visualzied using a grammar of graphics. We will look at the use of the foundational `pandas` package for data processsing and exploratory data visualization, then at common formats for data sharing, and finally at REST and GraphQL application programming interfaces (API) for transfer of strcutured data resources.
+As with R, the basic foundations of data science is the creation of tidy data formats that can then be visualized using a grammar of graphics. We will look at the use of the foundational `pandas` package for data processing and exploratory data visualization, then at common formats for data sharing, and finally at REST and GraphQL application programming interfaces (API) for transfer of structured data resources.
 
 ### Data processing and EDA
 
@@ -75,7 +75,7 @@ Typical packages:  `graphene`, `fastapi`
 
 ## Data Management
 
-Most data in healthcare settings still reside in relational databasees, especially in enterprise data warehouses that have been created to serve as portals to electronic health records. Hence, an essential skill for a data scientist is the use of SQL, especially for constructing data queries. We will also examine examples of a few NoSQL databases, and review their comparative advantages and disadvantages relative to relational databases.
+Most data in healthcare settings still reside in relational database's, especially in enterprise data warehouses that have been created to serve as portals to electronic health records. Hence, an essential skill for a data scientist is the use of SQL, especially for constructing data queries. We will also examine examples of a few NoSQL databases, and review their comparative advantages and disadvantages relative to relational databases.
 
 ### SQL databases
 
@@ -108,7 +108,7 @@ Typical packages:`redis`, `mongodb`, `neo4j`
 
 ## Machine Learning
 
-Machine learning is an essential skill for any data scientist, so we will review practical issues in classical and deep learning, including feature engineering, imbalanced data, hyper-paramter tuning, and model explainability.
+Machine learning is an essential skill for any data scientist, so we will review practical issues in classical and deep learning, including feature engineering, imbalanced data, hyper-parameter tuning, and model expandability.
 
 ### Understanding ML
 
@@ -138,7 +138,7 @@ Typical packages: `tensorflow2`, `keras`, `tune`, `autokeras`, `dalex`
 
 ## Data Engineering
 
-Finally, we consider three asepcts of data engineeing - construciton of pipelines using functional apporaches, scaling of algorithms for performance, and the automation of workflows.
+Finally, we consider three aspects of data engineering - construction of pipelines using functional approaches, scaling of algorithms for performance, and the automation of workflows.
 
 ### Functional programming
 
