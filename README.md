@@ -47,22 +47,24 @@ For letter grade
 
 ## Data Science
 
+As with R, the basic foundationn of data science is the creation of tidy data formats that can then be visualzied using a grammar of graphics. We will look at the use of the foundational `pandas` package for data processsing and exploratory data visualization, then at common formats for data sharing, and finally at REST and GraphQL application programming interfaces (API) for transfer of strcutured data resources.
+
 ### Data processing and EDA
 
 Typical packages: `pandas`, `plotnine`, `plotly`, `streamlit`
 
 - Data manipulation with `pandas`
+- Primer of data visualization
 - Exploratory data analysis with `plotnine` and `plotly`
 - Dashboards with `streamlit`
 
-## Portable data formats
+### Portable data formats
 
 Typical packages: `json`, `ElementTree`, `h5py`, `pyarrow`, `parquet`
 
-- Text files
+- Text
 - Tabular data
 - Structured data
-
 
 ### Modern API design
 
@@ -73,6 +75,7 @@ Typical packages:  `graphene`, `fastapi`
 
 ## Data Management
 
+Most data in healthcare settings still reside in relational databasees, especially in enterprise data warehouses that have been created to serve as portals to electronic health records. Hence, an essential skill for a data scientist is the use of SQL, especially for constructing data queries. We will also examine examples of a few NoSQL databases, and review their comparative advantages and disadvantages relative to relational databases.
 
 ### SQL databases
 
@@ -105,9 +108,11 @@ Typical packages:`redis`, `mongodb`, `neo4j`
 
 ## Machine Learning
 
+Machine learning is an essential skill for any data scientist, so we will review practical issues in classical and deep learning, including feature engineering, imbalanced data, hyper-paramter tuning, and model explainability.
+
 ### Understanding ML
 
-Typical packages: `scikit-learn`, `pycaret`, `tune-sklearn`,  `yellowbrick`, `auto-sklearn`
+Typical packages: `scikit-learn`, `imbalanced-learn`, `pycaret`, `tune-sklearn`,  `yellowbrick`, `auto-sklearn`
 
 - Unsupervised learning
     - Dimension reduction
@@ -132,6 +137,8 @@ Typical packages: `tensorflow2`, `keras`, `tune`, `autokeras`, `dalex`
 - Explainable AI (XAI)
 
 ## Data Engineering
+
+Finally, we consider three asepcts of data engineeing - construciton of pipelines using functional apporaches, scaling of algorithms for performance, and the automation of workflows.
 
 ### Functional programming
 
