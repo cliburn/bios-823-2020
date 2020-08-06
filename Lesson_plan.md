@@ -16,7 +16,16 @@ The syllabus is a little idiosyncratic - I generally cover about 80% of the mate
 - Python for Data Analysis (2nd edition) - Wes McKinney
 - Fundamentals of Data Visualization -Claus O. Wilke
 
-### A01 A data science career
+### A01 Overview of syllabus and a data science career
+
+- Are our expectations for this course aligned?
+- Which parts fo the syllabus excite or bore you?
+- How do you want to be graded - weighting of homework, exams, projects
+- What does a data scientist actually do?
+- What are the different roles in a data science team?
+- How do you make yourself a competitive candidate?
+- How do you build a data science portfolio?
+- What should you look for in the working environment?
 
 ### A02 Data wrangling
 
