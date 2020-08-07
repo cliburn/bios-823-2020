@@ -18,6 +18,13 @@ The syllabus is a little idiosyncratic - I generally cover about 80% of the mate
 
 ### A01 Overview of syllabus and a data science career
 
+Warm-up exercise:
+
+- Find all unique Pythagorean triplets whose sum is less than 100. A Pythagorean triplet is a tuple of integers (a, b, c) such that $a^2 + b^2 = c^2$
+- How many palindromic numbers are there between 1 and 1,000,000 with more than one unique digit (.e. 1331 is ok but 9999 is not)?
+
+Data Science preamble
+
 - Are our expectations for this course aligned?
 - Which parts fo the syllabus excite or bore you?
 - How do you want to be graded - weighting of homework, exams, projects
@@ -27,7 +34,47 @@ The syllabus is a little idiosyncratic - I generally cover about 80% of the mate
 - How do you build a data science portfolio?
 - What should you look for in the working environment?
 
+
+Exercise: Create a blog on GitHub pages using Pelican.
+
 ### A02 Data wrangling
+
+Warm-up exercise:
+
+- Create a DataFrame containing the famous `iris` data set from this [url](https://gist.githubusercontent.com/curran/a08a1080b88344b0c8a7/raw/639388c2cbc2120a14dcf466e85730eb8be498bb/iris.csv). Find the mean value for each measurement by species.
+
+What you should know
+
+- Do you know basic text operations?
+  - download 3 books from Project Gutenberg
+  - for each book, remove punctuation, convert to lower case, and split into words
+  - create a table of unique word counts for each book
+  - calculate the total count of each word (i.e. sum over 3 books)
+  - create a log-log graph of the frequency of each word against its rank (rank 1 = most frequent word)
+  - estimate the slope of the best linear fit to the graph
+- Do you know basic `numpy` operations?
+  - create arrays
+  - index arrays
+  - apply `ufunc` to arrays
+  - reduce arrays along 1 or more axes
+  - perform broadcast operations
+- Do you know basic `pandas` operations?
+  - select columns
+  - rename columns
+  - reorder columns
+  - filter rows
+  - transform cells
+  - sort columns
+  - summarize columns
+  - calculate conditional statistics
+  - convert from wide to tall
+  - convert from tall to wide
+  - split a string column into two or more columns based on a delimiter
+  - replace specific entries in some columns using a dictionary lookup
+  - join two or more DataFrames
+  - apply window functions
+
+Exercise: Working with `pandas` DataFrames
 
 ### A03 Accelerated data processing
 
