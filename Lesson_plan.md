@@ -29,13 +29,18 @@ Data Science preamble
 - Which parts fo the syllabus excite or bore you?
 - How do you want to be graded - weighting of homework, exams, projects
 - What does a data scientist actually do?
+  - Create recurring reports
+  - Perform an analysis to answer a question
+  - Create and deploy machine learning models
 - What are the different roles in a data science team?
 - How do you make yourself a competitive candidate?
 - How do you build a data science portfolio?
+- Basic requirements to thrive as a data scientist
+  - Know your data
+  - Know your model
+  - Know your audience
+  - Be aware of the big picture
 - What should you look for in the working environment?
-
-
-Exercise: Create a blog on GitHub pages using Pelican.
 
 ### A02 Data wrangling
 
