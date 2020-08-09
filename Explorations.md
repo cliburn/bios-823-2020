@@ -11,3 +11,9 @@
 - [ ] Google Colab
 - [ ] Set up PostGreSQL
 - [ ] Coconut
+- [ ] Set up a virtual environment
+- [ ] Build a portfolio
+- [ ] Build a dashboard
+- [ ] [Tidy Tuesday](https://github.com/rfordatascience/tidytuesday) project
+- [ ] Create a schema diagram using SQLAlchemy
+- [ ] [The Art of Slide Design](https://missgeeky.com/2017/08/04/the-art-of-slide-design/)
