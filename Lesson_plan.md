@@ -83,6 +83,13 @@ Exercise: Working with `pandas` DataFrames
 
 ### A03 Accelerated data processing
 
+- Interpreter bound
+- I/O bound
+- CPU bound
+- Memory bound
+- Making `numpy` faster
+- Making `pandas` faster
+
 ### A04 Data visualization and dashboards
 
 ### A05 Portable data formats
