@@ -9,12 +9,11 @@ The syllabus is a little idiosyncratic - I generally cover about 80% of the mate
 ## Data Science
 
 - Build a Career in Data Science - Emily Robinson, Jacqueline Nolis
-- Analytical Skills for AI and Data Science - Daniel Vaughan
+- Fundamentals of Data Visualization -Claus O. Wilke
 - Fluent Python (2nd edition) - Luciano Ramalho
 - High Performance Python (2nd edition) - Micha Gorelick, Ian Ozsvald
 - Data Science from Scratch: First Principles with Python (2nd Edition) - Joel Grus
 - Python for Data Analysis (2nd edition) - Wes McKinney
-- Fundamentals of Data Visualization -Claus O. Wilke
 
 ### A01 Overview of syllabus and a data science career
 
@@ -89,12 +88,49 @@ Exercise: Working with `pandas` DataFrames
 - Memory bound
 - Making `numpy` faster
 - Making `pandas` faster
+- Using `vaex`
+
+Exercise: Wrapping a C++ function
 
 ### A04 Data visualization and dashboards
 
+- Grammar of graphics review
+  - Data mapping - aesthetics, geometry, coordinates, scale
+  - Metadata - labels, guides
+  - Design - themes
+- Some topics in visualization
+  - Distributions
+  - Nested proportions
+  - Handling overlapping points
+  - Geography
+  - Multi-panel figures
+
+Exercise: Create a dashboard with live updates
+
 ### A05 Portable data formats
 
+Human readable
+- Text files
+- Tabular data
+- JSON
+- YAML
+- XML
+
+Binary
+- Pickle and Dill
+- HDF5
+- Arrow and Parquet
+- Protocol buffers
+
 ### A06 Working with APIs
+
+- What is an API?
+- Why use APIs?
+- REST API
+- GraphQL API
+- Other APIs
+- Command line API (`click` and `typer`)
+- Web API (`fastapi`)
 
 ## Data Management
 
@@ -107,15 +143,61 @@ Exercise: Working with `pandas` DataFrames
 
 ### B01 Relational databases and SQL
 
+- Why use a relational database?
+- Using `sqlite`
+- Basic concepts
+  - Tables
+  - Columns
+  - Rows
+  - PK and FK
+  - Constraints
+  - Set operations
+- Relations between tables
+  - 1:1
+  - 1:N
+  - N:1
+- Normalization and Normal Forms
+- De-normalization and data warehouses
+- ETL operations
+
 ### B02 SQL Query language
 
-### B03 Object-relational databases
+- SQL is declarative
+- Database compilers and optimization
+- SQL standard daa types
+- Basic CRUD operations
+- Basic SQL query syntax
+- Joins
+- Aggregate functions
+- Window functions
+- User defined functions (UDF)
+- SQL and `pandas`
 
 ### B04 Key-value databases
 
+- Why use a key-value database?
+- Using `redis`
+- Data types and collections
+- Streams
+- Pipelines
+- Publish/Subscribe
+
 ### B05 Document databases
 
+- Why document databases?
+- Using `mongodb`
+- JSON revisited
+- CRUD
+- Geo-spatial queries
+
 ### B06 Graph databases
+
+- Why graph databases?
+- Using `neo4j`
+- Basic graph concepts
+- The Cypher query language
+- CRUD
+- Some graph algorithms
 
 ## Machine Learning
 
@@ -126,17 +208,84 @@ Exercise: Working with `pandas` DataFrames
 - Hands-on Machine Learning with Scikit-Learn, Keraaas and TensnorFlow (2nd edition) - Aurélien Géron
 - [Deep Learning](https://www.deeplearningbook.org) - Ian Goodfellow, Yoshua Bengio, Aaron Courville
 
-### C01 Unsupervised learning
+### C01 Overview 
 
-### C02 Supervised learning
+- Why ML?
+- ML concepts
+- Popular ML packages in Python
+- Examples in `scikit-learn`
+- Examples in `pycaret`
+- Examples in `tf2-keras`
+- Examples in `pytorch`
 
-### C03 Pragmatic classical ML
+## C02 Unsupervised learning
 
-### C04 Foundations of deep learning
+- Why unsupervised learning?
+- Warning: Signal from noise
+- Dimension reduction
+- Clustering
+- Feature extraction
+- Self-supervised learning
+- Semi-supervised learning
 
-### C05 Pragmatic deep learning
+### C03 Supervised learning
 
-### C06 Explainable AI
+- Memorization and generalization
+  - Bias-variance trade-off
+  - Under- and over-fitting
+  - In-sample and out-of-sample evaluation
+  - Cross-validation
+  - Regularization
+-  Algorithm families
+  - Neighbor methods
+  - Classical statistics methods
+  - Ensembles based on decision trees
+  - Support vector machines
+  - Neural networks
+
+### C04 Pragmatic classical ML
+
+- Data preparation
+- Feature engineering
+- Using pipelines
+- Hyperparameter tuning and "auto ML"
+- Model evaluation
+- Machine learning visualization
+- End-to-edn ML
+- Deployment
+- Monitoring and updating
+
+### C05 Foundations of deep learning
+
+- Anatomy of a unit (inputs, outputs, activation function)
+- Layers
+- Weight matrices
+- The loss function
+- Reverse mode auto-diff
+- Workarounds for collapsing and exploding gradients
+  - Activation functions
+  - Batch normalization
+  - Skip connections
+- Optimization for deep learning
+  - What is the problem?
+  - Why not 2nd order?
+  - Gradient descent - batch, mini-batch, SGD
+  - Hacks for gradient descent: momentum, Nesterov, RMSprop, ADAM
+- Avoiding over-fitting
+  - Regularization
+  - Drop-off
+  - Early stopping
+- Probabilistic deep learning
+
+### C06 Pragmatic deep learning
+
+- TensorFlow data sets
+- Training a deep network
+- Data augmentation
+- Transfer learning
+- Hyperparameter selection
+- Automatic machine learning
+- Explainable AI (XAI)
 
 ## Data Engineering
 
@@ -150,15 +299,45 @@ Exercise: Working with `pandas` DataFrames
 
 ### D01 Functional programming
 
+- Why functional programming?
+- Pure and impure functions
+- Imperative shell functional core
+- Recursion
+- Lazy evaluation
+- Iterators and generators
+- Higher order functions
+- Decorators
+- Anonymous functions
+- Pipelines
+- Using `functional`, `itertools`, `operator`
+- Using `toolz`
+
+Exercise: More functional concepts with `coconut`
+
 ### D02 Distributed computation
 
-### D03 Distributed ML
+- Why distributed computing?
+- The Hadoop ecosystem
+- Spark architecture
+- Data flow graphs
+- Transforms and actions
+  
+### D03 Spark applications
 
-### D04 Distributed Graph Algorithms
+- Spark SQL for distributed data processing
+- Using Spark ML for distributed machine learning 
+- Using Spark Streaming for streaming data
+- Using GraphFrames for distributed graph computations
 
 ### D05 Data science operations
 
-### D06 Workflow management
+- Development and Operations (DevOps)
+- Version control
+- Packaging
+- Testing
+- Automating workflows
+- Monitoring
+- CI/CD
 
 ## Specialized Domains 
 
@@ -168,10 +347,4 @@ Exercise: Working with `pandas` DataFrames
 - Deep Learning for the Life Sciences - Peter Eastman, Vijay Pande, Bharath Ramsundar, Patrick Walters
 - Genomics in the Cloud - Geraldine A. Van der Auwera, Brian D. O'Connor
 
-### E01 Time Series
-
-### E02 Image Processing
-
-### E03 Genomics
-
-### E04 Natural Language Processing
+### Mostly projects?
