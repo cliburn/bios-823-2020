@@ -11,7 +11,7 @@
 - [ ] Google Colab
 - [ ] Set up PostGreSQL
 - [ ] Coconut
-- [ ] Set up a virtual environment
+- [ ] Set up a virtual environment with `venv`
 - [ ] Build a portfolio
 - [ ] Build a dashboard
 - [ ] [Tidy Tuesday](https://github.com/rfordatascience/tidytuesday) project

@@ -34,9 +34,9 @@ Due to the wide-ranging nature of the syllabus, there is no course textbook. How
 
 ## Grading
 
-- 40% homework
-- 30% exams
-- 30% final project
+- 50% homework
+- 25% exams
+- 25% final project
 
 For letter grade
 
