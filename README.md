@@ -47,7 +47,7 @@ For letter grade
 ## Office hours
 
 - Michael Gao (TA): Friday 2:30-3:30 PM
-- Cliburn Chan (Instructor): Friday 4:00-5:00 PM https://duke.zoom.us/j/2347228993
+- Cliburn Chan (Instructor): Friday 4:00-5:00 PM
   - Please email me if you plan to attend my office hour so I remeber to log into Zoom! 
 
 ## Data Science
