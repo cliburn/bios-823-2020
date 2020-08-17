@@ -122,16 +122,6 @@ Binary
 - Arrow and Parquet
 - Protocol buffers
 
-### A06 Working with APIs
-
-- What is an API?
-- Why use APIs?
-- REST API
-- GraphQL API
-- Other APIs
-- Command line API (`click` and `typer`)
-- Web API (`fastapi`)
-
 ## Data Management
 
 - Mastering Large Dataset with Python - J. T. Wolohan
@@ -287,6 +277,16 @@ Binary
 - Automatic machine learning
 - Explainable AI (XAI)
 
+### C07 Working with APIs
+
+- What is an API?
+- Why use APIs?
+- REST API
+- GraphQL API
+- Other APIs
+- Command line API (`click` and `typer`)
+- Web API (`fastapi`)
+
 ## Data Engineering
 
 - Learn Docker in a Month of Lunches - Elton Stoneman
@@ -347,4 +347,3 @@ Exercise: More functional concepts with `coconut`
 - Deep Learning for the Life Sciences - Peter Eastman, Vijay Pande, Bharath Ramsundar, Patrick Walters
 - Genomics in the Cloud - Geraldine A. Van der Auwera, Brian D. O'Connor
 
-### Mostly projects?
