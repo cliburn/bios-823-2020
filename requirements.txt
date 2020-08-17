@@ -1,0 +1,114 @@
+# ---
+# Platform
+
+ubunt 20.04 LTS
+
+# ---
+# Non-python packages (via apt)
+
+build-essentials
+docker
+redis
+mongodb
+neo4j
+R
+
+# ------
+# Python packages
+
+# Data types
+bson
+fastparquet
+h5py
+tables
+pyarrrow
+
+# Databases
+eralchemy
+sqlalchemy
+pymongo
+py2neo
+redis
+
+# Code optimization
+cython
+numba
+pybind11
+cppimport
+
+# Numeric
+numpy
+scipy
+pandas
+rpy2
+
+# Data wrangling
+faker
+pendulum
+
+# Workflows
+pytest
+airflow
+
+# Time series
+fbprophet
+
+# NLP
+gensim
+nltk
+spacy
+
+# GIS
+gmaps
+
+# Distributed / parallel
+ipyparallel
+graphframes
+pyspark
+joblib
+dask
+vaex
+
+# Images
+imageio
+scikit-image
+
+# Graphics
+matplotlib
+umap
+plotnine
+seaborn
+plotly
+streamlit
+dash
+
+# Graphs
+networkx
+graph-tools
+
+# Web
+requests
+
+# ML
+sklearn
+statsmodels
+tensorflow2-cpu # we will use the tf2.keras version
+pytorch
+yellowbrick
+imbalanced-learn
+pycaret
+tune-sklearn
+auto-sklearn
+tune
+autokeras
+dalex
+
+# APis
+flask
+fastapi
+typer
+graphene
+
+# functioal
+toolz
+coconut
