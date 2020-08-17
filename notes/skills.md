@@ -1,5 +1,16 @@
 # Skills
 
+## Skill clusters
+
+- Domain knowledge
+  - e.g. Healthcare, finance, tech, retail
+- Mathematics and statistics
+  - e.g. Linear algebra, calculus, inference, graph theory
+- Coding for analysis
+  - e.g. `numpy`, `pandas`, `seaborn`, `scikit-learn`, `tensorflow`, `spark`
+- Coding for process
+  - e.g. `git`, `docker`, `fastapi`,  `airflow`, microservices, FAAS 
+
 ## Basic skills for everyone in a data science team
 
 - The Python language
@@ -77,6 +88,20 @@ Processes unstructured and/or *big* data for exploratory and focused analysis.
   - GIS
 - Often fluent in R as well
 
+## ML engineer
+
+Builds machine leaning models (generally prediction machines), trains and optimizes them, and deploy models to web or app.
+
+- Able to read and implement algorithms from ML and DL papers
+- Expert knowledge of `scikit-learn`
+- Expert knowledge of `tensorflow` + `keras` or `pytorch`
+- Expert knowledge of XAI packages
+- `fastapi` or `flask`
+- How to deploy ML pipeline to the cloud
+- How to deploy ML pipeline to an app
+- May know JavaScript (TensorFlow.js)
+- May know systems language (e.g. C/C++, Julia)
+
 ## Data engineer
 
 Automates *everything*. Knows that people cannot be trusted.
@@ -92,17 +117,3 @@ Automates *everything*. Knows that people cannot be trusted.
 - Monitoring - `graphite` or `prometheus`
 - Cloud platforms - AWS, Azure, Google Cloud
 - May know system language (e.g. Java, Go)
-
-## ML engineer
-
-Builds machine leaning models (generally prediction machines), trains and optimizes them, and deploy models to web or app.
-
-- Able to read and implement algorithms from ML and DL papers
-- Expert knowledge of `scikit-learn`
-- Expert knowledge of `tensorflow` + `keras` or `pytorch`
-- Expert knowledge of XAI packages
-- `fastapi` or `flask`
-- How to deploy ML pipeline to the cloud
-- How to deploy ML pipeline to an app
-- May know JavaScript (TensorFlow.js)
-- May know systems language (e.g. C/C++, Julia)

@@ -22,7 +22,6 @@ Course repository is at https://github.com/cliburn/bios-823-2020
 
 Due to the wide-ranging nature of the syllabus, there is no course textbook. However, recommendations for useful books for each major topic will be suggested for those who want to explore the topic in more depth.
 
-
 ## Learning objectives
 
 - How to contribute as a data science team member
@@ -44,6 +43,11 @@ For letter grade
 - B: 75 - 89
 - C: 60 - 74
 - F: 59 and below
+
+## Office hours
+
+Michael Gao (TA): Friday 2:30-3:30 PM
+Cliburn Chan (Instructor): Friday 4:00-5:00 PM
 
 ## Data Science
 
