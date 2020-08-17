@@ -73,9 +73,9 @@ Typical packages: `json`, `ElementTree`, `h5py`, `pyarrow`, `parquet`
 - Structured data
 - REST APIs
 
-Most data in healthcare settings still reside in relational database's, especially in enterprise data warehouses that have been created to serve as portals to electronic health records. Hence, an essential skill for a data scientist is the use of SQL, especially for constructing data queries. We will also examine examples of a few NoSQL databases, and review their comparative advantages and disadvantages relative to relational databases.
-
 ### SQL databases
+
+Most data in healthcare settings still reside in relational database's, especially in enterprise data warehouses that have been created to serve as portals to electronic health records. Hence, an essential skill for a data scientist is the use of SQL, especially for constructing data queries. We will also examine examples of a few NoSQL databases, and review their comparative advantages and disadvantages relative to relational databases.
 
 Typical packages: `sqlite`, `sqlalchemy`
 
@@ -123,7 +123,6 @@ Typical packages: `scikit-learn`, `imbalanced-learn`, `pycaret`, `tune-sklearn`,
     - Hyperparameter tuning
     - Model evaluation
     - Explaining models
-
 
 ### Modern ML frameworks
 
