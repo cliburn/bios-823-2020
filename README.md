@@ -58,6 +58,7 @@ As with R, the basic foundations of data science is the creation of tidy data fo
 
 Typical packages: `pandas`, `plotnine`, `plotly`, `streamlit`
 
+- Warm-up exercises with python and `numpy`
 - Data manipulation with `pandas`
 - Primer of data visualization
 - Exploratory data analysis with `plotnine` and `plotly`
