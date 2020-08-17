@@ -46,8 +46,8 @@ For letter grade
 
 ## Office hours
 
-Michael Gao (TA): Friday 2:30-3:30 PM
-Cliburn Chan (Instructor): Friday 4:00-5:00 PM
+- Michael Gao (TA): Friday 2:30-3:30 PM
+- Cliburn Chan (Instructor): Friday 4:00-5:00 PM
 
 ## Data Science
 
