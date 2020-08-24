@@ -1,6 +1,7 @@
 2019-material
 private/
 .vscode/
+*.png
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
