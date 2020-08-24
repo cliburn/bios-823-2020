@@ -1,0 +1,13 @@
+% This is my CSV file
+% I like comments
+first,last,age
+% first is first naem, last is last name, age is as of 1 Jan 2019
+"Driehe","Dietriech, von",23
+"Ahmad","Ibrahim, bin",34
+
+% I like to mix separators
+Charles,Blow,57
+Andrew:Carnegie:87
+
+% This is the last entry
+Amy,Good,12
