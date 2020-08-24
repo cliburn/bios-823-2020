@@ -2,11 +2,12 @@
 
 You are expected to follow the Duke Honor Code. You can discuss ideas and approaches with your classmates, but you are not allowed to copy code or text from each other. Cite any resources you used to complete each assignment.
 
-- Each project is worth 9 points.
-- Any points you get over 50 will count as 1/2 point that can be used to boost your exam or final project score. For example, if you get a total of 70 points on the 9 assignments, you will effectively get an extra credit for 10 points.
+- Each project is worth 10 points.
+- Any points you get over 50 will count as 1/2 point that can be used to boost your exam or final project score. For example, if you get a total of 70 points on the 7 assignments, you will effectively get an extra credit for 10 points.
 - You need to do #1. 
 - Assignments are due on Friday 11:59 PM every 2 weeks in the order listed.
 - Every assignment must have code committed (with meaningful log messages) to GitHub.
+- Note: Links to your blog/repo will be posted on Sakai so that your peers cna view your work.
 
 ## Assignments
 
