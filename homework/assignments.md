@@ -11,7 +11,8 @@ You are expected to follow the Duke Honor Code. You can discuss ideas and approa
 
 ## Assignments
 
-1. Start a personal website on [GitHub Pages](https://pages.github.com) using a static site generator such as [`pelican`](https://blog.getpelican.com) or [`hugo`](https://gohugo.io). You can find tutorials for how to do on the web. This will be your data science project portfolio. The first project in your portfolio is to write a blog describing how you did this exercise.
+1. Start a personal website on [GitHub Pages](https://pages.github.com). You can find tutorials for how to do on the web. This will be your data science project portfolio. The first project in your portfolio is to write a blog describing how you did this exercise.
+**Note**: The use of a blogging tool like Pelican or Hugo is now *optional*.
 2. Solve 3 problems from the [Euler Project](https://projecteuler.net/archives) using Python. Of the 3 problems, one must have been solved by fewer than 25,000 people, 1 fewer than 100,000 people and one fewer than 500,000 people. Write a function for each problem, and use [`nuympy`-styple docstrings](https://numpydoc.readthedocs.io/en/latest/format.html) to annotate each function. Write a blog page describing your solutions and how you approached each problem. 
 3. Create 3 informative visualizations about malaria using Python in a Jupyter notebook, starting with the data sets at https://github.com/rfordatascience/tidytuesday/tree/master/data/2018/2018-11-13. Blog.
 4. Download the [Spotify songs](https://github.com/rfordatascience/tidytuesday/blob/master/data/2020/2020-01-21/readme.md) data set. Create a SQLite3 schema to store this data in at least 3rd normal form (3NF), and populate the tables. Use an SQL query to find the names of all playlists that contain instrumentals. Blog.
