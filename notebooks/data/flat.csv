@@ -1,0 +1,1524 @@
+name,gender,age,height,weight,salary,nationality,code,country,language1,language2,language3,first,last
+Aaron Alexander,Male,54,1.7,90,151000,British,GB,United Kingdom,Haskell,,,Aaron,Alexander
+Aaron Kirby,Male,59,1.69,43,80000,Spanish,SP,Spain,Falcon,haXe,GNU Octave,Aaron,Kirby
+Abram Allen,Male,41,1.7,44,75000,Italian,IT,Italy,TypeScript,,,Abram,Allen
+Abram Boyer,Male,45,1.64,68,76000,Italian,IT,Italy,Lua,Falcon,Io,Abram,Boyer
+Adaline Barry,Female,54,1.87,58,122000,Uruguayan,UY,Uruguay,Racket,,,Adaline,Barry
+Adam Lawrence,Female,54,1.7,63,114000,Cambodian,CM,Cambodia,Kotlin,Erlang,Perl,Adam,Lawrence
+Adam Rush,Female,38,1.87,49,103000,Cameroonian,CM,Cameroon,,,,Adam,Rush
+Adan Brown,Male,49,1.81,68,63000,Belgian,BE,Belgium,F#,,,Adan,Brown
+Adelle Duffy,Female,27,1.63,59,67000,French,FR,France,C++,Lisp,Ceylon,Adelle,Duffy
+Adena Holland,Female,18,1.59,63,117000,Italian,IT,Italy,Assembly,Ruby,,Adena,Holland
+Adolph Dalton,Male,25,1.63,68,62000,Spanish,SP,Spain,Dart,,,Adolph,Dalton
+Adrian Blevins,Male,55,1.81,90,103000,Chinese,CH,China,Dylan,Clojure,ECMAScript,Adrian,Blevins
+Adriene Garcia,Female,48,1.62,75,163000,Cameroonian,CM,Cameroon,Caml,,,Adriene,Garcia
+Adriene Ray,Female,47,1.6,79,148000,Polish,PO,Poland,C#,Dart,,Adriene,Ray
+Agripina Bond,Female,25,1.65,38,68000,Costa Rican,CR,Costa Rica,Bash,Perl,Fortran,Agripina,Bond
+Agustin Fulton,Male,34,1.99,42,126000,Swedish,SE,Sweden,C#,Common Lisp,ASP,Agustin,Fulton
+Agustin Mcdonald,Male,53,1.83,49,80000,Cameroonian,CM,Cameroon,Java,,,Agustin,Mcdonald
+Ai Hudson,Female,55,1.56,38,88000,Chilean,CL,Chile,PL-I,,,Ai,Hudson
+Aide Gallagher,Female,30,1.81,58,46000,Chinese,HK,Hong Kong,AutoIt,,,Aide,Gallagher
+Aide Levy,Female,41,1.73,75,89000,Italian,IT,Italy,Lua,Scheme,Groovy,Aide,Levy
+Alberto Dudley,Male,57,1.6,62,106000,French,FR,France,J#,,,Alberto,Dudley
+Alberto Medina,Male,32,1.95,40,79000,Jordanian,JO,Jordan,,,,Alberto,Medina
+Aldo Pacheco,Male,42,1.76,67,93000,Danish,DK,Denmark,Java,AutoIt,,Aldo,Pacheco
+Alease Peters,Female,23,1.61,76,85000,Cameroonian,CM,Cameroon,Racket,,,Alease,Peters
+Aleen Bolton,Female,17,1.89,88,79000,Jordanian,JO,Jordan,,,,Aleen,Bolton
+Aleida Rodriquez,Female,62,1.71,75,78000,Swiss,CH,Switzerland,C,PHP,,Aleida,Rodriquez
+Alejandrina Middleton,Female,43,1.84,43,125000,Israeli,IS,Israel,Perl,,,Alejandrina,Middleton
+Alejandrina Weiss,Female,55,1.72,59,84000,Ukrainian,UA,Ukraine,,,,Alejandrina,Weiss
+Aleshia Reilly,Female,61,1.76,86,97000,Swiss,CH,Switzerland,,,,Aleshia,Reilly
+Alethia Delacruz,Female,22,1.65,90,87000,Uruguayan,UY,Uruguay,Prolog,Groovy,,Alethia,Delacruz
+Alex Witt,Male,41,1.65,43,94000,British,GB,United Kingdom,,,,Alex,Witt
+Alexander Goodwin,Female,25,1.64,77,66000,Italian,IT,Italy,C#,OCaml,,Alexander,Goodwin
+Alexander Haley,Male,55,1.93,41,142000,Jordanian,JO,Jordan,AutoIt,C#,,Alexander,Haley
+Alexis Stevens,Male,27,1.72,39,79000,Italian,IT,Italy,Caml,D,,Alexis,Stevens
+Alfonso Sawyer,Male,39,1.58,73,141000,Mexican,ME,Mexico,JavaScript,F#,PL-I,Alfonso,Sawyer
+Alfredia Delacruz,Female,34,1.9,84,104000,Taiwanese,TW,Taiwan,,,,Alfredia,Delacruz
+Alfredia Palmer,Female,64,1.84,47,48000,Jordanian,JO,Jordan,,,,Alfredia,Palmer
+Ali Davidson,Male,34,1.66,86,113000,Danish,DK,Denmark,,,,Ali,Davidson
+Alise Bolton,Female,23,1.8,72,107000,British,GB,United Kingdom,Clojure,Fortran,,Alise,Bolton
+Alishia Hull,Female,32,1.58,51,76000,Danish,DK,Denmark,Julia,C++,,Alishia,Hull
+Alita Cannon,Female,33,1.88,50,116000,Ukrainian,UA,Ukraine,Delphi,,,Alita,Cannon
+Allan Olson,Male,43,1.93,39,128000,Ethiopian,ET,Ethiopia,Smalltalk,AutoIt,,Allan,Olson
+Allena Blankenship,Female,39,1.96,74,126000,Japanese,JP,Japan,PL-I,Go,Fortran,Allena,Blankenship
+Alona Sharpe,Female,48,1.63,51,118000,Egyptian,EG,Egypt,Go,,,Alona,Sharpe
+Alvin Fitzpatrick,Male,48,1.88,60,101000,Swedish,SE,Sweden,Transact-SQL,,,Alvin,Fitzpatrick
+Alysa Holcomb,Female,56,1.78,62,64000,Uruguayan,UY,Uruguay,PHP,,,Alysa,Holcomb
+Alyse Gamble,Female,66,1.66,73,147000,Greek,GR,Greece,Bash,,,Alyse,Gamble
+Amal Booker,Female,18,1.9,50,116000,Romanian,RO,Romania,,,,Amal,Booker
+Amina Case,Female,40,1.74,81,142000,Taiwanese,TW,Taiwan,Scheme,,,Amina,Case
+Amina Goff,Female,61,1.77,89,214000,Chinese,CH,China,R,C++,ASP,Amina,Goff
+Amina Hanson,Female,28,1.5,66,56000,Dutch,NL,Netherland,PowerShell,,,Amina,Hanson
+Ammie Hines,Female,40,1.52,79,135000,Irish,IE,Ireland,Elixir,,,Ammie,Hines
+An Camacho,Female,43,1.85,60,145000,Danish,DK,Denmark,PL-SQL,,,An,Camacho
+Anamaria Mccarthy,Female,56,1.91,86,126000,Spanish,SP,Spain,Julia,F#,Dart,Anamaria,Mccarthy
+Anamaria Nichols,Female,32,1.81,44,64000,Bolivian,BO,Bolivia,Bash,Transact-SQL,Caml,Anamaria,Nichols
+Andera Fox,Female,58,1.78,85,97000,Australian,AU,Australia,Dylan,Ceylon,,Andera,Fox
+Andree Douglas,Female,23,2.0,50,58000,Russian,RU,Russia,C++,Falcon,Haskell,Andree,Douglas
+Andres Ferguson,Male,58,1.69,80,111000,Chilean,CL,Chile,Lua,,,Andres,Ferguson
+Andres Green,Male,32,1.87,86,130000,Israeli,IS,Israel,Scheme,,,Andres,Green
+Andrew Mckee,Female,58,1.78,53,113000,Canadian,CA,Canada,Scheme,PL-I,Prolog,Andrew,Mckee
+Andy Pennington,Male,48,1.73,55,90000,Swedish,SE,Sweden,AutoIt,Io,,Andy,Pennington
+Angele Ford,Female,60,2.0,52,103000,Swiss,CH,Switzerland,Prolog,Ruby,,Angele,Ford
+Angelena Coleman,Female,53,1.78,84,88000,Danish,DK,Denmark,Delphi,Ruby,,Angelena,Coleman
+Angla Patterson,Female,26,1.71,47,113000,Israeli,IS,Israel,PHP,Delphi,Io,Angla,Patterson
+Anika Glass,Female,61,1.78,72,98000,Swiss,CH,Switzerland,AutoIt,PHP,J#,Anika,Glass
+Anjanette George,Female,43,1.61,74,51000,Chinese,CH,China,Racket,,,Anjanette,George
+Anjanette Greer,Female,36,1.65,79,108000,Jordanian,JO,Jordan,Common Lisp,J#,,Anjanette,Greer
+Annamaria Middleton,Female,66,1.96,88,127000,Ethiopian,ET,Ethiopia,Tcl,Tcl,,Annamaria,Middleton
+Annett Hoffman,Female,64,1.82,71,91000,Belgian,BE,Belgium,Ruby,C,,Annett,Hoffman
+Anthony Beasley,Male,25,1.91,38,114000,Irish,IE,Ireland,F#,,,Anthony,Beasley
+Anthony Donaldson,Female,20,1.6,74,72000,Israeli,IS,Israel,J#,Go,,Anthony,Donaldson
+Antione Lewis,Male,36,1.94,39,114000,Taiwanese,TW,Taiwan,ECMAScript,,,Antione,Lewis
+Antoine Beard,Male,16,1.85,51,81000,Italian,IT,Italy,C#,,,Antoine,Beard
+Antone Harrington,Male,21,1.88,64,53000,Costa Rican,CR,Costa Rica,Lua,,,Antone,Harrington
+Antonietta Sharp,Female,45,1.57,65,78000,Israeli,IS,Israel,Falcon,Ruby,,Antonietta,Sharp
+Antony Gregory,Male,66,1.82,89,87000,Belgian,BE,Belgium,,,,Antony,Gregory
+Antony Mckenzie,Male,38,1.72,44,78000,Uruguayan,UY,Uruguay,,,,Antony,Mckenzie
+Antony Riggs,Male,66,1.72,69,172000,Chinese,HK,Hong Kong,,,,Antony,Riggs
+Antwan Campos,Male,32,1.88,78,66000,Iranian,IR,Iran,,,,Antwan,Campos
+Anya Elliott,Female,45,1.74,57,98000,Dominican,DM,Dominica,J#,JavaScript,,Anya,Elliott
+Apolonia Nielsen,Female,33,1.53,83,88000,Russian,RU,Russia,Caml,,,Apolonia,Nielsen
+Ardell Barnett,Female,53,1.61,69,128000,Israeli,IS,Israel,Clojure,,,Ardell,Barnett
+Arden Bruce,Male,21,1.58,64,85000,Cuban,CU,Cuba,,,,Arden,Bruce
+Argentina Sharp,Female,65,1.7,86,55000,Chinese,HK,Hong Kong,Kotlin,Smalltalk,,Argentina,Sharp
+Arianna Robinson,Female,54,1.96,80,84000,Ukrainian,UA,Ukraine,Transact-SQL,AutoIt,,Arianna,Robinson
+Arica Johnston,Female,26,1.62,42,110000,British,GB,United Kingdom,Falcon,,,Arica,Johnston
+Ariel Tran,Male,46,1.65,72,99000,Russian,RU,Russia,R,Rust,,Ariel,Tran
+Arla Osborne,Female,51,1.81,83,95000,French,FR,France,,,,Arla,Osborne
+Arlen Frederick,Male,29,1.76,90,138000,Russian,RU,Russia,AutoIt,Tex,Racket,Arlen,Frederick
+Arletha Pruitt,Female,65,1.84,55,119000,Brazilian,BR,Brazil,ECMAScript,Perl,Io,Arletha,Pruitt
+Arlie Caldwell,Male,31,1.52,52,93000,Cuban,CU,Cuba,Bash,,,Arlie,Caldwell
+Arlie Durham,Male,60,1.63,39,107000,Polish,PO,Poland,GNU Octave,OCaml,,Arlie,Durham
+Arlie Scott,Male,53,1.78,66,56000,Estonian,EE,Estonia,,,,Arlie,Scott
+Arlie Terrell,Male,66,1.9,76,95000,Italian,IT,Italy,C Shell,ASP,Python,Arlie,Terrell
+Arlinda Dominguez,Female,34,1.51,85,74000,Polish,PO,Poland,Falcon,Prolog,AutoIt,Arlinda,Dominguez
+Armand Dillon,Male,43,1.98,86,89000,Ukrainian,UA,Ukraine,Tex,,,Armand,Dillon
+Armando Mathews,Male,63,1.89,72,77000,Russian,RU,Russia,R,Lua,PowerShell,Armando,Mathews
+Arnoldo Carver,Male,39,1.51,69,45000,Russian,RU,Russia,Transact-SQL,,,Arnoldo,Carver
+Art Marshall,Male,63,1.9,87,76000,Swiss,CH,Switzerland,PL-I,Caml,Delphi,Art,Marshall
+Arthur Calhoun,Male,47,1.85,80,101000,Jordanian,JO,Jordan,Smalltalk,AutoIt,,Arthur,Calhoun
+Arturo Camacho,Male,49,1.92,75,94000,Dominican,DM,Dominica,PL-I,,,Arturo,Camacho
+Asa Hawkins,Male,30,1.58,80,139000,Finnish,FI,Finland,Mathematica,Clojure,,Asa,Hawkins
+Asa Riley,Male,46,1.84,63,93000,Irish,IE,Ireland,PL-I,,,Asa,Riley
+Ashley Myers,Male,64,2.0,68,68000,Iranian,IR,Iran,Mathematica,Erlang,J#,Ashley,Myers
+Ashli Mathews,Female,63,1.92,84,137000,Cuban,CU,Cuba,C++,TypeScript,Julia,Ashli,Mathews
+Asley Cross,Female,62,1.64,87,186000,Italian,IT,Italy,Ruby,D,haXe,Asley,Cross
+Asuncion Bentley,Female,55,1.94,45,61000,Swiss,CH,Switzerland,F#,Awk,Awk,Asuncion,Bentley
+Asuncion Daniels,Female,48,1.77,70,53000,Ethiopian,ET,Ethiopia,TypeScript,Lisp,,Asuncion,Daniels
+Aubrey Baker,Male,23,1.53,72,130000,Spanish,SP,Spain,,,,Aubrey,Baker
+Audie Kane,Female,28,1.7,55,81000,Romanian,RO,Romania,Assembly,Lisp,C#,Audie,Kane
+Audrea Norton,Female,18,1.57,76,88000,Egyptian,EG,Egypt,,,,Audrea,Norton
+August Saunders,Male,22,1.93,55,110000,Dutch,NL,Netherland,,,,August,Saunders
+Augustine Dodson,Male,64,1.69,56,91000,Costa Rican,CR,Costa Rica,Scala,Racket,Z shell,Augustine,Dodson
+Augustine Mejia,Male,16,1.83,61,77000,Bolivian,BO,Bolivia,JavaScript,,,Augustine,Mejia
+Augustus Burch,Male,35,1.84,62,127000,Brazilian,BR,Brazil,,,,Augustus,Burch
+Aurore Frederick,Female,30,1.73,41,72000,Belgian,BE,Belgium,C Shell,OCaml,Dylan,Aurore,Frederick
+Aurore Puckett,Female,54,1.62,81,54000,Swedish,SE,Sweden,Ruby,Dart,Racket,Aurore,Puckett
+Ayana Bauer,Female,43,1.85,59,134000,Canadian,CA,Canada,Caml,,,Ayana,Bauer
+Ayana Mendez,Female,23,1.58,54,65000,Cambodian,CM,Cambodia,Bash,,,Ayana,Mendez
+Azalee Zamora,Female,41,1.65,62,64000,Brazilian,BR,Brazil,,,,Azalee,Zamora
+Babara Mack,Female,25,1.74,73,157000,Egyptian,EG,Egypt,,,,Babara,Mack
+Babette Melton,Female,24,1.72,57,96000,Chilean,CL,Chile,TypeScript,PL-I,Z shell,Babette,Melton
+Bari Colon,Female,65,1.6,62,116000,Ukrainian,UA,Ukraine,PowerShell,Tcl,,Bari,Colon
+Barrett Coleman,Male,64,1.84,53,97000,Estonian,EE,Estonia,Prolog,Scheme,,Barrett,Coleman
+Bart Durham,Male,23,1.81,70,91000,Finnish,FI,Finland,ASP,Prolog,Rust,Bart,Durham
+Barton Mcintyre,Male,23,1.8,83,85000,Costa Rican,CR,Costa Rica,,,,Barton,Mcintyre
+Beatris Leon,Female,50,1.68,83,52000,Swedish,SE,Sweden,Bash,ECMAScript,,Beatris,Leon
+Beau Lawrence,Male,32,1.86,42,77000,Dutch,NL,Netherland,PL-SQL,Assembly,,Beau,Lawrence
+Becki Bradley,Female,54,1.56,81,115000,Japanese,JP,Japan,AutoIt,Tcl,,Becki,Bradley
+Beckie Strong,Female,36,1.64,86,161000,Estonian,EE,Estonia,C#,,,Beckie,Strong
+Belkis Delacruz,Female,56,1.77,63,97000,French,FR,France,,,,Belkis,Delacruz
+Benedict Tate,Male,53,1.84,43,63000,Uruguayan,UY,Uruguay,,,,Benedict,Tate
+Benjamin Duffy,Male,66,1.92,58,101000,Mexican,ME,Mexico,,,,Benjamin,Duffy
+Bennie Collier,Male,45,1.93,90,78000,Israeli,IS,Israel,PL-SQL,,,Bennie,Collier
+Benny Shannon,Male,44,1.9,79,109000,Irish,IE,Ireland,,,,Benny,Shannon
+Bernarda Mitchell,Female,38,1.5,81,145000,Russian,RU,Russia,PL-I,,,Bernarda,Mitchell
+Bernardina Mullen,Female,45,1.69,56,107000,Uruguayan,UY,Uruguay,C#,,,Bernardina,Mullen
+Bernetta Nelson,Female,57,1.95,90,55000,Dutch,NL,Netherland,Scheme,Transact-SQL,,Bernetta,Nelson
+Bernetta Santana,Female,53,2.0,89,94000,Spanish,SP,Spain,Common Lisp,OCaml,,Bernetta,Santana
+Bernie Guerra,Male,42,1.98,74,120000,Italian,IT,Italy,R,Mathematica,Lisp,Bernie,Guerra
+Bernie Parsons,Male,59,1.95,38,92000,Estonian,EE,Estonia,,,,Bernie,Parsons
+Bert Hess,Male,26,1.81,74,76000,Irish,IE,Ireland,GNU Octave,ASP,,Bert,Hess
+Bethanie Bell,Female,36,1.94,84,73000,Taiwanese,TW,Taiwan,Scala,Java,Rust,Bethanie,Bell
+Bethann Maddox,Female,37,1.51,46,95000,Swiss,CH,Switzerland,,,,Bethann,Maddox
+Bethann Wilkins,Female,21,2.0,70,123000,Chilean,CL,Chile,Io,R,,Bethann,Wilkins
+Betsey Cohen,Female,25,1.85,38,68000,Venezuelan,VE,Venezuela,,,,Betsey,Cohen
+Beula Bishop,Female,23,1.59,43,93000,Iranian,IR,Iran,,,,Beula,Bishop
+Beula Singleton,Female,42,1.91,61,74000,Israeli,IS,Israel,,,,Beula,Singleton
+Beula Terrell,Female,54,1.82,88,81000,Egyptian,EG,Egypt,TypeScript,Lisp,,Beula,Terrell
+Beula Whitehead,Female,65,1.8,80,54000,Danish,DK,Denmark,Scala,Objective-C,C Shell,Beula,Whitehead
+Beverlee Mullen,Female,66,1.58,74,75000,Russian,RU,Russia,J#,CoffeeScript,PL-I,Beverlee,Mullen
+Bibi Riley,Female,49,1.99,74,99000,Swiss,CH,Switzerland,Lua,,,Bibi,Riley
+Bibi Silva,Female,66,2.0,46,182000,Ukrainian,UA,Ukraine,,,,Bibi,Silva
+Blaine Owens,Male,66,1.97,57,97000,Ukrainian,UA,Ukraine,ASP,Rust,J#,Blaine,Owens
+Blair Conrad,Male,56,1.73,71,97000,Israeli,IS,Israel,Scala,Dylan,,Blair,Conrad
+Blythe Beasley,Female,55,1.52,82,78000,Ethiopian,ET,Ethiopia,Lisp,,,Blythe,Beasley
+Blythe Koch,Female,55,1.95,68,67000,Dutch,NL,Netherland,Julia,,,Blythe,Koch
+Bo Gordon,Male,18,1.86,39,137000,Cambodian,CM,Cambodia,,,,Bo,Gordon
+Bobbie Manning,Male,18,1.6,68,104000,Venezuelan,VE,Venezuela,Java,Tcl,Erlang,Bobbie,Manning
+Bobbye Wilson,Female,34,1.51,90,67000,British,GB,United Kingdom,CoffeeScript,,,Bobbye,Wilson
+Booker Ramos,Male,38,1.57,48,81000,Swiss,CH,Switzerland,Z shell,,,Booker,Ramos
+Boris Mejia,Male,16,1.92,54,121000,Spanish,SP,Spain,Scala,Fortran,,Boris,Mejia
+Boyd Blackwell,Male,55,1.95,42,85000,Venezuelan,VE,Venezuela,Haskell,Delphi,,Boyd,Blackwell
+Boyd Boyd,Male,49,1.62,38,85000,German,DE,Germany,Objective-C,Clojure,Go,Boyd,Boyd
+Brad Le,Male,61,1.54,42,212000,Finnish,FI,Finland,Delphi,J#,,Brad,Le
+Bradley Reeves,Male,59,1.99,54,168000,Egyptian,EG,Egypt,Bash,,,Bradley,Reeves
+Brain Haney,Male,16,1.63,53,146000,Greek,GR,Greece,Tcl,,,Brain,Haney
+Branden Sargent,Male,45,1.73,82,130000,Bolivian,BO,Bolivia,,,,Branden,Sargent
+Brandon Wheeler,Female,36,1.98,83,89000,Ukrainian,UA,Ukraine,Caml,,,Brandon,Wheeler
+Breana Eaton,Female,64,1.96,70,85000,Ukrainian,UA,Ukraine,Caml,,,Breana,Eaton
+Brett Bentley,Male,29,1.61,49,127000,Venezuelan,VE,Venezuela,CoffeeScript,,,Brett,Bentley
+Britni Pickett,Female,31,1.65,52,34000,Chilean,CL,Chile,Smalltalk,,,Britni,Pickett
+Brittny Slater,Female,30,1.74,65,99000,Polish,PO,Poland,Scheme,CoffeeScript,R,Brittny,Slater
+Bryan Aguirre,Male,56,1.71,51,221000,Bolivian,BO,Bolivia,Common Lisp,PHP,Smalltalk,Bryan,Aguirre
+Bryan Johnston,Male,64,1.67,45,83000,Canadian,CA,Canada,Bash,Fortran,C,Bryan,Johnston
+Bryanna Odom,Female,51,1.63,85,141000,Cambodian,CM,Cambodia,Racket,Groovy,,Bryanna,Odom
+Bryant Vazquez,Male,55,1.62,59,135000,Romanian,RO,Romania,Rust,,,Bryant,Vazquez
+Bryce Buck,Male,18,1.92,73,86000,Greek,GR,Greece,Fortran,Tcl,Prolog,Bryce,Buck
+Bryon Fisher,Male,21,1.98,73,66000,Italian,IT,Italy,haXe,Kotlin,R,Bryon,Fisher
+Buck Howe,Male,62,1.61,53,85000,Australian,AU,Australia,Haskell,C++,,Buck,Howe
+Buck Hurley,Male,36,1.59,45,57000,Ukrainian,UA,Ukraine,PowerShell,Ceylon,Elixir,Buck,Hurley
+Burl Mayo,Male,17,1.85,47,81000,Cameroonian,CM,Cameroon,Bash,OCaml,Z shell,Burl,Mayo
+Burt Webster,Male,39,1.58,38,95000,Cambodian,CM,Cambodia,Groovy,GNU Octave,Dart,Burt,Webster
+Burton Hoover,Male,60,1.61,52,59000,Spanish,SP,Spain,,,,Burton,Hoover
+Byron Beard,Male,25,1.53,62,81000,Dutch,NL,Netherland,Clojure,Go,Objective-C,Byron,Beard
+Byron Brown,Male,26,1.98,40,99000,Venezuelan,VE,Venezuela,,,,Byron,Brown
+Camellia Maxwell,Female,31,1.86,74,94000,Irish,IE,Ireland,,,,Camellia,Maxwell
+Candie Murphy,Female,21,1.62,45,49000,Spanish,SP,Spain,,,,Candie,Murphy
+Candra Wynn,Female,47,1.62,81,149000,Ethiopian,ET,Ethiopia,Bash,Delphi,Racket,Candra,Wynn
+Carie Ray,Female,22,1.85,71,136000,Mexican,ME,Mexico,Dylan,Ruby,Objective-C,Carie,Ray
+Carl Baxter,Male,37,1.95,60,56000,Polish,PO,Poland,,,,Carl,Baxter
+Carline Carlson,Female,33,1.53,86,133000,Cambodian,CM,Cambodia,Fortran,,,Carline,Carlson
+Carlo Dillard,Male,50,1.93,75,115000,Polish,PO,Poland,AutoIt,Go,,Carlo,Dillard
+Carlo Melendez,Male,45,1.9,68,70000,Iranian,IR,Iran,,,,Carlo,Melendez
+Carlos Ewing,Female,56,1.82,89,114000,Costa Rican,CR,Costa Rica,GNU Octave,D,,Carlos,Ewing
+Carlton Richard,Male,37,1.6,38,56000,Dominican,DM,Dominica,Common Lisp,Haskell,Scheme,Carlton,Richard
+Carmine Pope,Male,25,1.88,80,107000,Costa Rican,CR,Costa Rica,Emacs Lisp,,,Carmine,Pope
+Carmine Russo,Male,18,1.9,73,103000,Dominican,DM,Dominica,Tcl,,,Carmine,Russo
+Carmon O'brien,Female,46,1.95,49,57000,Swedish,SE,Sweden,,,,Carmon,O'brien
+Carol Bradshaw,Male,40,1.5,60,93000,Spanish,SP,Spain,PL-I,,,Carol,Bradshaw
+Carolyne Galloway,Female,35,1.98,75,130000,Romanian,RO,Romania,PHP,,,Carolyne,Galloway
+Carroll Barnett,Male,16,1.88,43,103000,Romanian,RO,Romania,Julia,,,Carroll,Barnett
+Carry Henson,Female,41,1.83,84,101000,Costa Rican,CR,Costa Rica,,,,Carry,Henson
+Carylon Koch,Female,61,1.84,61,103000,Dutch,NL,Netherland,TypeScript,Tcl,,Carylon,Koch
+Carylon Lane,Female,54,1.5,45,62000,Ukrainian,UA,Ukraine,,,,Carylon,Lane
+Carylon Zamora,Female,36,1.94,57,91000,French,FR,France,Groovy,Python,C,Carylon,Zamora
+Catarina Mckenzie,Female,36,1.76,62,103000,Irish,IE,Ireland,TypeScript,,,Catarina,Mckenzie
+Cathern Castaneda,Female,64,1.9,80,87000,Iranian,IR,Iran,C++,,,Cathern,Castaneda
+Cathey Walter,Female,53,1.72,45,132000,Finnish,FI,Finland,haXe,Clojure,,Cathey,Walter
+Catrice Bryant,Female,33,2.0,71,111000,German,DE,Germany,haXe,Lisp,Go,Catrice,Bryant
+Cecil Schneider,Male,48,1.95,41,76000,Russian,RU,Russia,Falcon,,,Cecil,Schneider
+Cedrick Ortega,Male,47,1.87,38,95000,Taiwanese,TW,Taiwan,C++,Groovy,Prolog,Cedrick,Ortega
+Celena Carney,Female,43,1.87,76,77000,Bolivian,BO,Bolivia,Clojure,Elixir,,Celena,Carney
+Celsa Gross,Female,17,1.67,62,193000,Costa Rican,CR,Costa Rica,Perl,,,Celsa,Gross
+Cesar Daniels,Male,37,1.8,87,93000,Japanese,JP,Japan,,,,Cesar,Daniels
+Chan Dotson,Female,28,1.7,42,76000,Finnish,FI,Finland,,,,Chan,Dotson
+Chanell Anthony,Female,29,1.88,76,124000,Danish,DK,Denmark,AutoIt,Bash,,Chanell,Anthony
+Chang Mack,Male,65,1.85,69,112000,British,GB,United Kingdom,Falcon,Kotlin,Awk,Chang,Mack
+Chang Soto,Male,30,1.62,52,98000,Venezuelan,VE,Venezuela,Clojure,,,Chang,Soto
+Charlsie Gillespie,Female,60,1.87,64,93000,Venezuelan,VE,Venezuela,JavaScript,,,Charlsie,Gillespie
+Chas Key,Male,27,1.53,65,102000,Ukrainian,UA,Ukraine,,,,Chas,Key
+Chere Dalton,Female,59,1.97,50,77000,Ukrainian,UA,Ukraine,,,,Chere,Dalton
+Chery Becker,Female,16,1.62,60,57000,Cambodian,CM,Cambodia,Racket,JavaScript,Java,Chery,Becker
+Chet Pate,Male,21,1.88,78,68000,Cameroonian,CM,Cameroon,,,,Chet,Pate
+Chi Patel,Male,51,1.87,63,81000,Greek,GR,Greece,,,,Chi,Patel
+Chong Beck,Male,37,1.58,86,122000,Cameroonian,CM,Cameroon,,,,Chong,Beck
+Christeen Mueller,Female,62,1.88,59,112000,Danish,DK,Denmark,Tex,Awk,,Christeen,Mueller
+Christene Hess,Female,52,1.8,73,96000,Romanian,RO,Romania,Fortran,,,Christene,Hess
+Christian Hays,Male,35,1.89,85,119000,Estonian,EE,Estonia,,,,Christian,Hays
+Christinia Henderson,Female,44,1.99,74,107000,Ukrainian,UA,Ukraine,Scala,,,Christinia,Henderson
+Christinia Navarro,Female,38,1.59,65,102000,Cuban,CU,Cuba,,,,Christinia,Navarro
+Christoper Coffey,Male,19,1.83,45,102000,Costa Rican,CR,Costa Rica,,,,Christoper,Coffey
+Chu Gordon,Female,61,1.9,90,77000,Polish,PO,Poland,Julia,Fortran,,Chu,Gordon
+Ciera Guerra,Female,61,1.75,58,142000,Swiss,CH,Switzerland,Elixir,Smalltalk,,Ciera,Guerra
+Cinderella Lambert,Female,53,1.98,39,111000,Iranian,IR,Iran,ECMAScript,C Shell,PHP,Cinderella,Lambert
+Clair Holt,Male,37,1.63,67,105000,Cuban,CU,Cuba,C#,,,Clair,Holt
+Clarence Lane,Male,22,1.82,80,55000,Australian,AU,Australia,CoffeeScript,,,Clarence,Lane
+Clarisa Montgomery,Female,34,1.69,41,176000,Cuban,CU,Cuba,Caml,Assembly,Smalltalk,Clarisa,Montgomery
+Clarisa Rodgers,Female,59,1.84,65,90000,Taiwanese,TW,Taiwan,Ceylon,Python,ECMAScript,Clarisa,Rodgers
+Clarita Carver,Female,35,1.66,71,84000,Finnish,FI,Finland,Prolog,Erlang,Smalltalk,Clarita,Carver
+Clark Clark,Male,18,1.68,66,188000,Polish,PO,Poland,,,,Clark,Clark
+Claud Duncan,Male,30,1.63,38,79000,Venezuelan,VE,Venezuela,,,,Claud,Duncan
+Claude Eaton,Female,46,1.87,61,170000,Finnish,FI,Finland,,,,Claude,Eaton
+Clay Sullivan,Male,59,1.92,58,100000,Finnish,FI,Finland,,,,Clay,Sullivan
+Clayton Hodge,Male,43,1.82,74,95000,Jordanian,JO,Jordan,Smalltalk,,,Clayton,Hodge
+Clemente Mccormick,Male,47,1.98,52,76000,Danish,DK,Denmark,,,,Clemente,Mccormick
+Clemmie Durham,Female,24,1.79,87,107000,Japanese,JP,Japan,Go,Erlang,Dylan,Clemmie,Durham
+Cliff Newton,Male,58,1.83,55,102000,Egyptian,EG,Egypt,AutoIt,JavaScript,Z shell,Cliff,Newton
+Clifton Meadows,Male,55,1.62,57,114000,Ukrainian,UA,Ukraine,D,,,Clifton,Meadows
+Clifton Roach,Male,23,1.76,78,46000,Cameroonian,CM,Cameroon,,,,Clifton,Roach
+Codi Park,Female,48,1.79,85,111000,Danish,DK,Denmark,Kotlin,Z shell,,Codi,Park
+Cole Farley,Male,36,1.55,81,77000,Egyptian,EG,Egypt,TypeScript,Fortran,,Cole,Farley
+Cole Jackson,Male,46,2.0,63,109000,Israeli,IS,Israel,J#,,,Cole,Jackson
+Coletta Vega,Female,57,1.87,44,94000,Brazilian,BR,Brazil,C++,,,Coletta,Vega
+Colin Vang,Male,65,1.78,41,129000,British,GB,United Kingdom,,,,Colin,Vang
+Collin Kane,Male,47,1.87,65,84000,Venezuelan,VE,Venezuela,,,,Collin,Kane
+Connie Irwin,Male,33,1.92,53,119000,Dutch,NL,Netherland,,,,Connie,Irwin
+Conrad Leblanc,Male,21,1.9,90,67000,Polish,PO,Poland,Tcl,R,Emacs Lisp,Conrad,Leblanc
+Conrad Montoya,Male,37,1.86,52,69000,Australian,AU,Australia,,,,Conrad,Montoya
+Cornelius Weeks,Male,23,1.59,56,37000,Dutch,NL,Netherland,Emacs Lisp,,,Cornelius,Weeks
+Courtney Finch,Male,42,1.58,67,114000,Bolivian,BO,Bolivia,,,,Courtney,Finch
+Courtney Moon,Male,41,1.77,41,60000,French,FR,France,Racket,haXe,C,Courtney,Moon
+Crista Noble,Female,35,1.75,41,73000,Cuban,CU,Cuba,F#,,,Crista,Noble
+Cruz Saunders,Male,66,1.83,86,87000,Russian,RU,Russia,PHP,ASP,Julia,Cruz,Saunders
+Curtis Graves,Male,57,1.69,53,64000,Costa Rican,CR,Costa Rica,,,,Curtis,Graves
+Curtis House,Male,40,1.51,64,87000,Iranian,IR,Iran,Z shell,,,Curtis,House
+Curtis Snider,Male,44,1.88,42,113000,Mexican,ME,Mexico,AutoIt,J#,,Curtis,Snider
+Cyril Weiss,Male,28,1.9,69,118000,Swedish,SE,Sweden,Ruby,,,Cyril,Weiss
+Cyrstal Miles,Female,39,1.85,48,85000,Finnish,FI,Finland,Tcl,,,Cyrstal,Miles
+Cythia Wooten,Female,50,1.66,51,54000,Romanian,RO,Romania,Java,PL-SQL,,Cythia,Wooten
+Dagmar Mcdaniel,Female,22,1.87,54,156000,Ethiopian,ET,Ethiopia,OCaml,GNU Octave,Ruby,Dagmar,Mcdaniel
+Dahlia Beard,Female,43,1.68,74,79000,Finnish,FI,Finland,,,,Dahlia,Beard
+Dale Ramos,Male,19,1.84,46,128000,Cuban,CU,Cuba,Mathematica,ASP,,Dale,Ramos
+Dalton Mcgee,Male,19,1.77,63,127000,Ukrainian,UA,Ukraine,,,,Dalton,Mcgee
+Damien Arnold,Male,47,1.88,64,65000,Russian,RU,Russia,Z shell,,,Damien,Arnold
+Damien Dale,Male,53,1.75,42,107000,Cuban,CU,Cuba,Erlang,C++,PL-I,Damien,Dale
+Damion Murray,Male,19,1.75,58,107000,Greek,GR,Greece,Scala,,,Damion,Murray
+Dane Duffy,Male,58,1.65,82,70000,Chinese,CH,China,,,,Dane,Duffy
+Dane Thornton,Male,32,1.74,58,93000,Cuban,CU,Cuba,,,,Dane,Thornton
+Danial Jensen,Male,34,1.76,75,72000,Chinese,HK,Hong Kong,TypeScript,AutoIt,,Danial,Jensen
+Danika Morse,Female,55,1.51,84,82000,Egyptian,EG,Egypt,Go,,,Danika,Morse
+Dannette Beach,Female,61,1.84,62,80000,Russian,RU,Russia,,,,Dannette,Beach
+Dannie Glover,Male,28,1.66,89,140000,Dominican,DM,Dominica,GNU Octave,PHP,Scala,Dannie,Glover
+Danuta Solomon,Female,40,1.7,71,84000,Swedish,SE,Sweden,,,,Danuta,Solomon
+Danyel Little,Female,50,1.59,66,62000,Israeli,IS,Israel,Racket,,,Danyel,Little
+Danyel Stanley,Female,65,1.59,62,47000,Venezuelan,VE,Venezuela,Mathematica,,,Danyel,Stanley
+Daphine Little,Female,33,1.54,60,141000,Australian,AU,Australia,Go,,,Daphine,Little
+Darcel White,Female,48,1.69,72,61000,Israeli,IS,Israel,Z shell,Scala,,Darcel,White
+Daren Gilmore,Male,31,1.85,82,136000,Ethiopian,ET,Ethiopia,,,,Daren,Gilmore
+Daren Summers,Male,56,1.95,76,95000,Venezuelan,VE,Venezuela,Common Lisp,C,,Daren,Summers
+Darin Reyes,Male,18,1.9,71,78000,Chinese,HK,Hong Kong,Tex,,,Darin,Reyes
+Darin Sweeney,Male,36,1.8,38,134000,Spanish,SP,Spain,,,,Darin,Sweeney
+Dario Walls,Male,43,1.98,70,155000,British,GB,United Kingdom,C Shell,Bash,,Dario,Walls
+Darius England,Male,29,1.72,87,55000,Mexican,ME,Mexico,,,,Darius,England
+Darnell Phelps,Male,42,1.64,44,104000,Brazilian,BR,Brazil,,,,Darnell,Phelps
+Daron Charles,Male,36,1.9,90,121000,British,GB,United Kingdom,,,,Daron,Charles
+Daron Coffey,Male,59,1.82,44,80000,Spanish,SP,Spain,Prolog,Bash,Falcon,Daron,Coffey
+Daron Mejia,Male,37,1.98,76,157000,Israeli,IS,Israel,Groovy,Delphi,C Shell,Daron,Mejia
+Darrel David,Male,50,1.51,82,134000,Finnish,FI,Finland,,,,Darrel,David
+Darrell Walton,Male,36,1.94,43,75000,Cameroonian,CM,Cameroon,Ceylon,Scala,Mathematica,Darrell,Walton
+Darren Church,Male,38,1.9,73,56000,Mexican,ME,Mexico,Emacs Lisp,Transact-SQL,,Darren,Church
+Darrick Hudson,Male,45,1.63,52,107000,Swiss,CH,Switzerland,Tcl,,,Darrick,Hudson
+Darron Fitzpatrick,Male,27,1.51,79,118000,Canadian,CA,Canada,TypeScript,Caml,Fortran,Darron,Fitzpatrick
+Darwin Bentley,Male,63,1.6,77,95000,Iranian,IR,Iran,R,Dylan,D,Darwin,Bentley
+Daryl Jimenez,Male,42,1.52,54,64000,Bolivian,BO,Bolivia,Emacs Lisp,,,Daryl,Jimenez
+Daryl Trevino,Male,22,1.96,41,60000,Spanish,SP,Spain,C Shell,D,,Daryl,Trevino
+David Torres,Male,33,1.59,82,123000,Venezuelan,VE,Venezuela,Smalltalk,Tex,,David,Torres
+Davis Combs,Male,62,1.81,65,95000,Dominican,DM,Dominica,Emacs Lisp,Scala,R,Davis,Combs
+Dawne Knapp,Female,59,1.82,83,185000,Bolivian,BO,Bolivia,Ruby,Lua,,Dawne,Knapp
+Dean Little,Male,49,1.58,75,158000,British,GB,United Kingdom,Prolog,,,Dean,Little
+Deandra Kaufman,Female,19,1.64,85,93000,Belgian,BE,Belgium,,,,Deandra,Kaufman
+Deane Burke,Female,64,1.71,73,78000,Russian,RU,Russia,D,C,C,Deane,Burke
+Debbra Wiggins,Female,45,1.99,59,96000,Irish,IE,Ireland,Z shell,,,Debbra,Wiggins
+Deja Flowers,Female,45,1.83,51,91000,Polish,PO,Poland,,,,Deja,Flowers
+Deja Good,Female,56,1.59,63,76000,Ukrainian,UA,Ukraine,,,,Deja,Good
+Delcie Moreno,Female,66,1.93,57,64000,British,GB,United Kingdom,Julia,Io,,Delcie,Moreno
+Delinda Watts,Female,29,1.55,39,121000,Dutch,NL,Netherland,haXe,,,Delinda,Watts
+Delinda Wright,Female,37,1.83,81,65000,Belgian,BE,Belgium,R,,,Delinda,Wright
+Delisa Grant,Female,51,1.83,45,82000,Irish,IE,Ireland,C,,,Delisa,Grant
+Delmar Harmon,Male,19,1.69,40,86000,Estonian,EE,Estonia,Kotlin,,,Delmar,Harmon
+Delmer Petty,Male,24,1.89,53,72000,Egyptian,EG,Egypt,Lua,Scala,,Delmer,Petty
+Deloise Bowman,Female,16,1.8,75,99000,Venezuelan,VE,Venezuela,C#,C++,Ceylon,Deloise,Bowman
+Delora Bender,Female,54,1.79,60,106000,Belgian,BE,Belgium,Transact-SQL,ECMAScript,,Delora,Bender
+Deloras Puckett,Female,37,1.69,69,71000,Swedish,SE,Sweden,Julia,C#,,Deloras,Puckett
+Delorse Diaz,Female,38,1.88,59,102000,Swiss,CH,Switzerland,Emacs Lisp,Bash,,Delorse,Diaz
+Delorse Peck,Female,64,1.81,42,101000,Romanian,RO,Romania,Assembly,,,Delorse,Peck
+Delpha Golden,Female,49,1.84,85,92000,Finnish,FI,Finland,ECMAScript,JavaScript,GNU Octave,Delpha,Golden
+Demarcus Torres,Male,43,1.64,73,86000,Irish,IE,Ireland,TypeScript,,,Demarcus,Torres
+Demetrice Lawson,Female,44,1.58,75,73000,Australian,AU,Australia,Perl,F#,,Demetrice,Lawson
+Demetrius Espinoza,Male,62,1.78,82,86000,Dutch,NL,Netherland,Objective-C,Falcon,,Demetrius,Espinoza
+Demetrius Stafford,Female,45,1.8,72,73000,Japanese,JP,Japan,Lisp,TypeScript,C++,Demetrius,Stafford
+Denese Evans,Female,17,1.73,89,111000,Japanese,JP,Japan,,,,Denese,Evans
+Denese Hensley,Female,42,1.92,47,78000,Swiss,CH,Switzerland,PowerShell,,,Denese,Hensley
+Denisha Summers,Female,64,1.76,39,68000,Spanish,SP,Spain,,,,Denisha,Summers
+Denisse Browning,Female,23,1.73,63,109000,Ethiopian,ET,Ethiopia,,,,Denisse,Browning
+Denisse Salazar,Female,25,1.71,76,166000,Russian,RU,Russia,Common Lisp,,,Denisse,Salazar
+Denita Larsen,Female,44,1.8,90,85000,Bolivian,BO,Bolivia,,,,Denita,Larsen
+Dennise Andrews,Female,54,1.64,84,62000,Dominican,DM,Dominica,,,,Dennise,Andrews
+Dennise Graham,Female,44,1.94,59,110000,Russian,RU,Russia,AutoIt,,,Dennise,Graham
+Dennise Schmidt,Female,50,1.65,55,57000,Russian,RU,Russia,Ceylon,OCaml,haXe,Dennise,Schmidt
+Denny Harris,Female,31,1.86,84,115000,Taiwanese,TW,Taiwan,Groovy,,,Denny,Harris
+Denver Pena,Male,63,1.5,53,127000,Australian,AU,Australia,Elixir,F#,haXe,Denver,Pena
+Denyse Rowe,Female,38,1.94,61,110000,German,DE,Germany,ASP,C Shell,,Denyse,Rowe
+Deonna Stanley,Female,41,1.69,58,90000,Bolivian,BO,Bolivia,PL-SQL,,,Deonna,Stanley
+Derick Brennan,Male,46,1.71,39,99000,Finnish,FI,Finland,PowerShell,Lisp,,Derick,Brennan
+Derick Pope,Male,60,1.75,77,102000,Israeli,IS,Israel,R,C Shell,,Derick,Pope
+Derrick Mcneil,Male,22,1.73,60,100000,Italian,IT,Italy,Caml,Objective-C,,Derrick,Mcneil
+Desire Dickerson,Female,23,1.62,88,54000,Israeli,IS,Israel,Delphi,,,Desire,Dickerson
+Detra Rocha,Female,54,1.94,46,81000,Cameroonian,CM,Cameroon,Scheme,PL-SQL,CoffeeScript,Detra,Rocha
+Devin Foreman,Male,55,1.74,74,89000,Taiwanese,TW,Taiwan,AutoIt,Tcl,F#,Devin,Foreman
+Devona Burke,Female,34,1.89,63,103000,Taiwanese,TW,Taiwan,,,,Devona,Burke
+Devona Chambers,Female,16,1.92,77,27000,Italian,IT,Italy,Delphi,,,Devona,Chambers
+Devona Hopkins,Female,36,1.93,44,131000,Iranian,IR,Iran,TypeScript,,,Devona,Hopkins
+Devona Hurst,Female,16,1.88,44,127000,Venezuelan,VE,Venezuela,Groovy,Smalltalk,PHP,Devona,Hurst
+Devona Perry,Female,29,1.86,83,151000,British,GB,United Kingdom,,,,Devona,Perry
+Devora Payne,Female,60,1.99,55,146000,Chinese,HK,Hong Kong,,,,Devora,Payne
+Dewitt Campos,Male,45,1.84,90,78000,Uruguayan,UY,Uruguay,,,,Dewitt,Campos
+Dexter Dudley,Male,52,1.63,67,50000,Taiwanese,TW,Taiwan,,,,Dexter,Dudley
+Diamond Williams,Female,33,1.85,57,114000,Greek,GR,Greece,Emacs Lisp,Go,Erlang,Diamond,Williams
+Dick Sanchez,Male,22,1.62,45,85000,Ethiopian,ET,Ethiopia,Erlang,Smalltalk,,Dick,Sanchez
+Diego Ballard,Male,22,1.58,39,134000,Dominican,DM,Dominica,,,,Diego,Ballard
+Dillon Hayes,Male,31,1.74,62,59000,Japanese,JP,Japan,Dart,,,Dillon,Hayes
+Dinorah O'brien,Female,48,1.76,51,138000,Swedish,SE,Sweden,Haskell,Objective-C,,Dinorah,O'brien
+Dion Sheppard,Female,39,1.73,48,137000,Iranian,IR,Iran,,,,Dion,Sheppard
+Dominick Wilson,Male,37,1.82,89,56000,Uruguayan,UY,Uruguay,,,,Dominick,Wilson
+Domonique Waller,Female,22,1.53,83,79000,Polish,PO,Poland,OCaml,,,Domonique,Waller
+Dong Walton,Male,59,1.78,49,154000,Dominican,DM,Dominica,Perl,Dart,Falcon,Dong,Walton
+Donn Chan,Male,58,1.8,48,162000,Irish,IE,Ireland,Scheme,,,Donn,Chan
+Donnette Galloway,Female,32,1.96,51,135000,Ethiopian,ET,Ethiopia,Racket,Objective-C,,Donnette,Galloway
+Donnie Blake,Male,41,1.75,59,176000,Ukrainian,UA,Ukraine,Elixir,,,Donnie,Blake
+Donnie Reilly,Male,54,1.77,51,91000,Danish,DK,Denmark,,,,Donnie,Reilly
+Dorathy Duran,Female,63,1.67,60,112000,Cambodian,CM,Cambodia,Java,Scala,,Dorathy,Duran
+Doretta Larson,Female,36,2.0,90,44000,Bolivian,BO,Bolivia,,,,Doretta,Larson
+Dorian Lloyd,Male,22,1.66,88,66000,Russian,RU,Russia,PL-SQL,Objective-C,Haskell,Dorian,Lloyd
+Dorian Simon,Male,23,1.9,55,142000,Russian,RU,Russia,,,,Dorian,Simon
+Dorian Yates,Male,21,1.83,82,63000,Chinese,CH,China,Clojure,Scala,haXe,Dorian,Yates
+Dorsey Lamb,Male,49,1.68,73,120000,German,DE,Germany,OCaml,,,Dorsey,Lamb
+Dorsey Norman,Male,52,1.76,45,115000,Swedish,SE,Sweden,,,,Dorsey,Norman
+Doug Bradshaw,Male,57,1.95,50,125000,Australian,AU,Australia,Julia,,,Doug,Bradshaw
+Douglas Harmon,Male,26,1.91,53,75000,Cuban,CU,Cuba,Common Lisp,,,Douglas,Harmon
+Douglass Finch,Male,20,1.75,50,105000,French,FR,France,,,,Douglass,Finch
+Douglass Morse,Male,38,1.6,66,123000,Swiss,CH,Switzerland,AutoIt,Haskell,Scheme,Douglass,Morse
+Douglass Weeks,Male,20,1.96,75,91000,Cameroonian,CM,Cameroon,Java,,,Douglass,Weeks
+Dreama Bruce,Female,24,1.63,50,87000,British,GB,United Kingdom,Racket,C++,R,Dreama,Bruce
+Dudley Bridges,Male,58,1.75,56,110000,Iranian,IR,Iran,CoffeeScript,OCaml,,Dudley,Bridges
+Dustin Parks,Male,33,1.78,51,130000,Chilean,CL,Chile,TypeScript,Emacs Lisp,C,Dustin,Parks
+Dusty Barton,Male,58,1.71,73,81000,Swiss,CH,Switzerland,,,,Dusty,Barton
+Earl Carey,Male,52,1.88,88,66000,Chilean,CL,Chile,,,,Earl,Carey
+Earl Montgomery,Male,60,1.94,85,87000,Egyptian,EG,Egypt,OCaml,Transact-SQL,ASP,Earl,Montgomery
+Earleen Moon,Female,32,1.76,50,120000,Swiss,CH,Switzerland,Bash,,,Earleen,Moon
+Earlie Martinez,Female,50,1.95,69,62000,Estonian,EE,Estonia,,,,Earlie,Martinez
+Ebonie Buckley,Female,36,1.6,87,70000,Cambodian,CM,Cambodia,,,,Ebonie,Buckley
+Ebonie Langley,Female,20,1.81,85,62000,Finnish,FI,Finland,JavaScript,Prolog,,Ebonie,Langley
+Edgardo Gates,Male,50,1.89,55,166000,Japanese,JP,Japan,AutoIt,Julia,,Edgardo,Gates
+Edgardo Salinas,Male,20,1.98,62,89000,Irish,IE,Ireland,Tcl,,,Edgardo,Salinas
+Edward Sherman,Male,63,1.56,82,101000,Mexican,ME,Mexico,F#,Haskell,Mathematica,Edward,Sherman
+Edwin Wallace,Male,27,1.65,57,60000,Ukrainian,UA,Ukraine,GNU Octave,,,Edwin,Wallace
+Efren Velasquez,Male,30,1.93,56,93000,German,DE,Germany,Objective-C,Z shell,,Efren,Velasquez
+Ehtel Hernandez,Female,66,1.96,77,55000,Bolivian,BO,Bolivia,Awk,,,Ehtel,Hernandez
+Eladia Gibson,Female,63,1.59,60,83000,Mexican,ME,Mexico,Prolog,Awk,,Eladia,Gibson
+Elden Carver,Male,39,1.7,84,50000,Swedish,SE,Sweden,,,,Elden,Carver
+Eleonora Cochran,Female,65,1.89,63,60000,Cambodian,CM,Cambodia,F#,,,Eleonora,Cochran
+Elfrieda Fox,Female,35,1.97,39,81000,British,GB,United Kingdom,Emacs Lisp,C,C Shell,Elfrieda,Fox
+Eliana Roman,Female,46,1.71,63,86000,German,DE,Germany,PowerShell,,,Eliana,Roman
+Elias Baxter,Male,19,1.9,63,109000,Estonian,EE,Estonia,,,,Elias,Baxter
+Elijah Hines,Male,35,1.73,69,131000,Australian,AU,Australia,Elixir,,,Elijah,Hines
+Elina Miles,Female,37,1.72,59,110000,Ukrainian,UA,Ukraine,Lua,,,Elina,Miles
+Eliseo Harmon,Male,33,1.87,44,131000,Cameroonian,CM,Cameroon,C#,C Shell,,Eliseo,Harmon
+Elisha Holden,Male,58,1.84,65,58000,Russian,RU,Russia,R,,,Elisha,Holden
+Elisha Kelley,Male,49,1.85,57,114000,Finnish,FI,Finland,PL-I,Caml,Falcon,Elisha,Kelley
+Elke Cunningham,Female,36,1.54,51,95000,Dominican,DM,Dominica,Z shell,,,Elke,Cunningham
+Elliott Nelson,Male,55,1.81,74,51000,Mexican,ME,Mexico,ECMAScript,C++,PowerShell,Elliott,Nelson
+Elliott O'donnell,Male,48,1.58,38,106000,Finnish,FI,Finland,,,,Elliott,O'donnell
+Ellsworth Blankenship,Male,31,1.96,74,76000,Bolivian,BO,Bolivia,F#,,,Ellsworth,Blankenship
+Ellsworth Jackson,Male,33,1.51,87,155000,Belgian,BE,Belgium,Io,Ruby,Prolog,Ellsworth,Jackson
+Elmer Ferrell,Female,51,1.55,78,72000,Irish,IE,Ireland,D,ECMAScript,Scheme,Elmer,Ferrell
+Elmer Richard,Male,17,1.9,49,102000,Dominican,DM,Dominica,,,,Elmer,Richard
+Elmo Coffey,Male,51,1.8,44,76000,Cambodian,CM,Cambodia,Perl,,,Elmo,Coffey
+Elmo Vinson,Male,54,1.79,54,78000,Costa Rican,CR,Costa Rica,Fortran,Dylan,,Elmo,Vinson
+Elois Abbott,Female,21,1.82,74,108000,Swiss,CH,Switzerland,Tex,Delphi,,Elois,Abbott
+Eloy Fox,Male,50,1.85,87,101000,Cuban,CU,Cuba,F#,GNU Octave,OCaml,Eloy,Fox
+Elsy Swanson,Female,34,1.71,53,97000,Russian,RU,Russia,Tex,Haskell,Ceylon,Elsy,Swanson
+Elton Blackburn,Male,43,1.98,39,125000,Estonian,EE,Estonia,Smalltalk,,,Elton,Blackburn
+Elton Hart,Male,16,1.64,70,114000,Jordanian,JO,Jordan,,,,Elton,Hart
+Elton Potts,Male,18,1.8,86,69000,Russian,RU,Russia,,,,Elton,Potts
+Elvie Mccoy,Female,27,1.58,47,137000,Egyptian,EG,Egypt,Julia,Julia,,Elvie,Mccoy
+Elvis Love,Male,36,1.8,90,87000,Finnish,FI,Finland,,,,Elvis,Love
+Elza Riddle,Female,65,1.62,38,62000,Estonian,EE,Estonia,F#,Ceylon,,Elza,Riddle
+Ema Sosa,Female,60,1.64,72,107000,Venezuelan,VE,Venezuela,,,,Ema,Sosa
+Emerson Mckenzie,Male,37,1.91,84,190000,Venezuelan,VE,Venezuela,Haskell,J#,Bash,Emerson,Mckenzie
+Emerson Parsons,Male,33,1.85,79,114000,Iranian,IR,Iran,,,,Emerson,Parsons
+Emerson Richard,Male,36,1.85,48,158000,Taiwanese,TW,Taiwan,,,,Emerson,Richard
+Emiko Johnson,Female,46,1.99,71,120000,Mexican,ME,Mexico,Go,haXe,Objective-C,Emiko,Johnson
+Emilee Black,Female,41,1.86,53,89000,Swiss,CH,Switzerland,C Shell,,,Emilee,Black
+Emmaline Sutton,Female,22,1.63,47,85000,Irish,IE,Ireland,,,,Emmaline,Sutton
+Emory Farley,Male,62,1.77,55,117000,Costa Rican,CR,Costa Rica,Scala,Ceylon,C Shell,Emory,Farley
+Emory Rutledge,Male,66,1.73,64,177000,Venezuelan,VE,Venezuela,,,,Emory,Rutledge
+Enola Pope,Female,50,1.54,75,99000,British,GB,United Kingdom,R,haXe,,Enola,Pope
+Eric Sharp,Female,47,1.8,56,113000,Japanese,JP,Japan,Objective-C,PowerShell,Caml,Eric,Sharp
+Erin Oliver,Male,63,2.0,89,63000,Irish,IE,Ireland,Ruby,GNU Octave,Transact-SQL,Erin,Oliver
+Ermelinda Pittman,Female,48,1.69,45,69000,Jordanian,JO,Jordan,ECMAScript,,,Ermelinda,Pittman
+Ernest Olsen,Male,56,1.63,44,83000,Jordanian,JO,Jordan,Common Lisp,Objective-C,F#,Ernest,Olsen
+Ernesto Harrington,Male,33,1.56,62,69000,Ukrainian,UA,Ukraine,,,,Ernesto,Harrington
+Ernie Acevedo,Male,53,1.57,86,71000,Danish,DK,Denmark,,,,Ernie,Acevedo
+Ernie Ross,Male,47,1.74,39,106000,Jordanian,JO,Jordan,Smalltalk,Falcon,Caml,Ernie,Ross
+Errol Sims,Male,66,1.79,64,64000,Mexican,ME,Mexico,PHP,C++,Prolog,Errol,Sims
+Errol Strong,Male,33,1.84,65,114000,Belgian,BE,Belgium,Fortran,C,,Errol,Strong
+Ervin Patterson,Male,31,1.56,39,82000,Venezuelan,VE,Venezuela,Ceylon,,,Ervin,Patterson
+Erwin Dixon,Male,52,1.99,62,123000,Estonian,EE,Estonia,R,,,Erwin,Dixon
+Etha Fuller,Female,33,1.74,85,65000,Finnish,FI,Finland,JavaScript,,,Etha,Fuller
+Ethan Frazier,Male,61,1.89,71,76000,British,GB,United Kingdom,,,,Ethan,Frazier
+Ethyl Wilkins,Female,40,1.71,51,109000,Belgian,BE,Belgium,AutoIt,,,Ethyl,Wilkins
+Etsuko Carlson,Female,23,1.55,52,113000,Cuban,CU,Cuba,ECMAScript,Fortran,D,Etsuko,Carlson
+Ettie Welch,Female,61,1.6,57,92000,Romanian,RO,Romania,C++,,,Ettie,Welch
+Eugene Gallegos,Male,17,1.51,55,91000,Iranian,IR,Iran,CoffeeScript,J#,,Eugene,Gallegos
+Eugene Hess,Male,43,1.6,62,121000,Cameroonian,CM,Cameroon,Delphi,Assembly,,Eugene,Hess
+Eulah Zamora,Female,30,1.74,47,168000,Costa Rican,CR,Costa Rica,Tcl,,,Eulah,Zamora
+Eura Anthony,Female,51,1.81,38,144000,Irish,IE,Ireland,Ruby,,,Eura,Anthony
+Eura Sutton,Female,34,1.59,85,114000,Taiwanese,TW,Taiwan,ASP,Ruby,,Eura,Sutton
+Eusebio Perez,Male,49,1.64,68,66000,Dutch,NL,Netherland,PowerShell,Java,,Eusebio,Perez
+Eusebio Wise,Male,25,1.9,49,130000,Ethiopian,ET,Ethiopia,,,,Eusebio,Wise
+Evan Dunn,Male,32,1.92,83,63000,Bolivian,BO,Bolivia,Tcl,Fortran,,Evan,Dunn
+Evan Monroe,Female,63,1.85,64,80000,Spanish,SP,Spain,D,PL-SQL,PowerShell,Evan,Monroe
+Eveline Levy,Female,35,1.99,64,135000,Irish,IE,Ireland,Awk,,,Eveline,Levy
+Everett Leon,Male,46,1.66,66,179000,Dutch,NL,Netherland,Scala,Scala,,Everett,Leon
+Everett Palmer,Male,53,1.51,79,89000,Swedish,SE,Sweden,Scala,,,Everett,Palmer
+Everett Watts,Male,58,1.93,70,75000,Japanese,JP,Japan,Transact-SQL,Scala,Objective-C,Everett,Watts
+Everette Garrison,Male,27,1.71,83,126000,Taiwanese,TW,Taiwan,Prolog,Falcon,,Everette,Garrison
+Evita Morse,Female,31,1.99,38,57000,German,DE,Germany,Lisp,GNU Octave,PL-I,Evita,Morse
+Ezekiel Contreras,Male,40,1.79,47,89000,Japanese,JP,Japan,,,,Ezekiel,Contreras
+Ezequiel Dejesus,Male,62,1.9,82,70000,Chinese,CH,China,PHP,,,Ezequiel,Dejesus
+Fabian Barrett,Male,32,1.93,79,107000,Polish,PO,Poland,PowerShell,,,Fabian,Barrett
+Fabian Hardin,Male,39,1.57,65,60000,French,FR,France,ECMAScript,Scala,,Fabian,Hardin
+Fabian Savage,Male,43,1.77,51,108000,Israeli,IS,Israel,JavaScript,GNU Octave,Prolog,Fabian,Savage
+Fae Holloway,Female,23,1.53,76,88000,Cambodian,CM,Cambodia,Clojure,ECMAScript,,Fae,Holloway
+Fairy Hendricks,Female,50,1.71,64,61000,Venezuelan,VE,Venezuela,AutoIt,Rust,ECMAScript,Fairy,Hendricks
+Faustino Malone,Male,39,1.71,50,98000,Chilean,CL,Chile,,,,Faustino,Malone
+Faustino Wiggins,Male,45,1.78,64,115000,Cameroonian,CM,Cameroon,Ruby,,,Faustino,Wiggins
+Federico Larsen,Male,52,1.85,83,92000,Venezuelan,VE,Venezuela,Z shell,Transact-SQL,,Federico,Larsen
+Ferdinand Gilmore,Male,50,1.96,78,92000,German,DE,Germany,haXe,,,Ferdinand,Gilmore
+Fermina Buckley,Female,47,1.64,46,87000,Cameroonian,CM,Cameroon,R,,,Fermina,Buckley
+Fidel Kline,Male,46,1.53,79,101000,British,GB,United Kingdom,,,,Fidel,Kline
+Filiberto Lang,Male,49,1.89,75,46000,Bolivian,BO,Bolivia,Smalltalk,PowerShell,Scala,Filiberto,Lang
+Florencio Merrill,Male,20,1.76,65,64000,Irish,IE,Ireland,D,Io,,Florencio,Merrill
+Florentino Case,Male,37,1.83,47,90000,Ethiopian,ET,Ethiopia,Perl,PL-I,,Florentino,Case
+Floretta Maxwell,Female,66,1.92,68,90000,Belgian,BE,Belgium,Z shell,Caml,Falcon,Floretta,Maxwell
+Florinda Rocha,Female,51,1.58,38,70000,Finnish,FI,Finland,Assembly,PL-SQL,Scala,Florinda,Rocha
+Floyd Robles,Male,34,1.84,59,112000,Swiss,CH,Switzerland,C,AutoIt,,Floyd,Robles
+France Justice,Female,23,1.75,54,120000,Danish,DK,Denmark,,,,France,Justice
+Francene Massey,Female,65,1.93,49,151000,Swiss,CH,Switzerland,Groovy,,,Francene,Massey
+Francene Mclean,Female,60,1.62,62,84000,Cuban,CU,Cuba,Mathematica,Tcl,JavaScript,Francene,Mclean
+Francene Patton,Female,46,1.95,69,176000,Russian,RU,Russia,Ceylon,,,Francene,Patton
+Frances Carpenter,Male,48,1.73,86,142000,Polish,PO,Poland,Kotlin,,,Frances,Carpenter
+Francesco Lang,Male,41,1.54,65,112000,Romanian,RO,Romania,Perl,,,Francesco,Lang
+Francesco Miles,Male,62,1.72,41,94000,Polish,PO,Poland,Haskell,Falcon,,Francesco,Miles
+Franchesca Wolfe,Female,45,1.92,88,78000,Greek,GR,Greece,,,,Franchesca,Wolfe
+Francie Gomez,Female,59,1.56,75,76000,Chilean,CL,Chile,Racket,,,Francie,Gomez
+Francina Abbott,Female,30,1.64,65,76000,Cuban,CU,Cuba,,,,Francina,Abbott
+Francina Peterson,Female,63,1.81,39,89000,Dutch,NL,Netherland,,,,Francina,Peterson
+Frank Long,Female,48,1.91,46,94000,Israeli,IS,Israel,,,,Frank,Long
+Frank Parker,Female,57,1.8,52,97000,Venezuelan,VE,Venezuela,F#,,,Frank,Parker
+Frankie Morse,Male,20,1.92,59,112000,Taiwanese,TW,Taiwan,Racket,Prolog,Groovy,Frankie,Morse
+Frankie Robertson,Male,34,1.85,56,71000,Russian,RU,Russia,D,Python,,Frankie,Robertson
+Franklyn Richardson,Male,23,1.66,68,67000,Bolivian,BO,Bolivia,Caml,Bash,,Franklyn,Richardson
+Fredda Hicks,Female,61,1.78,74,123000,Irish,IE,Ireland,PowerShell,C,ECMAScript,Fredda,Hicks
+Fredda Pollard,Female,35,1.75,68,123000,Greek,GR,Greece,Fortran,,,Fredda,Pollard
+Freddy Goodwin,Male,62,1.65,49,88000,Danish,DK,Denmark,Io,ECMAScript,,Freddy,Goodwin
+Frederick Graham,Male,48,1.87,47,61000,Jordanian,JO,Jordan,Elixir,,,Frederick,Graham
+Fredia Bush,Female,48,1.67,88,78000,Dominican,DM,Dominica,D,,,Fredia,Bush
+Freeda Stone,Female,38,1.92,41,133000,British,GB,United Kingdom,R,,,Freeda,Stone
+Gabriel Brennan,Male,56,1.8,73,93000,Dominican,DM,Dominica,,,,Gabriel,Brennan
+Gail Vaughn,Male,19,1.55,79,69000,Venezuelan,VE,Venezuela,Kotlin,ECMAScript,C++,Gail,Vaughn
+Galen Hobbs,Male,34,1.53,71,69000,Canadian,CA,Canada,Scheme,,,Galen,Hobbs
+Galen Munoz,Male,51,1.93,80,133000,German,DE,Germany,Transact-SQL,ECMAScript,,Galen,Munoz
+Garfield Hester,Male,26,1.79,58,110000,Egyptian,EG,Egypt,PowerShell,,,Garfield,Hester
+Garfield Montoya,Male,32,1.71,58,89000,Greek,GR,Greece,Java,Assembly,Scala,Garfield,Montoya
+Garland Roth,Male,41,1.72,85,103000,Finnish,FI,Finland,Java,Smalltalk,,Garland,Roth
+Gavin Miranda,Male,32,1.63,77,74000,Uruguayan,UY,Uruguay,ASP,Go,Perl,Gavin,Miranda
+Gaylord Cortez,Male,38,1.95,48,60000,Dominican,DM,Dominica,PowerShell,Bash,J#,Gaylord,Cortez
+Gearldine Hughes,Female,57,1.9,52,91000,Canadian,CA,Canada,Ruby,Scala,ECMAScript,Gearldine,Hughes
+Genaro Ballard,Male,16,1.73,41,186000,Spanish,SP,Spain,Scheme,,,Genaro,Ballard
+Genaro Dominguez,Male,29,1.81,50,121000,Cuban,CU,Cuba,Z shell,,,Genaro,Dominguez
+Genesis Rollins,Female,17,1.56,63,68000,Ukrainian,UA,Ukraine,,,,Genesis,Rollins
+Genevive Burgess,Female,45,1.74,61,55000,French,FR,France,Ruby,,,Genevive,Burgess
+Genia Dunlap,Female,19,1.51,45,75000,German,DE,Germany,CoffeeScript,Dart,Scheme,Genia,Dunlap
+Genia Lynch,Female,32,1.65,56,128000,Estonian,EE,Estonia,Bash,,,Genia,Lynch
+Gennie Shepard,Female,32,1.79,39,75000,Swedish,SE,Sweden,PHP,haXe,,Gennie,Shepard
+George Carrillo,Male,46,1.6,44,60000,German,DE,Germany,JavaScript,Go,Objective-C,George,Carrillo
+George Massey,Male,55,1.87,38,54000,Danish,DK,Denmark,C#,Lua,,George,Massey
+Gerald Collins,Male,41,1.6,39,85000,Mexican,ME,Mexico,Prolog,,,Gerald,Collins
+Gerald Floyd,Female,46,1.6,86,66000,Egyptian,EG,Egypt,Dylan,Go,,Gerald,Floyd
+Gerald Glenn,Male,47,1.76,66,128000,Dominican,DM,Dominica,Smalltalk,,,Gerald,Glenn
+Gerald Poole,Male,43,1.66,90,60000,Cambodian,CM,Cambodia,GNU Octave,TypeScript,,Gerald,Poole
+Geraldo Jordan,Male,35,1.77,78,154000,Cuban,CU,Cuba,CoffeeScript,C,PowerShell,Geraldo,Jordan
+Gerardo Chambers,Male,26,1.53,68,50000,Japanese,JP,Japan,,,,Gerardo,Chambers
+Gerardo Haynes,Male,56,1.97,78,68000,Mexican,ME,Mexico,ASP,,,Gerardo,Haynes
+Gerardo Madden,Male,48,1.88,39,97000,Chilean,CL,Chile,Tex,,,Gerardo,Madden
+Gerry Roberson,Male,63,1.68,79,93000,Romanian,RO,Romania,Dart,,,Gerry,Roberson
+Ghislaine Battle,Female,31,1.85,49,100000,Canadian,CA,Canada,Java,,,Ghislaine,Battle
+Gilbert Byrd,Male,41,1.63,53,60000,Cambodian,CM,Cambodia,Python,Smalltalk,,Gilbert,Byrd
+Gilberto Hampton,Male,28,1.68,59,35000,Swedish,SE,Sweden,Tex,GNU Octave,Python,Gilberto,Hampton
+Gilberto Rosa,Male,30,1.76,88,79000,Ukrainian,UA,Ukraine,Scheme,Groovy,,Gilberto,Rosa
+Giovanni Lloyd,Male,34,1.74,38,90000,Estonian,EE,Estonia,Prolog,Dart,,Giovanni,Lloyd
+Gita Long,Female,30,1.7,80,124000,Spanish,SP,Spain,,,,Gita,Long
+Giuseppe Keller,Male,63,1.95,42,45000,Greek,GR,Greece,GNU Octave,C Shell,CoffeeScript,Giuseppe,Keller
+Giuseppe Ortega,Male,17,1.71,53,163000,French,FR,France,Objective-C,,,Giuseppe,Ortega
+Giuseppe Simon,Male,36,1.65,78,120000,Swedish,SE,Sweden,Rust,,,Giuseppe,Simon
+Glen Hawkins,Male,51,1.94,38,102000,Australian,AU,Australia,haXe,Python,,Glen,Hawkins
+Glenn Alvarez,Male,53,1.59,48,175000,French,FR,France,,,,Glenn,Alvarez
+Glenn Foreman,Male,19,1.72,71,96000,Taiwanese,TW,Taiwan,Lisp,Perl,Scheme,Glenn,Foreman
+Glenn Marshall,Male,64,1.81,55,90000,Dominican,DM,Dominica,CoffeeScript,F#,,Glenn,Marshall
+Gonzalo House,Male,42,1.81,44,114000,Danish,DK,Denmark,AutoIt,Perl,,Gonzalo,House
+Grady Walters,Male,50,1.91,75,154000,Mexican,ME,Mexico,JavaScript,,,Grady,Walters
+Grant Townsend,Male,66,1.83,89,41000,Spanish,SP,Spain,C#,Elixir,,Grant,Townsend
+Gregory Ray,Male,42,1.93,60,96000,French,FR,France,AutoIt,Caml,haXe,Gregory,Ray
+Guadalupe Bender,Male,32,1.67,41,117000,Brazilian,BR,Brazil,,,,Guadalupe,Bender
+Guillermo Herring,Male,53,1.74,46,162000,Dutch,NL,Netherland,Io,Perl,,Guillermo,Herring
+Gustavo Norton,Male,51,1.85,85,76000,Venezuelan,VE,Venezuela,,,,Gustavo,Norton
+Gwenn Bates,Female,36,1.85,57,81000,Ethiopian,ET,Ethiopia,Assembly,,,Gwenn,Bates
+Hai Myers,Male,66,1.72,83,130000,Finnish,FI,Finland,Falcon,Prolog,C Shell,Hai,Myers
+Hal Allison,Male,28,1.88,78,92000,Irish,IE,Ireland,,,,Hal,Allison
+Hal Simpson,Male,31,1.87,39,84000,Cuban,CU,Cuba,Groovy,,,Hal,Simpson
+Hank Avery,Male,60,1.68,63,122000,Mexican,ME,Mexico,Delphi,,,Hank,Avery
+Hans Rosales,Male,33,1.59,66,117000,Japanese,JP,Japan,,,,Hans,Rosales
+Harland Walters,Male,25,1.93,41,98000,Iranian,IR,Iran,JavaScript,,,Harland,Walters
+Harley Houston,Male,61,1.96,46,84000,Australian,AU,Australia,Delphi,Java,,Harley,Houston
+Harmony Morrison,Female,27,1.87,68,82000,Japanese,JP,Japan,Java,Common Lisp,,Harmony,Morrison
+Harold Mcmillan,Male,46,1.94,55,165000,Costa Rican,CR,Costa Rica,,,,Harold,Mcmillan
+Harris Knowles,Male,58,1.94,89,119000,Ethiopian,ET,Ethiopia,Lua,,,Harris,Knowles
+Harrison Contreras,Male,55,1.65,53,95000,Cuban,CU,Cuba,,,,Harrison,Contreras
+Hassan Weiss,Male,33,1.67,66,85000,Ukrainian,UA,Ukraine,Lua,Java,,Hassan,Weiss
+Hayden Daniel,Male,64,1.75,73,123000,Estonian,EE,Estonia,,,,Hayden,Daniel
+Hayden Guerrero,Male,64,1.7,87,100000,Cambodian,CM,Cambodia,,,,Hayden,Guerrero
+Haywood Lane,Male,46,1.54,80,95000,Costa Rican,CR,Costa Rica,GNU Octave,Groovy,Caml,Haywood,Lane
+Hee Houston,Female,58,1.84,56,99000,Australian,AU,Australia,,,,Hee,Houston
+Henry Morgan,Male,56,1.99,44,54000,Russian,RU,Russia,AutoIt,PHP,,Henry,Morgan
+Herb Wiggins,Male,40,1.91,78,81000,Greek,GR,Greece,GNU Octave,CoffeeScript,,Herb,Wiggins
+Herman Marks,Male,37,1.69,78,131000,Ethiopian,ET,Ethiopia,,,,Herman,Marks
+Hermila Beard,Female,38,1.78,78,66000,Romanian,RO,Romania,,,,Hermila,Beard
+Hermina Alvarez,Female,54,1.89,40,81000,Venezuelan,VE,Venezuela,,,,Hermina,Alvarez
+Hermina Ayala,Female,42,1.81,40,75000,Dutch,NL,Netherland,Awk,Bash,Dart,Hermina,Ayala
+Hien Lewis,Female,30,1.79,65,66000,Egyptian,EG,Egypt,Ruby,,,Hien,Lewis
+Hilma Booth,Female,64,1.53,57,125000,Swiss,CH,Switzerland,Rust,Bash,,Hilma,Booth
+Hipolito Porter,Male,66,1.88,85,96000,Cameroonian,CM,Cameroon,,,,Hipolito,Porter
+Hiram Strickland,Male,36,1.9,62,119000,Israeli,IS,Israel,,,,Hiram,Strickland
+Hobert Hebert,Male,18,1.71,73,111000,Iranian,IR,Iran,C#,,,Hobert,Hebert
+Holley Simpson,Female,63,1.75,72,120000,Uruguayan,UY,Uruguay,,,,Holley,Simpson
+Hollis Hayden,Female,40,1.8,84,95000,Ukrainian,UA,Ukraine,Falcon,Tex,,Hollis,Hayden
+Hollis Klein,Female,48,1.84,51,118000,Swedish,SE,Sweden,Mathematica,,,Hollis,Klein
+Hollis Taylor,Female,50,1.75,84,142000,German,DE,Germany,GNU Octave,Python,,Hollis,Taylor
+Hosea Cash,Male,66,1.64,51,77000,Swedish,SE,Sweden,C#,Ruby,Dylan,Hosea,Cash
+Howard Flores,Male,58,1.66,82,111000,Canadian,CA,Canada,,,,Howard,Flores
+Hsiu Crawford,Female,32,1.59,49,103000,Cuban,CU,Cuba,,,,Hsiu,Crawford
+Hue Logan,Female,51,1.83,45,145000,Cambodian,CM,Cambodia,,,,Hue,Logan
+Hugh Larson,Male,49,1.6,85,64000,Estonian,EE,Estonia,haXe,R,Prolog,Hugh,Larson
+Hyacinth Herring,Female,28,1.5,59,87000,Taiwanese,TW,Taiwan,,,,Hyacinth,Herring
+Hyacinth Young,Female,17,1.8,73,52000,Bolivian,BO,Bolivia,Perl,,,Hyacinth,Young
+Hyman Boyle,Male,54,1.78,66,64000,Japanese,JP,Japan,Ceylon,Io,,Hyman,Boyle
+Ignacio Webb,Male,42,1.75,76,104000,Dutch,NL,Netherland,,,,Ignacio,Webb
+Ike Vinson,Male,42,1.64,64,193000,Dutch,NL,Netherland,ASP,TypeScript,,Ike,Vinson
+Iluminada Zimmerman,Female,30,1.97,73,84000,Polish,PO,Poland,Go,haXe,,Iluminada,Zimmerman
+Indira Campos,Female,19,1.79,52,80000,Mexican,ME,Mexico,Scala,Racket,Go,Indira,Campos
+Indira Wilkinson,Female,50,1.76,78,178000,Dominican,DM,Dominica,Erlang,OCaml,,Indira,Wilkinson
+Inell Jones,Female,30,1.81,38,83000,Ethiopian,ET,Ethiopia,,,,Inell,Jones
+Ira Wade,Male,33,1.82,41,153000,Costa Rican,CR,Costa Rica,,,,Ira,Wade
+Irina Franklin,Female,16,1.75,88,86000,Finnish,FI,Finland,Falcon,R,haXe,Irina,Franklin
+Isaac Wise,Male,56,1.6,60,164000,Finnish,FI,Finland,CoffeeScript,C Shell,,Isaac,Wise
+Isaiah Parks,Male,18,1.87,48,55000,Brazilian,BR,Brazil,Clojure,Objective-C,CoffeeScript,Isaiah,Parks
+Isaias Craft,Male,44,1.86,38,186000,Costa Rican,CR,Costa Rica,,,,Isaias,Craft
+Isaias Porter,Male,60,1.74,39,77000,Egyptian,EG,Egypt,Java,,,Isaias,Porter
+Isela Holmes,Female,54,1.61,76,82000,Iranian,IR,Iran,Perl,Common Lisp,,Isela,Holmes
+Isidro Francis,Male,63,1.75,68,106000,Iranian,IR,Iran,,,,Isidro,Francis
+Ismael Irwin,Male,26,1.61,89,102000,Bolivian,BO,Bolivia,Java,Kotlin,ASP,Ismael,Irwin
+Isobel Herman,Female,66,1.96,75,55000,Irish,IE,Ireland,,,,Isobel,Herman
+Issac Glover,Male,18,1.66,55,117000,Ethiopian,ET,Ethiopia,Haskell,,,Issac,Glover
+Issac Lawrence,Male,53,1.93,72,66000,Brazilian,BR,Brazil,Common Lisp,ECMAScript,,Issac,Lawrence
+Ivan Knapp,Male,45,1.6,43,126000,Cuban,CU,Cuba,ASP,,,Ivan,Knapp
+Ivey Abbott,Female,55,1.66,54,80000,Cameroonian,CM,Cameroon,CoffeeScript,Dylan,,Ivey,Abbott
+Izola Ball,Female,16,1.85,44,115000,French,FR,France,Mathematica,,,Izola,Ball
+Jacinda Anderson,Female,36,1.6,53,110000,Russian,RU,Russia,JavaScript,Prolog,,Jacinda,Anderson
+Jacinto Patterson,Male,55,1.87,38,96000,Australian,AU,Australia,C,,,Jacinto,Patterson
+Jacinto Watkins,Male,24,1.88,63,91000,Italian,IT,Italy,D,,,Jacinto,Watkins
+Jackeline Sykes,Female,34,1.59,43,106000,Dutch,NL,Netherland,Objective-C,C,,Jackeline,Sykes
+Jackelyn Kelly,Female,42,1.9,66,44000,Costa Rican,CR,Costa Rica,Racket,Perl,Kotlin,Jackelyn,Kelly
+Jacki Massey,Female,26,1.65,74,82000,Costa Rican,CR,Costa Rica,,,,Jacki,Massey
+Jackie Crawford,Male,37,1.93,77,137000,Jordanian,JO,Jordan,Bash,Haskell,,Jackie,Crawford
+Jackqueline Thomas,Female,66,1.79,38,45000,Taiwanese,TW,Taiwan,Ruby,Haskell,,Jackqueline,Thomas
+Jacquelyne Johnston,Female,20,1.8,50,86000,French,FR,France,,,,Jacquelyne,Johnston
+Jacquelynn Marquez,Female,58,1.53,70,155000,Cuban,CU,Cuba,PowerShell,Dart,Racket,Jacquelynn,Marquez
+Jacquetta Jefferson,Female,62,1.93,84,147000,Mexican,ME,Mexico,CoffeeScript,Kotlin,R,Jacquetta,Jefferson
+Jacqui Macdonald,Female,33,1.99,54,47000,Dominican,DM,Dominica,Assembly,Scheme,,Jacqui,Macdonald
+Jacquie Santana,Female,56,1.79,59,105000,Cambodian,CM,Cambodia,C Shell,Kotlin,Io,Jacquie,Santana
+Jae Mccall,Male,41,1.58,86,130000,Finnish,FI,Finland,Lisp,,,Jae,Mccall
+Jae Mckenzie,Male,27,1.69,70,109000,Australian,AU,Australia,Kotlin,D,,Jae,Mckenzie
+Jake Miller,Male,38,1.54,80,125000,Dominican,DM,Dominica,,,,Jake,Miller
+Jalisa Clark,Female,65,1.74,64,103000,Belgian,BE,Belgium,Kotlin,Erlang,Caml,Jalisa,Clark
+Jama Ware,Female,53,1.73,52,175000,Venezuelan,VE,Venezuela,Falcon,,,Jama,Ware
+Jamaal Yang,Male,36,1.91,60,90000,Swiss,CH,Switzerland,GNU Octave,R,Elixir,Jamaal,Yang
+Jamal Miles,Male,18,1.64,45,100000,Chilean,CL,Chile,Clojure,Smalltalk,,Jamal,Miles
+Jamal Workman,Male,36,1.8,46,145000,Italian,IT,Italy,Scala,,,Jamal,Workman
+Jamar Adams,Male,28,1.63,82,51000,Estonian,EE,Estonia,Z shell,,,Jamar,Adams
+Jamar Vincent,Male,53,1.86,89,74000,Bolivian,BO,Bolivia,,,,Jamar,Vincent
+Jamee Mayer,Female,50,1.59,41,152000,Mexican,ME,Mexico,,,,Jamee,Mayer
+James Leblanc,Male,19,1.68,57,119000,Russian,RU,Russia,F#,Python,Ruby,James,Leblanc
+James Morin,Male,35,1.89,38,63000,Italian,IT,Italy,,,,James,Morin
+Jamey Zamora,Male,59,1.69,45,69000,Romanian,RO,Romania,,,,Jamey,Zamora
+Jamika Ballard,Female,44,1.62,84,87000,French,FR,France,PL-I,GNU Octave,Elixir,Jamika,Ballard
+Janee Compton,Female,63,1.81,45,134000,Iranian,IR,Iran,,,,Janee,Compton
+Janene Edwards,Female,62,1.86,80,154000,Venezuelan,VE,Venezuela,Rust,,,Janene,Edwards
+Janene Randolph,Female,30,1.75,77,106000,Australian,AU,Australia,,,,Janene,Randolph
+Janessa Chan,Female,41,1.81,73,170000,French,FR,France,Falcon,Z shell,ECMAScript,Janessa,Chan
+Jani Charles,Female,44,1.69,83,81000,Danish,DK,Denmark,Tex,,,Jani,Charles
+Jann Warner,Female,18,1.58,82,71000,Romanian,RO,Romania,F#,Common Lisp,haXe,Jann,Warner
+Jared Griffin,Male,26,2.0,85,100000,Irish,IE,Ireland,Python,CoffeeScript,C Shell,Jared,Griffin
+Jarod Hatfield,Male,60,1.93,46,82000,Uruguayan,UY,Uruguay,Common Lisp,,,Jarod,Hatfield
+Jarred Conley,Male,32,1.62,57,111000,Costa Rican,CR,Costa Rica,PHP,,,Jarred,Conley
+Jarred Garza,Male,63,1.56,82,101000,Egyptian,EG,Egypt,,,,Jarred,Garza
+Jarrett Alford,Male,66,1.76,55,123000,Chilean,CL,Chile,Emacs Lisp,,,Jarrett,Alford
+Jarrod Fulton,Male,58,1.52,78,124000,Polish,PO,Poland,Transact-SQL,AutoIt,Caml,Jarrod,Fulton
+Jarrod Hall,Male,53,1.75,81,143000,Irish,IE,Ireland,Prolog,Lua,Dylan,Jarrod,Hall
+Jasper Erickson,Male,66,1.62,39,98000,Chilean,CL,Chile,Prolog,Erlang,C++,Jasper,Erickson
+Jasper Pollard,Male,58,1.59,38,75000,Taiwanese,TW,Taiwan,Mathematica,,,Jasper,Pollard
+Jay Santana,Male,27,1.65,77,111000,Israeli,IS,Israel,GNU Octave,Haskell,Ceylon,Jay,Santana
+Jay Tyler,Male,30,1.92,63,77000,Swiss,CH,Switzerland,,,,Jay,Tyler
+Jaymie Townsend,Female,42,1.58,77,88000,Venezuelan,VE,Venezuela,,,,Jaymie,Townsend
+Jayson Stephenson,Male,59,1.63,80,101000,Swedish,SE,Sweden,Lua,,,Jayson,Stephenson
+Jazmine Hahn,Female,29,1.53,75,135000,Polish,PO,Poland,Lisp,GNU Octave,Dylan,Jazmine,Hahn
+Jeanelle Baker,Female,50,1.8,56,144000,Bolivian,BO,Bolivia,PL-I,,,Jeanelle,Baker
+Jeanmarie Whitley,Female,39,1.87,39,121000,Uruguayan,UY,Uruguay,Tex,R,C Shell,Jeanmarie,Whitley
+Jed Chaney,Male,40,1.69,85,97000,Swedish,SE,Sweden,Mathematica,,,Jed,Chaney
+Jed West,Male,55,1.84,65,129000,Dutch,NL,Netherland,Tex,PHP,TypeScript,Jed,West
+Jefferey Mclean,Male,23,1.61,78,66000,Cuban,CU,Cuba,C Shell,Falcon,Mathematica,Jefferey,Mclean
+Jefferson Murray,Male,61,1.91,78,131000,French,FR,France,,,,Jefferson,Murray
+Jen Rodgers,Female,61,1.9,42,99000,Uruguayan,UY,Uruguay,,,,Jen,Rodgers
+Jeneva Parker,Female,32,1.98,90,61000,Cambodian,CM,Cambodia,Lisp,Io,Perl,Jeneva,Parker
+Jennefer Knapp,Female,26,1.76,67,111000,Danish,DK,Denmark,Ceylon,,,Jennefer,Knapp
+Jennine Carter,Female,22,1.54,67,122000,Polish,PO,Poland,R,Delphi,,Jennine,Carter
+Jerald Lang,Male,39,1.87,62,135000,Swedish,SE,Sweden,,,,Jerald,Lang
+Jeremiah Mcbride,Male,28,1.64,86,105000,Chinese,HK,Hong Kong,,,,Jeremiah,Mcbride
+Jeremy Walton,Male,23,1.61,87,89000,Iranian,IR,Iran,C Shell,,,Jeremy,Walton
+Jermaine Suarez,Male,65,1.8,79,119000,Mexican,ME,Mexico,PL-I,PL-SQL,,Jermaine,Suarez
+Jerold Sweeney,Male,22,1.59,64,116000,Swedish,SE,Sweden,Groovy,Lua,Prolog,Jerold,Sweeney
+Jerome Finley,Male,38,1.99,84,89000,Cuban,CU,Cuba,,,,Jerome,Finley
+Jeromy Fisher,Male,53,1.81,55,143000,Ethiopian,ET,Ethiopia,,,,Jeromy,Fisher
+Jerrica Delacruz,Female,63,1.99,48,60000,Venezuelan,VE,Venezuela,AutoIt,,,Jerrica,Delacruz
+Jerry Fisher,Male,66,1.94,51,107000,Egyptian,EG,Egypt,C Shell,C#,Ceylon,Jerry,Fisher
+Jerry Noble,Male,38,1.79,41,83000,Danish,DK,Denmark,PL-SQL,Haskell,Ruby,Jerry,Noble
+Jesenia Luna,Female,55,1.51,84,109000,British,GB,United Kingdom,Tcl,,,Jesenia,Luna
+Jesenia Wynn,Female,20,1.77,78,145000,Swiss,CH,Switzerland,Io,,,Jesenia,Wynn
+Jessi Stevenson,Female,30,1.55,57,111000,Venezuelan,VE,Venezuela,GNU Octave,Dart,Io,Jessi,Stevenson
+Jestine Huff,Female,25,1.93,80,98000,British,GB,United Kingdom,PL-SQL,C,,Jestine,Huff
+Jesus Michael,Male,21,1.52,67,103000,Cambodian,CM,Cambodia,PHP,,,Jesus,Michael
+Jesus Morrison,Male,61,1.86,81,143000,Israeli,IS,Israel,Mathematica,Groovy,Assembly,Jesus,Morrison
+Jimmy Watkins,Female,20,1.95,40,96000,Costa Rican,CR,Costa Rica,Tcl,Prolog,,Jimmy,Watkins
+Joannie Brady,Female,44,1.74,90,126000,Costa Rican,CR,Costa Rica,Perl,Fortran,,Joannie,Brady
+Jodee Gibson,Female,42,1.56,59,115000,Taiwanese,TW,Taiwan,,,,Jodee,Gibson
+Jodee Gonzales,Female,52,1.76,85,82000,Danish,DK,Denmark,Rust,,,Jodee,Gonzales
+Jody Martinez,Male,22,1.7,78,41000,German,DE,Germany,,,,Jody,Martinez
+Joel Coffey,Male,61,1.75,87,100000,Cambodian,CM,Cambodia,Rust,Julia,,Joel,Coffey
+Joesph Everett,Male,37,1.63,77,72000,Venezuelan,VE,Venezuela,,,,Joesph,Everett
+Joesph Joyner,Male,25,1.59,38,88000,Canadian,CA,Canada,J#,Kotlin,C++,Joesph,Joyner
+John Hines,Male,59,1.83,72,50000,Uruguayan,UY,Uruguay,C Shell,,,John,Hines
+John Howell,Male,53,1.79,42,104000,Australian,AU,Australia,Io,OCaml,Lisp,John,Howell
+Johna Holloway,Female,51,1.76,47,90000,Iranian,IR,Iran,C++,,,Johna,Holloway
+Johnathan Avila,Male,28,1.63,59,98000,British,GB,United Kingdom,Mathematica,Bash,,Johnathan,Avila
+Johnathan Norris,Male,64,1.85,39,69000,Irish,IE,Ireland,Assembly,Io,,Johnathan,Norris
+Johnette Sherman,Female,26,1.64,68,82000,Romanian,RO,Romania,,,,Johnette,Sherman
+Johnnie Leblanc,Male,46,1.62,81,110000,Chinese,HK,Hong Kong,Mathematica,,,Johnnie,Leblanc
+Johnny Duncan,Female,41,1.74,60,125000,Japanese,JP,Japan,Smalltalk,,,Johnny,Duncan
+Jolyn Crosby,Female,40,1.82,66,77000,Russian,RU,Russia,,,,Jolyn,Crosby
+Jon Hebert,Female,34,1.8,86,118000,Brazilian,BR,Brazil,TypeScript,Transact-SQL,,Jon,Hebert
+Jordan Knapp,Male,27,1.77,68,73000,Finnish,FI,Finland,,,,Jordan,Knapp
+Josef Marshall,Male,40,1.81,60,53000,Ethiopian,ET,Ethiopia,Elixir,,,Josef,Marshall
+Josef Sanders,Male,64,1.83,64,85000,Estonian,EE,Estonia,Fortran,Dart,Kotlin,Josef,Sanders
+Josefine Levy,Female,49,1.64,86,173000,Romanian,RO,Romania,JavaScript,,,Josefine,Levy
+Josh Mueller,Male,50,1.84,51,126000,Italian,IT,Italy,OCaml,Bash,,Josh,Mueller
+Joshua Fletcher,Female,52,1.87,79,151000,Romanian,RO,Romania,Perl,Mathematica,ECMAScript,Joshua,Fletcher
+Josiah O'neil,Male,34,1.98,61,69000,Danish,DK,Denmark,C#,,,Josiah,O'neil
+Josue Delacruz,Male,23,1.63,70,92000,Australian,AU,Australia,Emacs Lisp,C#,C#,Josue,Delacruz
+Jude Decker,Male,40,1.84,58,142000,Brazilian,BR,Brazil,Fortran,Erlang,PHP,Jude,Decker
+Jude Moon,Male,53,1.68,40,128000,Australian,AU,Australia,Rust,PowerShell,,Jude,Moon
+Julius Bass,Male,54,1.7,84,100000,Cambodian,CM,Cambodia,AutoIt,,,Julius,Bass
+Junie Patterson,Female,34,1.51,68,109000,Iranian,IR,Iran,Elixir,Dylan,,Junie,Patterson
+Junior Crosby,Male,57,1.82,71,80000,Chinese,CH,China,,,,Junior,Crosby
+Junita Mcpherson,Female,33,1.99,89,83000,Chilean,CL,Chile,Go,,,Junita,Mcpherson
+Junita Reilly,Female,55,1.5,67,63000,Dutch,NL,Netherland,Racket,,,Junita,Reilly
+Kaila Rosa,Female,25,1.76,65,89000,Costa Rican,CR,Costa Rica,C Shell,Io,,Kaila,Rosa
+Kaley Meadows,Female,49,1.72,49,135000,French,FR,France,GNU Octave,Dart,,Kaley,Meadows
+Kam Reyes,Female,24,1.56,67,145000,Polish,PO,Poland,Smalltalk,,,Kam,Reyes
+Kamala Parsons,Female,22,1.74,53,94000,Dutch,NL,Netherland,Objective-C,,,Kamala,Parsons
+Kareem Harrington,Male,24,1.61,40,55000,Egyptian,EG,Egypt,Tcl,C++,PL-SQL,Kareem,Harrington
+Kareem Lawson,Male,22,1.5,49,147000,Canadian,CA,Canada,haXe,PowerShell,Perl,Kareem,Lawson
+Kareen Jackson,Female,55,1.56,48,71000,Greek,GR,Greece,ECMAScript,,,Kareen,Jackson
+Karey Shields,Female,21,1.97,43,80000,Italian,IT,Italy,Prolog,AutoIt,Racket,Karey,Shields
+Karl Sandoval,Female,20,1.79,41,103000,Brazilian,BR,Brazil,,,,Karl,Sandoval
+Karl Schneider,Male,25,1.6,62,73000,Swedish,SE,Sweden,Kotlin,,,Karl,Schneider
+Karl Shields,Female,62,1.82,78,105000,German,DE,Germany,,,,Karl,Shields
+Karleen Orr,Female,43,1.71,60,67000,Uruguayan,UY,Uruguay,Tcl,haXe,Dart,Karleen,Orr
+Karleen Pitts,Female,54,1.57,59,84000,Chinese,HK,Hong Kong,,,,Karleen,Pitts
+Karly Flowers,Female,35,1.72,55,78000,Italian,IT,Italy,,,,Karly,Flowers
+Karren Hunt,Female,17,1.99,47,96000,Swedish,SE,Sweden,Io,Smalltalk,,Karren,Hunt
+Kasie Morrison,Female,35,1.77,59,85000,Uruguayan,UY,Uruguay,Dylan,J#,,Kasie,Morrison
+Kassie Harding,Female,28,1.52,79,128000,Ukrainian,UA,Ukraine,,,,Kassie,Harding
+Kathaleen Faulkner,Female,52,1.97,73,56000,Japanese,JP,Japan,PowerShell,,,Kathaleen,Faulkner
+Katherina Macdonald,Female,30,1.78,56,82000,Cambodian,CM,Cambodia,,,,Katherina,Macdonald
+Kathey Lambert,Female,47,1.77,77,98000,Russian,RU,Russia,Delphi,Fortran,,Kathey,Lambert
+Kathey Williamson,Female,16,1.84,63,128000,Australian,AU,Australia,Assembly,,,Kathey,Williamson
+Kathyrn Newton,Female,37,1.94,45,103000,Dominican,DM,Dominica,Transact-SQL,,,Kathyrn,Newton
+Kati Hines,Female,55,1.85,45,152000,Ukrainian,UA,Ukraine,JavaScript,Fortran,,Kati,Hines
+Katlyn Vega,Female,43,2.0,42,98000,French,FR,France,,,,Katlyn,Vega
+Katrice Cote,Female,46,1.81,81,63000,Romanian,RO,Romania,Ceylon,,,Katrice,Cote
+Kayce Nash,Female,59,1.68,67,83000,Uruguayan,UY,Uruguay,Dart,C#,,Kayce,Nash
+Kaycee Macdonald,Female,38,1.51,39,45000,Swiss,CH,Switzerland,Ruby,,,Kaycee,Macdonald
+Kayleigh Haynes,Female,50,1.5,67,71000,Uruguayan,UY,Uruguay,Mathematica,Io,,Kayleigh,Haynes
+Kazuko Roberson,Female,30,1.89,84,124000,Italian,IT,Italy,Scheme,,,Kazuko,Roberson
+Keeley Reese,Female,20,1.98,68,174000,Australian,AU,Australia,,,,Keeley,Reese
+Keesha Huffman,Female,59,1.96,41,118000,Cuban,CU,Cuba,Ruby,R,Kotlin,Keesha,Huffman
+Keith Anderson,Female,30,1.91,38,128000,French,FR,France,Lisp,,,Keith,Anderson
+Kellee Richardson,Female,58,1.67,82,68000,Belgian,BE,Belgium,Fortran,,,Kellee,Richardson
+Kelley Brennan,Male,18,1.67,51,192000,French,FR,France,,,,Kelley,Brennan
+Kelly Massey,Male,53,1.59,46,61000,British,GB,United Kingdom,,,,Kelly,Massey
+Kelly Randall,Male,42,1.76,52,179000,Swedish,SE,Sweden,PL-I,Dart,,Kelly,Randall
+Kelvin Sanders,Male,66,1.66,48,112000,Polish,PO,Poland,,,,Kelvin,Sanders
+Ken Knox,Male,17,1.53,88,116000,Chilean,CL,Chile,,,,Ken,Knox
+Ken Stein,Male,42,1.97,64,113000,Dutch,NL,Netherland,ECMAScript,,,Ken,Stein
+Kendall Combs,Male,56,1.64,38,92000,Irish,IE,Ireland,PHP,CoffeeScript,J#,Kendall,Combs
+Kendrick Meadows,Male,65,1.65,44,117000,Cameroonian,CM,Cameroon,J#,Ruby,,Kendrick,Meadows
+Kendrick Rowland,Male,52,1.85,54,88000,Brazilian,BR,Brazil,,,,Kendrick,Rowland
+Keneth Holmes,Male,45,1.85,74,92000,German,DE,Germany,,,,Keneth,Holmes
+Keneth Mcmillan,Male,48,1.54,78,156000,Cuban,CU,Cuba,JavaScript,Haskell,haXe,Keneth,Mcmillan
+Keneth Thornton,Male,54,1.76,87,58000,Russian,RU,Russia,,,,Keneth,Thornton
+Kennith Chambers,Male,21,1.62,41,74000,Dutch,NL,Netherland,Z shell,,,Kennith,Chambers
+Kent Watkins,Male,27,1.63,77,112000,Spanish,SP,Spain,Objective-C,Smalltalk,ASP,Kent,Watkins
+Kermit Pruitt,Male,45,1.79,58,139000,Spanish,SP,Spain,J#,Lua,Rust,Kermit,Pruitt
+Kerry Suarez,Male,59,1.75,53,108000,Belgian,BE,Belgium,Rust,,,Kerry,Suarez
+Keven Rodriquez,Male,50,1.85,48,85000,Irish,IE,Ireland,C#,,,Keven,Rodriquez
+Keven Trevino,Male,49,1.83,53,110000,British,GB,United Kingdom,Lisp,,,Keven,Trevino
+Kevin Dillard,Male,18,1.69,60,129000,French,FR,France,Common Lisp,Objective-C,,Kevin,Dillard
+Kevin Fernandez,Male,18,1.66,84,101000,Bolivian,BO,Bolivia,JavaScript,,,Kevin,Fernandez
+Kevin Glass,Male,53,1.93,41,160000,Estonian,EE,Estonia,GNU Octave,,,Kevin,Glass
+Kevin Key,Female,48,1.88,81,95000,Bolivian,BO,Bolivia,Perl,,,Kevin,Key
+Khalilah Beard,Female,41,1.73,75,79000,Irish,IE,Ireland,Java,Prolog,Common Lisp,Khalilah,Beard
+Kim Schultz,Male,17,1.73,51,93000,Polish,PO,Poland,,,,Kim,Schultz
+Kimberlie Sellers,Female,64,1.52,41,84000,French,FR,France,,,,Kimberlie,Sellers
+Kip Glenn,Male,57,1.7,76,127000,Cuban,CU,Cuba,Falcon,Go,,Kip,Glenn
+Kortney Vaughn,Female,60,1.64,78,88000,Ethiopian,ET,Ethiopia,D,,,Kortney,Vaughn
+Kourtney Hunter,Female,25,1.98,57,109000,Mexican,ME,Mexico,Assembly,PHP,Kotlin,Kourtney,Hunter
+Kraig Douglas,Male,37,1.89,84,76000,Polish,PO,Poland,,,,Kraig,Douglas
+Kraig Walls,Male,50,1.65,39,87000,Belgian,BE,Belgium,TypeScript,Go,,Kraig,Walls
+Krishna Hunter,Female,21,1.67,90,83000,Chilean,CL,Chile,PowerShell,,,Krishna,Hunter
+Krishna Webb,Female,21,1.78,76,166000,Egyptian,EG,Egypt,AutoIt,,,Krishna,Webb
+Kristel King,Female,17,1.98,84,170000,Romanian,RO,Romania,,,,Kristel,King
+Kristel Levy,Female,51,1.56,50,100000,German,DE,Germany,C Shell,CoffeeScript,,Kristel,Levy
+Kristian Waters,Female,41,1.97,53,107000,French,FR,France,Delphi,Perl,,Kristian,Waters
+Kristofer Bell,Male,22,1.75,90,89000,Taiwanese,TW,Taiwan,AutoIt,Racket,,Kristofer,Bell
+Kum Randall,Female,43,1.59,79,72000,Japanese,JP,Japan,C,PL-I,,Kum,Randall
+Kurtis Barrera,Male,33,1.78,84,48000,Dominican,DM,Dominica,,,,Kurtis,Barrera
+Kyle Oliver,Male,39,1.66,59,125000,Japanese,JP,Japan,Ruby,Lisp,CoffeeScript,Kyle,Oliver
+Lacy Mays,Male,25,1.56,84,110000,Australian,AU,Australia,,,,Lacy,Mays
+Lacy Mckay,Male,41,1.79,86,132000,Jordanian,JO,Jordan,C#,D,C#,Lacy,Mckay
+Ladawn Koch,Female,24,1.83,50,64000,German,DE,Germany,AutoIt,J#,TypeScript,Ladawn,Koch
+Laine Pierce,Female,32,1.78,73,123000,Iranian,IR,Iran,,,,Laine,Pierce
+Lakeesha Maldonado,Female,24,1.97,51,198000,Cameroonian,CM,Cameroon,Bash,,,Lakeesha,Maldonado
+Lakenya Cardenas,Female,32,1.83,90,138000,Cuban,CU,Cuba,Caml,,,Lakenya,Cardenas
+Lakia Cook,Female,47,1.74,57,98000,British,GB,United Kingdom,Ruby,Julia,PowerShell,Lakia,Cook
+Lakiesha Snow,Female,32,1.63,74,85000,Belgian,BE,Belgium,Io,,,Lakiesha,Snow
+Lakita Barrett,Female,40,1.94,80,105000,Israeli,IS,Israel,,,,Lakita,Barrett
+Lamar Zamora,Male,55,1.98,40,84000,Irish,IE,Ireland,Common Lisp,Scala,,Lamar,Zamora
+Landon Acevedo,Male,34,1.64,63,50000,Swiss,CH,Switzerland,Objective-C,Mathematica,GNU Octave,Landon,Acevedo
+Landon Whitehead,Male,52,1.65,64,84000,Venezuelan,VE,Venezuela,Objective-C,,,Landon,Whitehead
+Lane West,Male,54,1.93,44,109000,German,DE,Germany,,,,Lane,West
+Lanelle Mcguire,Female,40,1.77,71,87000,Israeli,IS,Israel,C Shell,,,Lanelle,Mcguire
+Lanita Benton,Female,59,1.59,71,55000,British,GB,United Kingdom,Common Lisp,R,,Lanita,Benton
+Lanita Jacobson,Female,57,1.76,51,117000,Belgian,BE,Belgium,Elixir,Erlang,Z shell,Lanita,Jacobson
+Lannie Livingston,Female,57,1.86,76,104000,Egyptian,EG,Egypt,Prolog,TypeScript,,Lannie,Livingston
+Lanny Strickland,Male,51,1.86,68,115000,Ethiopian,ET,Ethiopia,Prolog,C,PHP,Lanny,Strickland
+Larhonda Randolph,Female,17,1.58,82,85000,Spanish,SP,Spain,,,,Larhonda,Randolph
+Larisa Hardin,Female,42,1.87,54,96000,Irish,IE,Ireland,,,,Larisa,Hardin
+Larita Knox,Female,39,1.59,58,49000,Irish,IE,Ireland,,,,Larita,Knox
+Larry Watkins,Female,27,1.96,41,108000,Jordanian,JO,Jordan,R,Clojure,Bash,Larry,Watkins
+Lashaun Graves,Female,38,1.77,45,131000,Ethiopian,ET,Ethiopia,C Shell,Ceylon,Perl,Lashaun,Graves
+Lashawna Britt,Female,20,1.77,75,106000,Australian,AU,Australia,Smalltalk,,,Lashawna,Britt
+Lashon Mejia,Female,41,1.68,63,75000,Spanish,SP,Spain,,,,Lashon,Mejia
+Laticia Neal,Female,35,1.85,49,58000,Bolivian,BO,Bolivia,Smalltalk,Clojure,Transact-SQL,Laticia,Neal
+Latrina Gonzales,Female,38,1.96,48,90000,Dominican,DM,Dominica,Assembly,AutoIt,,Latrina,Gonzales
+Launa Moran,Female,60,1.91,66,106000,British,GB,United Kingdom,Clojure,Lua,,Launa,Moran
+Lauran Macdonald,Female,54,1.89,70,95000,Bolivian,BO,Bolivia,AutoIt,GNU Octave,,Lauran,Macdonald
+Lauran Willis,Female,34,1.92,75,89000,Romanian,RO,Romania,,,,Lauran,Willis
+Laurena Kane,Female,46,1.51,63,55000,Dutch,NL,Netherland,,,,Laurena,Kane
+Laurinda Mitchell,Female,59,1.62,59,89000,German,DE,Germany,GNU Octave,Prolog,,Laurinda,Mitchell
+Lavern Wallace,Male,49,1.74,53,89000,Israeli,IS,Israel,Mathematica,haXe,ASP,Lavern,Wallace
+Laverna Black,Female,38,1.61,70,68000,Australian,AU,Australia,Common Lisp,OCaml,C#,Laverna,Black
+Lavone Sykes,Female,32,1.69,75,124000,Bolivian,BO,Bolivia,Lua,Kotlin,PowerShell,Lavone,Sykes
+Lawana Howell,Female,47,1.51,57,70000,Chilean,CL,Chile,Prolog,PowerShell,,Lawana,Howell
+Lawana Long,Female,17,1.98,47,76000,French,FR,France,Caml,haXe,,Lawana,Long
+Layne Carpenter,Female,31,1.97,39,75000,Jordanian,JO,Jordan,Tcl,,,Layne,Carpenter
+Layne Lyons,Female,48,1.51,80,86000,Ukrainian,UA,Ukraine,C,CoffeeScript,,Layne,Lyons
+Lean Calderon,Female,37,1.56,76,115000,Dutch,NL,Netherland,Dylan,Lua,Tex,Lean,Calderon
+Lean Miranda,Female,30,1.72,40,123000,Cambodian,CM,Cambodia,,,,Lean,Miranda
+Leeanne Carter,Female,44,1.54,70,131000,Cuban,CU,Cuba,Groovy,Haskell,Perl,Leeanne,Carter
+Leena Stephens,Female,24,1.77,79,116000,Israeli,IS,Israel,ECMAScript,R,,Leena,Stephens
+Leia Harper,Female,47,1.88,79,80000,Japanese,JP,Japan,,,,Leia,Harper
+Leia Sanchez,Female,38,1.99,68,95000,Irish,IE,Ireland,Groovy,,,Leia,Sanchez
+Leigh Keith,Male,35,1.71,54,108000,Cameroonian,CM,Cameroon,Z shell,Perl,,Leigh,Keith
+Leisha Long,Female,39,1.75,56,113000,Ethiopian,ET,Ethiopia,ASP,Rust,PowerShell,Leisha,Long
+Leland Salinas,Male,38,1.99,38,61000,Swiss,CH,Switzerland,,,,Leland,Salinas
+Lemuel Mack,Male,65,1.68,83,63000,Canadian,CA,Canada,,,,Lemuel,Mack
+Lenard Holt,Male,28,1.84,81,129000,Taiwanese,TW,Taiwan,Python,Io,,Lenard,Holt
+Lenard Newton,Male,53,1.53,49,57000,Taiwanese,TW,Taiwan,ECMAScript,Bash,Dylan,Lenard,Newton
+Leo Hamilton,Male,29,1.84,60,101000,Brazilian,BR,Brazil,Transact-SQL,Tcl,Assembly,Leo,Hamilton
+Leo Hardin,Female,28,1.56,42,101000,Dutch,NL,Netherland,Delphi,,,Leo,Hardin
+Leo O'neil,Female,59,1.5,45,96000,Greek,GR,Greece,Julia,,,Leo,O'neil
+Leo Sosa,Male,28,2.0,71,92000,Bolivian,BO,Bolivia,,,,Leo,Sosa
+Leon Cotton,Male,46,1.82,73,80000,Romanian,RO,Romania,Delphi,R,,Leon,Cotton
+Leonia Johnson,Female,63,1.89,71,165000,Bolivian,BO,Bolivia,R,Io,J#,Leonia,Johnson
+Leonie Bauer,Female,54,1.56,66,78000,Belgian,BE,Belgium,C++,haXe,,Leonie,Bauer
+Leonila Vinson,Female,46,1.86,72,43000,Irish,IE,Ireland,Io,Erlang,,Leonila,Vinson
+Leonore Cote,Female,35,1.72,85,95000,Cameroonian,CM,Cameroon,TypeScript,,,Leonore,Cote
+Lester Contreras,Female,34,1.54,84,96000,Ethiopian,ET,Ethiopia,Haskell,Transact-SQL,GNU Octave,Lester,Contreras
+Lester Monroe,Male,18,1.81,58,43000,Australian,AU,Australia,Lua,Go,,Lester,Monroe
+Levi Mullen,Male,16,1.94,45,77000,Mexican,ME,Mexico,haXe,,,Levi,Mullen
+Lewis Steele,Male,30,1.56,73,180000,Finnish,FI,Finland,Haskell,Elixir,,Lewis,Steele
+Lexie Patel,Female,16,1.54,60,73000,Canadian,CA,Canada,J#,Tcl,,Lexie,Patel
+Lezlie Bailey,Female,25,1.63,45,148000,Ethiopian,ET,Ethiopia,OCaml,Elixir,,Lezlie,Bailey
+Ligia Hampton,Female,61,1.57,58,105000,Italian,IT,Italy,Perl,JavaScript,,Ligia,Hampton
+Lilli Blake,Female,62,1.78,59,99000,Ethiopian,ET,Ethiopia,C,R,C++,Lilli,Blake
+Lilli Noble,Female,61,1.84,66,97000,Chilean,CL,Chile,Emacs Lisp,,,Lilli,Noble
+Lincoln Donaldson,Male,55,1.52,90,69000,Cuban,CU,Cuba,J#,,,Lincoln,Donaldson
+Lincoln Wood,Male,28,1.61,45,95000,Taiwanese,TW,Taiwan,Kotlin,C Shell,,Lincoln,Wood
+Lindsay Cohen,Male,33,1.79,56,76000,Estonian,EE,Estonia,AutoIt,,,Lindsay,Cohen
+Lindsay Jimenez,Male,55,1.64,61,77000,Ethiopian,ET,Ethiopia,,,,Lindsay,Jimenez
+Lindsey Gaines,Male,28,1.65,40,97000,Bolivian,BO,Bolivia,,,,Lindsey,Gaines
+Lindsey Mcleod,Male,19,1.54,55,122000,Brazilian,BR,Brazil,ECMAScript,Kotlin,Elixir,Lindsey,Mcleod
+Ling Bartlett,Female,16,1.95,50,91000,Cuban,CU,Cuba,Lisp,Smalltalk,Dylan,Ling,Bartlett
+Lino Emerson,Male,23,1.99,39,93000,French,FR,France,Smalltalk,Groovy,,Lino,Emerson
+Linsey Cabrera,Female,53,1.72,83,122000,Russian,RU,Russia,,,,Linsey,Cabrera
+Livia Odom,Female,46,1.76,47,171000,Irish,IE,Ireland,J#,,,Livia,Odom
+Lloyd Chaney,Male,64,1.59,72,65000,Israeli,IS,Israel,TypeScript,,,Lloyd,Chaney
+Lloyd Lancaster,Male,45,1.7,46,90000,Taiwanese,TW,Taiwan,GNU Octave,,,Lloyd,Lancaster
+Lloyd Merritt,Male,56,1.53,72,122000,Canadian,CA,Canada,Tcl,,,Lloyd,Merritt
+Loise Vaughan,Female,32,1.8,55,136000,Chinese,CH,China,Elixir,ECMAScript,Fortran,Loise,Vaughan
+Londa Hewitt,Female,27,1.71,48,76000,Belgian,BE,Belgium,Common Lisp,Go,Java,Londa,Hewitt
+Long Hurst,Male,24,1.7,83,104000,Dutch,NL,Netherland,Lisp,Python,,Long,Hurst
+Long Owens,Male,22,1.69,79,58000,Spanish,SP,Spain,AutoIt,,,Long,Owens
+Lonnie Mcneil,Male,29,1.76,86,100000,German,DE,Germany,PowerShell,,,Lonnie,Mcneil
+Loralee Brewer,Female,41,1.67,63,152000,Dominican,DM,Dominica,,,,Loralee,Brewer
+Loralee Vasquez,Female,38,1.75,88,130000,Romanian,RO,Romania,Delphi,C Shell,,Loralee,Vasquez
+Loren Rosa,Male,38,1.82,57,119000,Canadian,CA,Canada,,,,Loren,Rosa
+Loren Spears,Male,38,1.59,46,90000,Polish,PO,Poland,Dart,Io,,Loren,Spears
+Lorenzo Ashley,Male,66,1.96,50,81000,Danish,DK,Denmark,Lisp,Ruby,Elixir,Lorenzo,Ashley
+Lorette Melendez,Female,16,1.52,51,117000,Costa Rican,CR,Costa Rica,Haskell,ASP,Scala,Lorette,Melendez
+Loria Schultz,Female,46,1.62,50,84000,Belgian,BE,Belgium,Rust,Clojure,,Loria,Schultz
+Lorilee Chen,Female,44,1.84,45,43000,Finnish,FI,Finland,,,,Lorilee,Chen
+Louie Burnett,Male,54,1.56,84,114000,Chinese,HK,Hong Kong,,,,Louie,Burnett
+Loura Morrison,Female,16,1.86,55,122000,Venezuelan,VE,Venezuela,Clojure,CoffeeScript,,Loura,Morrison
+Lourie Reilly,Female,53,1.7,67,131000,Taiwanese,TW,Taiwan,,,,Lourie,Reilly
+Luanna Travis,Female,24,1.65,86,79000,Estonian,EE,Estonia,Erlang,OCaml,Kotlin,Luanna,Travis
+Luba Baxter,Female,32,1.59,88,40000,Chilean,CL,Chile,Racket,GNU Octave,Dart,Luba,Baxter
+Luciano Jackson,Male,30,1.98,76,76000,Australian,AU,Australia,Dylan,Perl,,Luciano,Jackson
+Lucien Pittman,Male,61,1.87,58,73000,Danish,DK,Denmark,AutoIt,Dylan,Transact-SQL,Lucien,Pittman
+Lucina Heath,Female,63,1.8,54,135000,Irish,IE,Ireland,,,,Lucina,Heath
+Lucius Herring,Male,42,1.68,82,159000,British,GB,United Kingdom,,,,Lucius,Herring
+Lucrecia Brown,Female,56,1.62,78,98000,Danish,DK,Denmark,PL-I,Dylan,Delphi,Lucrecia,Brown
+Lucrecia Elliott,Female,28,1.9,66,157000,Ethiopian,ET,Ethiopia,C++,Go,Java,Lucrecia,Elliott
+Ludie Haney,Female,24,1.93,80,195000,Mexican,ME,Mexico,,,,Ludie,Haney
+Ludie Levine,Female,35,1.98,61,73000,Finnish,FI,Finland,Julia,ECMAScript,,Ludie,Levine
+Luke Thompson,Male,54,1.75,88,88000,Jordanian,JO,Jordan,,,,Luke,Thompson
+Lurlene Martin,Female,35,1.99,52,142000,Belgian,BE,Belgium,Dart,Lua,Smalltalk,Lurlene,Martin
+Lurlene Shepherd,Female,58,1.7,68,138000,Uruguayan,UY,Uruguay,PHP,ECMAScript,Awk,Lurlene,Shepherd
+Luther Foster,Male,41,1.8,84,54000,Venezuelan,VE,Venezuela,,,,Luther,Foster
+Luvenia Schmidt,Female,63,1.91,60,97000,Polish,PO,Poland,C Shell,,,Luvenia,Schmidt
+Lyla Flores,Female,57,1.66,48,107000,Greek,GR,Greece,Delphi,C,PL-SQL,Lyla,Flores
+Lyndon Mckay,Male,65,1.98,83,141000,Uruguayan,UY,Uruguay,,,,Lyndon,Mckay
+Lynell Waters,Female,61,1.55,73,123000,Dominican,DM,Dominica,J#,R,,Lynell,Waters
+Lynelle Barry,Female,46,1.83,62,65000,Italian,IT,Italy,,,,Lynelle,Barry
+Lynwood Pope,Male,20,1.51,40,88000,Jordanian,JO,Jordan,ASP,Scala,,Lynwood,Pope
+Mac Bond,Male,30,1.8,46,153000,Belgian,BE,Belgium,C++,,,Mac,Bond
+Mack Mcgee,Male,36,1.64,69,77000,Taiwanese,TW,Taiwan,,,,Mack,Mcgee
+Maddie Wagner,Female,21,1.99,68,69000,Finnish,FI,Finland,Transact-SQL,,,Maddie,Wagner
+Madie Woods,Female,44,1.68,79,124000,Finnish,FI,Finland,Caml,Common Lisp,Elixir,Madie,Woods
+Madison Swanson,Female,58,1.58,64,68000,French,FR,France,GNU Octave,Perl,,Madison,Swanson
+Madlyn Pennington,Female,29,1.64,60,190000,Danish,DK,Denmark,,,,Madlyn,Pennington
+Madlyn Watson,Female,51,1.67,86,128000,Danish,DK,Denmark,Bash,Emacs Lisp,,Madlyn,Watson
+Mahalia Clark,Female,30,1.77,63,119000,Iranian,IR,Iran,,,,Mahalia,Clark
+Maira Fischer,Female,17,1.66,83,100000,Venezuelan,VE,Venezuela,,,,Maira,Fischer
+Maire Emerson,Female,20,1.88,72,111000,French,FR,France,TypeScript,,,Maire,Emerson
+Major Burgess,Male,19,1.54,73,161000,Romanian,RO,Romania,,,,Major,Burgess
+Major Mccormick,Male,48,1.9,41,145000,Belgian,BE,Belgium,OCaml,Ceylon,,Major,Mccormick
+Malcom Brewer,Male,29,1.57,51,104000,Brazilian,BR,Brazil,JavaScript,Go,,Malcom,Brewer
+Malik Pittman,Male,66,1.56,88,59000,German,DE,Germany,AutoIt,,,Malik,Pittman
+Malika Garza,Female,61,1.92,88,72000,Irish,IE,Ireland,Objective-C,Lisp,haXe,Malika,Garza
+Malisa Holder,Female,36,1.57,47,80000,Brazilian,BR,Brazil,Kotlin,Dart,,Malisa,Holder
+Malka Hall,Female,30,1.77,42,113000,Dutch,NL,Netherland,Go,,,Malka,Hall
+Malka Hood,Female,57,1.93,61,112000,Greek,GR,Greece,Lisp,Smalltalk,Erlang,Malka,Hood
+Manie Kemp,Female,47,1.68,48,70000,Dutch,NL,Netherland,Bash,Prolog,haXe,Manie,Kemp
+Manual Calderon,Male,43,1.92,90,123000,Brazilian,BR,Brazil,Tcl,Smalltalk,,Manual,Calderon
+Many Miles,Female,29,1.73,80,84000,British,GB,United Kingdom,Java,,,Many,Miles
+Many Sosa,Female,46,1.51,46,81000,Ethiopian,ET,Ethiopia,Groovy,Clojure,,Many,Sosa
+Mao Finley,Female,21,1.86,67,182000,Estonian,EE,Estonia,Go,Erlang,,Mao,Finley
+Mao Singleton,Female,19,1.52,73,65000,German,DE,Germany,Mathematica,Lua,Racket,Mao,Singleton
+Maragret Bond,Female,43,1.5,43,112000,British,GB,United Kingdom,C Shell,AutoIt,PL-SQL,Maragret,Bond
+Marc Brooks,Male,26,1.59,39,94000,Dutch,NL,Netherland,,,,Marc,Brooks
+Marcel Nicholson,Male,41,1.86,88,95000,Cameroonian,CM,Cameroon,R,C#,,Marcel,Nicholson
+Marcellus Stokes,Male,63,1.52,60,126000,Venezuelan,VE,Venezuela,JavaScript,,,Marcellus,Stokes
+Marco Salazar,Male,25,1.52,65,108000,Cambodian,CM,Cambodia,Prolog,,,Marco,Salazar
+Marcos Madden,Male,33,1.61,72,102000,Canadian,CA,Canada,R,Racket,,Marcos,Madden
+Marcus Nieves,Male,36,1.79,66,90000,Australian,AU,Australia,Io,Bash,,Marcus,Nieves
+Marcus Randall,Male,44,1.85,43,106000,Japanese,JP,Japan,,,,Marcus,Randall
+Marcus Tate,Male,52,1.55,42,103000,Venezuelan,VE,Venezuela,haXe,,,Marcus,Tate
+Margaretta Fisher,Female,52,1.51,81,61000,Chinese,CH,China,,,,Margaretta,Fisher
+Margarito Burks,Male,23,1.51,87,90000,Jordanian,JO,Jordan,Go,GNU Octave,,Margarito,Burks
+Margart Downs,Female,55,1.82,67,112000,Mexican,ME,Mexico,C Shell,Bash,JavaScript,Margart,Downs
+Margene Estrada,Female,19,1.91,86,72000,Dutch,NL,Netherland,C,Bash,,Margene,Estrada
+Margit Randall,Female,18,1.6,52,94000,Uruguayan,UY,Uruguay,J#,Kotlin,,Margit,Randall
+Marguerita Owen,Female,66,1.9,85,57000,Australian,AU,Australia,AutoIt,,,Marguerita,Owen
+Maria Booth,Male,19,1.63,55,63000,Japanese,JP,Japan,Julia,,,Maria,Booth
+Maria Kerr,Male,46,1.62,77,136000,Cameroonian,CM,Cameroon,,,,Maria,Kerr
+Maricruz Stanley,Female,20,1.81,76,77000,Mexican,ME,Mexico,Delphi,,,Maricruz,Stanley
+Mariette Harmon,Female,45,1.88,48,168000,French,FR,France,R,,,Mariette,Harmon
+Marilou Pruitt,Female,17,1.58,89,93000,Bolivian,BO,Bolivia,,,,Marilou,Pruitt
+Marine Adams,Female,17,1.74,71,111000,Egyptian,EG,Egypt,Ceylon,Julia,,Marine,Adams
+Mario Flynn,Male,29,1.98,42,62000,Romanian,RO,Romania,Prolog,,,Mario,Flynn
+Mark Cruz,Male,41,1.82,68,116000,Cambodian,CM,Cambodia,C#,,,Mark,Cruz
+Markus Valenzuela,Male,44,1.86,45,96000,Cambodian,CM,Cambodia,Ceylon,Perl,,Markus,Valenzuela
+Marlana Evans,Female,48,1.83,56,122000,Dutch,NL,Netherland,Delphi,,,Marlana,Evans
+Marlin Anthony,Male,48,1.79,54,77000,Egyptian,EG,Egypt,Prolog,OCaml,Assembly,Marlin,Anthony
+Marlin Mclaughlin,Male,44,1.73,65,137000,Cuban,CU,Cuba,Dart,,,Marlin,Mclaughlin
+Marlin Wright,Male,46,1.8,89,77000,Romanian,RO,Romania,PowerShell,Prolog,,Marlin,Wright
+Marlon Hess,Male,28,1.61,72,101000,Belgian,BE,Belgium,PowerShell,AutoIt,,Marlon,Hess
+Marquitta Blake,Female,20,1.72,82,140000,Iranian,IR,Iran,Delphi,C,,Marquitta,Blake
+Marshall Mckinney,Male,60,1.98,43,107000,Ethiopian,ET,Ethiopia,GNU Octave,F#,Dylan,Marshall,Mckinney
+Martin Clayton,Male,33,1.99,39,151000,Cambodian,CM,Cambodia,JavaScript,Transact-SQL,Lisp,Martin,Clayton
+Marty Lindsay,Male,55,1.77,80,97000,Danish,DK,Denmark,Dylan,JavaScript,AutoIt,Marty,Lindsay
+Marty Meyers,Male,17,1.51,84,106000,Uruguayan,UY,Uruguay,Kotlin,,,Marty,Meyers
+Marx Valenzuela,Female,66,1.87,48,69000,Cambodian,CM,Cambodia,,,,Marx,Valenzuela
+Maryln Gamble,Female,25,1.63,79,81000,Romanian,RO,Romania,Emacs Lisp,Z shell,Groovy,Maryln,Gamble
+Marylyn Gross,Female,53,1.9,68,136000,Spanish,SP,Spain,,,,Marylyn,Gross
+Mason Alford,Male,27,1.56,88,96000,Danish,DK,Denmark,PL-I,JavaScript,,Mason,Alford
+Mathew Beasley,Male,64,1.58,79,87000,Chinese,HK,Hong Kong,,,,Mathew,Beasley
+Mathilda Glover,Female,22,1.72,58,62000,Cameroonian,CM,Cameroon,AutoIt,PowerShell,Haskell,Mathilda,Glover
+Matt Maldonado,Male,26,1.66,86,78000,Spanish,SP,Spain,Java,Emacs Lisp,Scala,Matt,Maldonado
+Matt Mcmillan,Male,16,1.89,72,102000,Danish,DK,Denmark,Go,Emacs Lisp,PL-I,Matt,Mcmillan
+Matt Nolan,Male,50,1.96,74,75000,Spanish,SP,Spain,Bash,ASP,Dylan,Matt,Nolan
+Matthew Carrillo,Male,19,1.63,54,107000,Swedish,SE,Sweden,,,,Matthew,Carrillo
+Matthew Sullivan,Female,64,1.55,85,65000,Ukrainian,UA,Ukraine,,,,Matthew,Sullivan
+Maurice Carlson,Male,56,1.71,39,82000,Ukrainian,UA,Ukraine,Io,Haskell,,Maurice,Carlson
+Mauro Rivera,Male,48,1.95,89,98000,Irish,IE,Ireland,Erlang,Emacs Lisp,,Mauro,Rivera
+Mauro Talley,Male,38,1.59,59,61000,Costa Rican,CR,Costa Rica,Ruby,Z shell,Falcon,Mauro,Talley
+Maxima Kim,Female,20,1.88,41,79000,Egyptian,EG,Egypt,Prolog,,,Maxima,Kim
+Maximina Hatfield,Female,60,1.95,39,61000,Irish,IE,Ireland,Kotlin,,,Maximina,Hatfield
+Maximina Neal,Female,55,1.72,49,143000,Israeli,IS,Israel,PowerShell,TypeScript,,Maximina,Neal
+Maximo Everett,Male,34,1.9,49,95000,Danish,DK,Denmark,,,,Maximo,Everett
+Maxwell Solomon,Male,50,1.8,55,76000,Swiss,CH,Switzerland,,,,Maxwell,Solomon
+Maynard Wilkerson,Male,57,1.62,78,108000,Bolivian,BO,Bolivia,Lisp,Elixir,,Maynard,Wilkerson
+Mayola Blair,Female,56,1.93,72,91000,Jordanian,JO,Jordan,,,,Mayola,Blair
+Mayola Guzman,Female,57,1.53,73,55000,Egyptian,EG,Egypt,,,,Mayola,Guzman
+Mckinley Odom,Male,43,1.53,47,70000,Bolivian,BO,Bolivia,AutoIt,OCaml,PL-SQL,Mckinley,Odom
+Meda Gutierrez,Female,35,1.93,69,115000,Swiss,CH,Switzerland,,,,Meda,Gutierrez
+Meda Peck,Female,36,1.62,64,74000,Swiss,CH,Switzerland,Go,Clojure,,Meda,Peck
+Meg Atkins,Female,38,1.9,77,112000,Polish,PO,Poland,Go,,,Meg,Atkins
+Mel Douglas,Male,46,1.69,43,81000,Estonian,EE,Estonia,Python,PowerShell,,Mel,Douglas
+Mel Humphrey,Male,65,1.85,49,90000,Swiss,CH,Switzerland,,,,Mel,Humphrey
+Melani Gibbs,Female,29,1.57,74,61000,Italian,IT,Italy,Erlang,Rust,,Melani,Gibbs
+Melissia Benson,Female,61,1.98,46,69000,Ukrainian,UA,Ukraine,Tex,PL-SQL,Falcon,Melissia,Benson
+Melissia Malone,Female,27,1.92,59,72000,Cambodian,CM,Cambodia,PHP,,,Melissia,Malone
+Melita Blanchard,Female,46,1.93,47,71000,Jordanian,JO,Jordan,PHP,Dart,,Melita,Blanchard
+Melita Martin,Female,49,1.87,41,129000,Italian,IT,Italy,,,,Melita,Martin
+Melita Valdez,Female,30,1.85,65,64000,Swiss,CH,Switzerland,Ceylon,,,Melita,Valdez
+Melita Wilson,Female,26,1.74,55,87000,Israeli,IS,Israel,Io,D,Python,Melita,Wilson
+Melodee Ware,Female,60,1.75,49,128000,Irish,IE,Ireland,Common Lisp,OCaml,,Melodee,Ware
+Merideth Watson,Female,22,1.67,78,52000,French,FR,France,PHP,,,Merideth,Watson
+Merissa Reilly,Female,42,1.57,46,104000,Cambodian,CM,Cambodia,Kotlin,,,Merissa,Reilly
+Merlin Doyle,Male,40,1.94,81,112000,Italian,IT,Italy,PHP,Erlang,C++,Merlin,Doyle
+Merri Hopkins,Female,30,1.62,79,135000,Russian,RU,Russia,,,,Merri,Hopkins
+Merri Horne,Female,41,1.52,45,154000,Swedish,SE,Sweden,ECMAScript,Mathematica,,Merri,Horne
+Merrilee Burris,Female,61,1.91,73,125000,British,GB,United Kingdom,Dylan,,,Merrilee,Burris
+Michael Hale,Male,59,1.8,78,103000,Swedish,SE,Sweden,,,,Michael,Hale
+Michaele Randolph,Female,19,1.53,75,106000,Dominican,DM,Dominica,C++,,,Michaele,Randolph
+Michale Taylor,Male,66,1.77,61,76000,Cuban,CU,Cuba,GNU Octave,,,Michale,Taylor
+Mickey Joyce,Male,65,1.7,79,79000,German,DE,Germany,Ruby,Prolog,Lisp,Mickey,Joyce
+Miguel Dyer,Male,43,1.67,84,57000,Swedish,SE,Sweden,Delphi,,,Miguel,Dyer
+Mikel Dennis,Male,32,1.58,45,90000,Greek,GR,Greece,C#,PL-SQL,,Mikel,Dennis
+Miki Flowers,Female,19,1.71,40,116000,Spanish,SP,Spain,Rust,PowerShell,,Miki,Flowers
+Milagro Horton,Female,48,2.0,51,44000,Brazilian,BR,Brazil,ECMAScript,Lisp,,Milagro,Horton
+Milan Herrera,Male,48,1.59,89,70000,Belgian,BE,Belgium,Rust,Rust,,Milan,Herrera
+Miles Tillman,Male,26,1.99,45,125000,Iranian,IR,Iran,Scheme,Prolog,Julia,Miles,Tillman
+Milford Larsen,Male,55,1.79,71,108000,Spanish,SP,Spain,C Shell,F#,Go,Milford,Larsen
+Millard Melendez,Male,25,1.85,49,110000,Canadian,CA,Canada,Haskell,,,Millard,Melendez
+Millard Norman,Male,33,1.61,50,121000,Cameroonian,CM,Cameroon,JavaScript,,,Millard,Norman
+Milly Tate,Female,31,1.6,43,108000,Cambodian,CM,Cambodia,Rust,Dylan,Assembly,Milly,Tate
+Minh Blevins,Female,23,1.59,42,80000,Irish,IE,Ireland,,,,Minh,Blevins
+Mirella Jefferson,Female,16,1.62,84,71000,Australian,AU,Australia,Awk,,,Mirella,Jefferson
+Mitch Christian,Male,25,1.93,43,109000,Finnish,FI,Finland,Kotlin,Bash,,Mitch,Christian
+Mitchell Reid,Male,44,1.94,42,101000,Japanese,JP,Japan,Perl,Haskell,,Mitchell,Reid
+Mitchell Walter,Female,61,1.78,56,144000,Cambodian,CM,Cambodia,Scala,Bash,,Mitchell,Walter
+Modesto Alexander,Male,53,1.89,77,85000,Venezuelan,VE,Venezuela,Bash,,,Modesto,Alexander
+Modesto Ashley,Male,20,1.52,40,97000,Greek,GR,Greece,Kotlin,Tcl,Lua,Modesto,Ashley
+Moises Kline,Male,28,1.73,59,135000,Finnish,FI,Finland,Clojure,,,Moises,Kline
+Monnie Combs,Female,58,1.53,62,96000,Iranian,IR,Iran,TypeScript,Go,,Monnie,Combs
+Monnie Weiss,Female,42,1.8,55,100000,Uruguayan,UY,Uruguay,Fortran,C Shell,,Monnie,Weiss
+Monroe Hughes,Male,66,1.55,64,119000,Bolivian,BO,Bolivia,JavaScript,Mathematica,Go,Monroe,Hughes
+Monte Cole,Male,26,1.65,50,50000,Jordanian,JO,Jordan,F#,,,Monte,Cole
+Mora Jimenez,Female,28,1.85,67,137000,Cameroonian,CM,Cameroon,,,,Mora,Jimenez
+Morgan Maxwell,Male,28,1.77,88,83000,Finnish,FI,Finland,Ruby,Lua,,Morgan,Maxwell
+Morgan Yang,Male,60,1.53,48,104000,Spanish,SP,Spain,,,,Morgan,Yang
+Morton Talley,Male,54,1.79,81,53000,Estonian,EE,Estonia,Tex,Clojure,,Morton,Talley
+Moshe Mcdowell,Male,50,1.65,44,137000,German,DE,Germany,ECMAScript,,,Moshe,Mcdowell
+Myesha Ayala,Female,25,1.87,61,134000,Venezuelan,VE,Venezuela,,,,Myesha,Ayala
+Myles Dotson,Male,16,1.57,85,72000,Belgian,BE,Belgium,,,,Myles,Dotson
+Myrl Schmidt,Female,27,1.72,78,117000,Swiss,CH,Switzerland,C++,Racket,Emacs Lisp,Myrl,Schmidt
+Myrl Walter,Female,32,1.67,62,69000,Russian,RU,Russia,Tex,GNU Octave,,Myrl,Walter
+Na Britt,Female,45,1.75,88,68000,French,FR,France,,,,Na,Britt
+Nakita Holman,Female,28,1.84,78,96000,Irish,IE,Ireland,Perl,,,Nakita,Holman
+Nam Mack,Female,35,1.63,66,68000,Belgian,BE,Belgium,Rust,C,C++,Nam,Mack
+Nana George,Female,54,1.64,52,83000,Ethiopian,ET,Ethiopia,Groovy,,,Nana,George
+Nancey Jarvis,Female,33,1.85,67,107000,Irish,IE,Ireland,Scheme,,,Nancey,Jarvis
+Nancie Jacobson,Female,34,1.74,52,127000,Mexican,ME,Mexico,Lisp,,,Nancie,Jacobson
+Naoma Cabrera,Female,35,1.96,71,134000,Ethiopian,ET,Ethiopia,AutoIt,CoffeeScript,,Naoma,Cabrera
+Napoleon Cain,Male,48,1.63,82,90000,Chilean,CL,Chile,Perl,Dylan,ECMAScript,Napoleon,Cain
+Napoleon Goff,Male,47,1.89,39,109000,Cameroonian,CM,Cameroon,,,,Napoleon,Goff
+Natacha Baird,Female,35,1.75,86,62000,Romanian,RO,Romania,Julia,,,Natacha,Baird
+Natalya Moses,Female,28,1.72,56,111000,Cameroonian,CM,Cameroon,Ceylon,,,Natalya,Moses
+Natashia Dodson,Female,52,1.68,85,140000,Israeli,IS,Israel,haXe,JavaScript,Lua,Natashia,Dodson
+Nathan Cooke,Male,55,2.0,75,103000,Spanish,SP,Spain,Emacs Lisp,ECMAScript,,Nathan,Cooke
+Nathanael Frye,Male,47,1.61,48,109000,Australian,AU,Australia,Tex,Dylan,,Nathanael,Frye
+Nathanial Valentine,Male,43,1.77,69,110000,Dutch,NL,Netherland,PHP,PHP,OCaml,Nathanial,Valentine
+Nathaniel Tucker,Male,25,1.54,86,85000,Taiwanese,TW,Taiwan,Groovy,Haskell,Tcl,Nathaniel,Tucker
+Natosha Gentry,Female,59,1.82,88,99000,Dominican,DM,Dominica,Z shell,Mathematica,,Natosha,Gentry
+Necole Michael,Female,50,1.92,49,89000,Egyptian,EG,Egypt,Julia,Racket,,Necole,Michael
+Nelson Weber,Male,57,1.93,50,69000,German,DE,Germany,Smalltalk,Dylan,,Nelson,Weber
+Nestor Kirby,Male,21,1.82,59,92000,Polish,PO,Poland,,,,Nestor,Kirby
+Nestor Rush,Male,62,1.72,60,121000,Brazilian,BR,Brazil,Groovy,CoffeeScript,Falcon,Nestor,Rush
+Neta Johns,Female,25,1.71,48,83000,Chilean,CL,Chile,J#,GNU Octave,,Neta,Johns
+Neville Hammond,Male,40,2.0,86,84000,German,DE,Germany,PL-I,,,Neville,Hammond
+Neville Horne,Male,27,1.9,43,146000,Ukrainian,UA,Ukraine,Prolog,Objective-C,,Neville,Horne
+Neville Sherman,Male,66,1.63,39,123000,Venezuelan,VE,Venezuela,D,CoffeeScript,C++,Neville,Sherman
+Newton Murphy,Male,33,1.82,81,70000,Greek,GR,Greece,Dylan,,,Newton,Murphy
+Ngoc Molina,Female,33,1.55,42,140000,Chinese,CH,China,Python,D,JavaScript,Ngoc,Molina
+Nia Gill,Female,42,1.93,77,78000,Irish,IE,Ireland,Delphi,R,,Nia,Gill
+Nickie Hammond,Female,22,1.83,53,91000,Italian,IT,Italy,,,,Nickie,Hammond
+Nicky Whitaker,Female,48,1.93,89,148000,Cameroonian,CM,Cameroon,Fortran,Java,,Nicky,Whitaker
+Nigel Middleton,Male,31,1.66,86,140000,Cameroonian,CM,Cameroon,Delphi,,,Nigel,Middleton
+Nikia Fitzpatrick,Female,64,1.63,84,97000,Dutch,NL,Netherland,,,,Nikia,Fitzpatrick
+Noah Mcgowan,Male,17,1.94,68,96000,Estonian,EE,Estonia,Awk,,,Noah,Mcgowan
+Nolan Cummings,Male,38,1.68,73,102000,Mexican,ME,Mexico,,,,Nolan,Cummings
+Norberto Abbott,Male,49,1.67,45,55000,Greek,GR,Greece,JavaScript,Python,Haskell,Norberto,Abbott
+Nu Valentine,Female,34,1.87,39,154000,Uruguayan,UY,Uruguay,JavaScript,TypeScript,,Nu,Valentine
+Nubia Hyde,Female,43,1.67,38,105000,Estonian,EE,Estonia,,,,Nubia,Hyde
+Numbers Bernard,Male,50,1.74,83,88000,British,GB,United Kingdom,OCaml,Scala,,Numbers,Bernard
+Obdulia Gilmore,Female,55,1.78,77,77000,Cuban,CU,Cuba,Objective-C,haXe,GNU Octave,Obdulia,Gilmore
+Odell Camacho,Male,24,1.52,68,78000,Chilean,CL,Chile,Caml,Dart,,Odell,Camacho
+Odell Frazier,Male,26,1.83,58,151000,Dominican,DM,Dominica,Racket,ECMAScript,Groovy,Odell,Frazier
+Odell Green,Male,60,1.87,53,88000,Irish,IE,Ireland,haXe,,,Odell,Green
+Olin Cummings,Male,49,1.7,59,113000,Greek,GR,Greece,Tcl,haXe,Ceylon,Olin,Cummings
+Olin Morton,Male,20,1.55,41,69000,Dominican,DM,Dominica,ECMAScript,,,Olin,Morton
+Oliver Hale,Male,16,1.82,79,95000,Greek,GR,Greece,C++,,,Oliver,Hale
+Ollie Johns,Male,64,1.51,47,111000,Chilean,CL,Chile,Fortran,,,Ollie,Johns
+Omar Blackburn,Male,48,1.85,52,60000,Uruguayan,UY,Uruguay,C#,,,Omar,Blackburn
+Onita Noble,Female,56,1.74,66,94000,Greek,GR,Greece,J#,C,Ceylon,Onita,Noble
+Onita Warner,Female,40,1.94,40,82000,Canadian,CA,Canada,Z shell,Lua,,Onita,Warner
+Orville Gibbs,Male,49,1.88,54,101000,Egyptian,EG,Egypt,C,Lua,,Orville,Gibbs
+Oscar Byers,Male,55,1.81,49,80000,Danish,DK,Denmark,AutoIt,Erlang,Rust,Oscar,Byers
+Oscar Maynard,Female,35,1.78,67,155000,German,DE,Germany,Awk,Mathematica,Clojure,Oscar,Maynard
+Ossie Barron,Female,32,1.59,61,113000,Chilean,CL,Chile,R,ECMAScript,,Ossie,Barron
+Osvaldo Petty,Male,60,1.54,80,102000,Estonian,EE,Estonia,Lua,Fortran,Rust,Osvaldo,Petty
+Otha Robinson,Female,65,1.53,68,70000,German,DE,Germany,Awk,,,Otha,Robinson
+Otto Mendoza,Male,66,1.52,39,121000,Polish,PO,Poland,Scheme,,,Otto,Mendoza
+Otto Weaver,Male,66,1.9,84,105000,Estonian,EE,Estonia,,,,Otto,Weaver
+Owen Rosa,Male,22,1.57,40,147000,Jordanian,JO,Jordan,,,,Owen,Rosa
+Ozie Craft,Female,44,1.63,71,72000,Israeli,IS,Israel,Z shell,Prolog,,Ozie,Craft
+Pablo Stout,Male,25,1.82,47,104000,Spanish,SP,Spain,ASP,,,Pablo,Stout
+Page Santos,Female,43,1.86,87,129000,Chilean,CL,Chile,Lisp,,,Page,Santos
+Palmer Chaney,Male,25,1.6,86,112000,Taiwanese,TW,Taiwan,Assembly,Lua,Racket,Palmer,Chaney
+Palmer Head,Male,48,1.56,67,99000,Chilean,CL,Chile,Objective-C,,,Palmer,Head
+Palmira Baxter,Female,44,1.61,76,124000,Taiwanese,TW,Taiwan,Scheme,Caml,Assembly,Palmira,Baxter
+Palmira Sutton,Female,33,1.79,81,61000,Cuban,CU,Cuba,JavaScript,Clojure,CoffeeScript,Palmira,Sutton
+Pamelia Mcintyre,Female,55,1.95,77,104000,Mexican,ME,Mexico,,,,Pamelia,Mcintyre
+Pamella Simmons,Female,40,1.55,89,123000,Cambodian,CM,Cambodia,Lua,C,Racket,Pamella,Simmons
+Pandora Woodward,Female,32,1.9,73,130000,Ukrainian,UA,Ukraine,C++,Mathematica,,Pandora,Woodward
+Paris Moss,Female,64,1.58,58,81000,Ukrainian,UA,Ukraine,F#,Smalltalk,,Paris,Moss
+Parker Lucas,Male,48,1.93,78,87000,Venezuelan,VE,Venezuela,AutoIt,C#,Perl,Parker,Lucas
+Pasquale Marks,Male,58,1.94,49,163000,Australian,AU,Australia,JavaScript,,,Pasquale,Marks
+Patrick Mays,Male,26,1.87,38,138000,Polish,PO,Poland,,,,Patrick,Mays
+Pearle Weiss,Female,37,1.94,66,82000,Romanian,RO,Romania,Bash,Bash,,Pearle,Weiss
+Pearlene Maynard,Female,24,1.97,51,146000,Estonian,EE,Estonia,JavaScript,,,Pearlene,Maynard
+Pei West,Female,18,1.58,73,150000,Venezuelan,VE,Venezuela,C Shell,Common Lisp,Clojure,Pei,West
+Percy Barnett,Male,30,1.84,87,105000,Jordanian,JO,Jordan,PL-I,Rust,JavaScript,Percy,Barnett
+Percy Mueller,Male,35,1.75,48,96000,Polish,PO,Poland,CoffeeScript,Haskell,,Percy,Mueller
+Perry Durham,Male,36,1.53,85,92000,Costa Rican,CR,Costa Rica,Java,ECMAScript,,Perry,Durham
+Phebe Cummings,Female,55,1.97,38,129000,Israeli,IS,Israel,,,,Phebe,Cummings
+Philip Gomez,Male,63,1.96,63,102000,Uruguayan,UY,Uruguay,,,,Philip,Gomez
+Philip Hamilton,Male,56,1.75,62,127000,Canadian,CA,Canada,,,,Philip,Hamilton
+Philip Payne,Male,43,1.93,90,84000,Mexican,ME,Mexico,OCaml,,,Philip,Payne
+Philip Robles,Male,45,1.73,41,122000,Chinese,CH,China,Racket,,,Philip,Robles
+Phung Camacho,Female,27,1.55,44,95000,Ethiopian,ET,Ethiopia,Awk,Elixir,,Phung,Camacho
+Pia Fields,Female,31,1.97,50,62000,Italian,IT,Italy,Ceylon,,,Pia,Fields
+Ping Farrell,Female,38,1.6,47,123000,Greek,GR,Greece,Clojure,Prolog,Falcon,Ping,Farrell
+Ping O'neil,Female,52,1.72,78,64000,Mexican,ME,Mexico,Elixir,Assembly,,Ping,O'neil
+Piper Baird,Female,58,1.81,59,78000,Venezuelan,VE,Venezuela,Scala,Python,PowerShell,Piper,Baird
+Pok Houston,Female,42,1.69,50,114000,Cambodian,CM,Cambodia,Tex,,,Pok,Houston
+Porfirio Cantrell,Male,66,1.85,75,103000,Brazilian,BR,Brazil,Ceylon,ASP,PL-SQL,Porfirio,Cantrell
+Porfirio Dudley,Male,40,1.95,49,76000,British,GB,United Kingdom,Ruby,Smalltalk,Assembly,Porfirio,Dudley
+Preston Combs,Male,32,1.95,66,78000,Cameroonian,CM,Cameroon,Assembly,Scheme,Common Lisp,Preston,Combs
+Preston Macias,Male,66,1.95,72,131000,Romanian,RO,Romania,,,,Preston,Macias
+Qiana Baldwin,Female,49,1.65,79,85000,Danish,DK,Denmark,,,,Qiana,Baldwin
+Qiana Glass,Female,20,1.9,55,118000,Chilean,CL,Chile,Groovy,Lua,CoffeeScript,Qiana,Glass
+Quentin Mcdowell,Male,19,1.64,58,144000,Ukrainian,UA,Ukraine,,,,Quentin,Mcdowell
+Quentin Wood,Male,63,1.85,72,70000,Estonian,EE,Estonia,Common Lisp,CoffeeScript,,Quentin,Wood
+Quinn Dillon,Male,49,1.71,40,65000,Russian,RU,Russia,,,,Quinn,Dillon
+Rachal Bradshaw,Female,41,1.69,84,118000,Swiss,CH,Switzerland,CoffeeScript,,,Rachal,Bradshaw
+Raisa Moss,Female,38,1.67,43,73000,Canadian,CA,Canada,,,,Raisa,Moss
+Ralph Lloyd,Male,20,1.81,83,93000,Dutch,NL,Netherland,Ruby,OCaml,GNU Octave,Ralph,Lloyd
+Ramiro Dominguez,Male,19,1.72,55,71000,Cambodian,CM,Cambodia,Mathematica,,,Ramiro,Dominguez
+Ranae Rodriquez,Female,25,1.52,82,59000,Brazilian,BR,Brazil,PHP,Awk,,Ranae,Rodriquez
+Randa Waters,Female,32,1.67,42,74000,Spanish,SP,Spain,Scheme,Z shell,Caml,Randa,Waters
+Randal Riggs,Male,42,1.62,82,98000,Japanese,JP,Japan,Dart,Awk,Lisp,Randal,Riggs
+Randall Head,Male,57,1.57,72,145000,Cambodian,CM,Cambodia,C Shell,,,Randall,Head
+Randee Grimes,Female,44,1.8,71,103000,Uruguayan,UY,Uruguay,Haskell,Fortran,PL-I,Randee,Grimes
+Randy Sheppard,Male,57,1.71,67,73000,Uruguayan,UY,Uruguay,Io,Assembly,TypeScript,Randy,Sheppard
+Raphael Hebert,Male,47,1.82,67,108000,Danish,DK,Denmark,Mathematica,Dart,,Raphael,Hebert
+Raphael Whitehead,Male,29,1.71,54,100000,Dutch,NL,Netherland,,,,Raphael,Whitehead
+Rashad Sellers,Male,56,1.81,88,120000,Finnish,FI,Finland,Scheme,,,Rashad,Sellers
+Rashad Whitley,Male,43,1.75,77,75000,Venezuelan,VE,Venezuela,haXe,Falcon,,Rashad,Whitley
+Raul Booth,Male,35,1.62,70,123000,Uruguayan,UY,Uruguay,C#,Caml,C,Raul,Booth
+Rayford Cooke,Male,54,1.63,79,133000,Estonian,EE,Estonia,,,,Rayford,Cooke
+Raymond Mcmahon,Male,24,1.95,70,90000,Dutch,NL,Netherland,Kotlin,,,Raymond,Mcmahon
+Reagan Hammond,Female,53,1.93,58,91000,Estonian,EE,Estonia,Common Lisp,Erlang,Lua,Reagan,Hammond
+Reanna Thompson,Female,52,1.77,46,81000,Chilean,CL,Chile,Io,Julia,PL-I,Reanna,Thompson
+Reatha Chang,Female,65,1.73,59,75000,Costa Rican,CR,Costa Rica,Io,Lisp,,Reatha,Chang
+Reed Barron,Male,31,1.62,45,98000,Cuban,CU,Cuba,,,,Reed,Barron
+Reed Frye,Male,55,1.55,39,110000,Spanish,SP,Spain,,,,Reed,Frye
+Reena Massey,Female,39,1.8,43,93000,Brazilian,BR,Brazil,,,,Reena,Massey
+Refugia James,Female,50,1.99,83,55000,Cuban,CU,Cuba,PL-I,Ruby,Awk,Refugia,James
+Refugio Camacho,Male,64,1.54,42,129000,Cameroonian,CM,Cameroon,,,,Refugio,Camacho
+Refugio Cardenas,Male,48,1.66,63,100000,Ukrainian,UA,Ukraine,Z shell,,,Refugio,Cardenas
+Refugio Higgins,Male,38,1.7,46,185000,Belgian,BE,Belgium,Haskell,AutoIt,Groovy,Refugio,Higgins
+Regena Simpson,Female,40,1.59,60,97000,British,GB,United Kingdom,Java,JavaScript,,Regena,Simpson
+Reggie Andrews,Male,24,1.69,87,67000,Jordanian,JO,Jordan,C Shell,,,Reggie,Andrews
+Reggie Golden,Male,42,1.52,87,63000,Spanish,SP,Spain,Prolog,,,Reggie,Golden
+Reginia Barber,Female,58,1.63,67,128000,Cuban,CU,Cuba,Scala,,,Reginia,Barber
+Reid Mueller,Male,52,1.5,45,85000,Russian,RU,Russia,Kotlin,,,Reid,Mueller
+Reiko Diaz,Female,37,1.52,79,113000,Belgian,BE,Belgium,Python,JavaScript,Common Lisp,Reiko,Diaz
+Remona Franco,Female,21,1.82,59,136000,Greek,GR,Greece,Ceylon,,,Remona,Franco
+Renato Rose,Male,32,1.76,86,111000,Polish,PO,Poland,,,,Renato,Rose
+Ressie Chaney,Female,52,1.7,71,105000,Chinese,HK,Hong Kong,J#,,,Ressie,Chaney
+Retta Stewart,Female,49,1.76,69,143000,Chilean,CL,Chile,Lua,,,Retta,Stewart
+Reuben Gay,Male,35,1.65,89,179000,Jordanian,JO,Jordan,Lua,Java,Erlang,Reuben,Gay
+Reynalda Lee,Female,43,1.74,79,55000,Danish,DK,Denmark,JavaScript,,,Reynalda,Lee
+Reynaldo Ward,Male,63,1.65,53,111000,Ethiopian,ET,Ethiopia,,,,Reynaldo,Ward
+Rhett Valdez,Male,26,1.93,56,149000,Bolivian,BO,Bolivia,Go,Haskell,GNU Octave,Rhett,Valdez
+Ricarda Sullivan,Female,45,1.59,56,107000,Polish,PO,Poland,Z shell,,,Ricarda,Sullivan
+Ricardo Padilla,Male,51,1.83,51,110000,Estonian,EE,Estonia,Smalltalk,,,Ricardo,Padilla
+Richie Gardner,Male,25,1.77,38,151000,Polish,PO,Poland,,,,Richie,Gardner
+Ricki Woods,Female,40,1.9,59,180000,Russian,RU,Russia,ECMAScript,Racket,Clojure,Ricki,Woods
+Rickie Gibbs,Female,50,1.61,88,80000,Finnish,FI,Finland,Awk,Ruby,,Rickie,Gibbs
+Rickie May,Male,26,1.69,69,28000,Ethiopian,ET,Ethiopia,,,,Rickie,May
+Ricky Moon,Male,60,1.83,54,67000,Dutch,NL,Netherland,AutoIt,C,GNU Octave,Ricky,Moon
+Rico Fisher,Male,26,1.9,64,51000,Russian,RU,Russia,Assembly,,,Rico,Fisher
+Rima Barton,Female,39,1.68,63,100000,Venezuelan,VE,Venezuela,Python,D,,Rima,Barton
+Riva Hurst,Female,33,1.98,70,115000,German,DE,Germany,AutoIt,Erlang,Scala,Riva,Hurst
+Robbi Ellison,Female,41,1.79,46,82000,Mexican,ME,Mexico,,,,Robbi,Ellison
+Robby Holt,Male,51,1.78,79,143000,Jordanian,JO,Jordan,PHP,Scala,Racket,Robby,Holt
+Robby Roman,Male,43,1.85,76,68000,Japanese,JP,Japan,Emacs Lisp,,,Robby,Roman
+Robt Charles,Male,50,1.52,45,46000,Irish,IE,Ireland,Mathematica,Perl,Python,Robt,Charles
+Robt Mercado,Male,48,1.81,89,109000,Cameroonian,CM,Cameroon,C++,,,Robt,Mercado
+Rocco Henderson,Male,62,1.58,57,60000,Finnish,FI,Finland,TypeScript,Transact-SQL,Perl,Rocco,Henderson
+Rochell Hoover,Female,45,1.52,90,112000,Dutch,NL,Netherland,D,Io,,Rochell,Hoover
+Rochell Wong,Female,42,2.0,76,157000,French,FR,France,Haskell,haXe,,Rochell,Wong
+Rod Rose,Male,26,1.7,68,52000,Egyptian,EG,Egypt,Delphi,Kotlin,,Rod,Rose
+Roderick Gaines,Male,21,1.88,59,72000,British,GB,United Kingdom,Racket,AutoIt,ASP,Roderick,Gaines
+Rodrick Hudson,Male,51,1.59,81,179000,Ukrainian,UA,Ukraine,Bash,,,Rodrick,Hudson
+Rodrigo Gallegos,Male,59,1.69,74,109000,Cuban,CU,Cuba,Fortran,JavaScript,,Rodrigo,Gallegos
+Rogelio Morris,Male,53,1.88,56,119000,Italian,IT,Italy,Perl,Scheme,Prolog,Rogelio,Morris
+Roger Lambert,Male,62,1.98,45,92000,Danish,DK,Denmark,PL-SQL,Java,,Roger,Lambert
+Rolland Zamora,Male,24,1.76,47,58000,Danish,DK,Denmark,Transact-SQL,,,Rolland,Zamora
+Romeo Hays,Male,45,1.71,54,125000,Israeli,IS,Israel,R,Emacs Lisp,,Romeo,Hays
+Romeo Joseph,Male,43,1.7,86,70000,French,FR,France,Dylan,Java,,Romeo,Joseph
+Ron Miranda,Male,60,1.66,50,84000,Cambodian,CM,Cambodia,Z shell,,,Ron,Miranda
+Ronald Hays,Female,43,1.81,56,118000,Greek,GR,Greece,,,,Ronald,Hays
+Roosevelt Chen,Male,22,1.8,60,74000,Chinese,CH,China,,,,Roosevelt,Chen
+Rosamaria Wiggins,Female,64,1.96,38,121000,Chilean,CL,Chile,Rust,Tcl,,Rosamaria,Wiggins
+Rosana Witt,Female,40,1.79,64,74000,Dominican,DM,Dominica,,,,Rosana,Witt
+Rosann Travis,Female,53,1.71,64,102000,Belgian,BE,Belgium,Go,Ceylon,Z shell,Rosann,Travis
+Roscoe Taylor,Male,31,1.84,74,63000,Greek,GR,Greece,Objective-C,,,Roscoe,Taylor
+Rosendo Rivera,Male,55,1.57,56,63000,Bolivian,BO,Bolivia,PL-SQL,Dylan,,Rosendo,Rivera
+Rosendo Tyson,Male,37,1.53,85,128000,Danish,DK,Denmark,,,,Rosendo,Tyson
+Rosio Cherry,Female,41,1.95,65,71000,Taiwanese,TW,Taiwan,D,Dylan,JavaScript,Rosio,Cherry
+Roy Larson,Male,46,1.6,73,123000,Swedish,SE,Sweden,R,Clojure,Java,Roy,Larson
+Roy May,Male,28,1.77,87,82000,German,DE,Germany,Haskell,PL-I,Erlang,Roy,May
+Rozanne Newton,Female,20,1.87,76,65000,Greek,GR,Greece,Caml,F#,,Rozanne,Newton
+Ruben Merrill,Male,64,1.86,90,122000,Chilean,CL,Chile,F#,,,Ruben,Merrill
+Ruben Murray,Male,66,1.75,86,94000,Irish,IE,Ireland,Assembly,OCaml,,Ruben,Murray
+Ruben Randolph,Male,54,1.89,63,92000,Dutch,NL,Netherland,Scheme,Rust,Lisp,Ruben,Randolph
+Rubi Burnett,Female,32,1.75,44,86000,Irish,IE,Ireland,Julia,Ceylon,Smalltalk,Rubi,Burnett
+Rubi Conner,Female,24,1.84,86,114000,Swiss,CH,Switzerland,Java,Scheme,Falcon,Rubi,Conner
+Rubin Dillon,Male,56,1.51,81,110000,Estonian,EE,Estonia,Scheme,,,Rubin,Dillon
+Rudy Cannon,Female,55,1.78,55,74000,Uruguayan,UY,Uruguay,Awk,C,,Rudy,Cannon
+Rudy Spence,Male,20,1.76,49,114000,Japanese,JP,Japan,OCaml,Common Lisp,Perl,Rudy,Spence
+Rueben Lopez,Male,29,1.75,67,97000,Finnish,FI,Finland,Perl,C,,Rueben,Lopez
+Rufina Berry,Female,58,1.92,63,76000,Chilean,CL,Chile,,,,Rufina,Berry
+Rufina Black,Female,56,1.8,74,66000,Mexican,ME,Mexico,JavaScript,Perl,Racket,Rufina,Black
+Rufus Bean,Male,64,1.54,68,207000,Polish,PO,Poland,GNU Octave,,,Rufus,Bean
+Rufus Jenkins,Male,52,1.74,45,79000,Belgian,BE,Belgium,TypeScript,Groovy,Assembly,Rufus,Jenkins
+Russell Noel,Male,64,1.62,41,95000,Uruguayan,UY,Uruguay,,,,Russell,Noel
+Rusty Newman,Male,41,1.82,46,75000,Swedish,SE,Sweden,Ruby,Python,,Rusty,Newman
+Ruthe Sims,Female,47,1.86,68,76000,Ukrainian,UA,Ukraine,,,,Ruthe,Sims
+Sabine Edwards,Female,38,1.84,76,117000,Chinese,CH,China,Caml,Falcon,D,Sabine,Edwards
+Sacha Pollard,Female,18,1.88,49,47000,Chilean,CL,Chile,C++,Elixir,,Sacha,Pollard
+Sage Adams,Female,20,1.89,74,72000,German,DE,Germany,TypeScript,Clojure,Groovy,Sage,Adams
+Salley Byers,Female,28,1.91,88,73000,Cameroonian,CM,Cameroon,,,,Salley,Byers
+Salome Steele,Female,26,1.91,78,67000,Bolivian,BO,Bolivia,Caml,Z shell,Julia,Salome,Steele
+Sam Horne,Male,55,1.98,84,75000,Ukrainian,UA,Ukraine,Lua,Scheme,C Shell,Sam,Horne
+Sammy O'neill,Male,29,1.55,52,84000,Swiss,CH,Switzerland,Tex,,,Sammy,O'neill
+Samual Lopez,Male,21,1.98,69,76000,Dominican,DM,Dominica,,,,Samual,Lopez
+Samuel Best,Male,59,1.51,59,56000,Jordanian,JO,Jordan,Ruby,,,Samuel,Best
+Samuel Duran,Male,47,1.73,83,43000,Italian,IT,Italy,R,Emacs Lisp,Delphi,Samuel,Duran
+Samuel O'donnell,Female,38,1.58,67,86000,Cameroonian,CM,Cameroon,,,,Samuel,O'donnell
+Sana Stout,Female,54,1.9,38,171000,Bolivian,BO,Bolivia,,,,Sana,Stout
+Sandie Knox,Female,47,1.98,41,81000,Taiwanese,TW,Taiwan,PowerShell,JavaScript,,Sandie,Knox
+Sandy Morin,Male,39,1.83,42,76000,Canadian,CA,Canada,Common Lisp,Kotlin,,Sandy,Morin
+Sandy Shepard,Male,45,1.86,76,144000,Dominican,DM,Dominica,C++,Clojure,Objective-C,Sandy,Shepard
+Sandy Webster,Male,60,1.76,76,111000,Jordanian,JO,Jordan,Prolog,GNU Octave,,Sandy,Webster
+Sanford Hewitt,Male,59,1.94,38,70000,British,GB,United Kingdom,Common Lisp,Emacs Lisp,,Sanford,Hewitt
+Sang Battle,Female,62,1.96,60,134000,Israeli,IS,Israel,Tex,Falcon,haXe,Sang,Battle
+Santiago Sanders,Male,56,1.58,72,170000,Dominican,DM,Dominica,,,,Santiago,Sanders
+Santiago Vang,Male,31,1.97,68,78000,Irish,IE,Ireland,Go,,,Santiago,Vang
+Santo Cardenas,Male,56,1.99,60,90000,French,FR,France,PL-SQL,,,Santo,Cardenas
+Sari Estes,Female,42,1.6,63,147000,Ukrainian,UA,Ukraine,Mathematica,,,Sari,Estes
+Sari Thornton,Female,44,1.86,59,135000,Bolivian,BO,Bolivia,Emacs Lisp,Caml,Dylan,Sari,Thornton
+Scot Head,Male,21,1.7,86,44000,Russian,RU,Russia,Erlang,,,Scot,Head
+Scott Rodgers,Male,26,1.8,84,164000,Italian,IT,Italy,Scheme,D,,Scott,Rodgers
+Sebastian Shaffer,Male,65,1.54,89,64000,Iranian,IR,Iran,,,,Sebastian,Shaffer
+Sena O'donnell,Female,42,1.66,70,72000,Irish,IE,Ireland,R,,,Sena,O'donnell
+September Mcmillan,Female,48,1.71,68,92000,Dominican,DM,Dominica,PL-SQL,Lisp,,September,Mcmillan
+Sergio Harrison,Male,31,1.82,85,86000,Belgian,BE,Belgium,,,,Sergio,Harrison
+Serita Hogan,Female,33,1.57,68,200000,Finnish,FI,Finland,F#,Go,,Serita,Hogan
+Seth Simpson,Male,52,1.99,77,163000,Jordanian,JO,Jordan,Emacs Lisp,Racket,Lua,Seth,Simpson
+Seth Small,Male,31,1.56,56,101000,Irish,IE,Ireland,Caml,JavaScript,,Seth,Small
+Seymour Bell,Male,24,1.83,85,64000,Brazilian,BR,Brazil,,,,Seymour,Bell
+Seymour Gonzales,Male,58,1.97,84,116000,British,GB,United Kingdom,ASP,Ceylon,,Seymour,Gonzales
+Shad Head,Male,38,1.87,38,86000,Chilean,CL,Chile,,,,Shad,Head
+Shakira Lindsey,Female,38,1.62,56,78000,Danish,DK,Denmark,C,,,Shakira,Lindsey
+Shan Blackburn,Female,53,1.96,90,68000,Swedish,SE,Sweden,Clojure,Z shell,Lisp,Shan,Blackburn
+Shan York,Female,35,1.9,53,104000,Uruguayan,UY,Uruguay,,,,Shan,York
+Shane Vega,Female,60,1.54,79,61000,Polish,PO,Poland,Perl,,,Shane,Vega
+Shane Velasquez,Male,19,1.61,56,73000,Finnish,FI,Finland,Bash,Falcon,PowerShell,Shane,Velasquez
+Shani Phelps,Female,51,1.5,75,116000,Ukrainian,UA,Ukraine,PL-I,PowerShell,,Shani,Phelps
+Sharda Dixon,Female,53,1.51,69,80000,Cameroonian,CM,Cameroon,F#,Ruby,,Sharda,Dixon
+Sharika Estrada,Female,18,1.66,76,95000,Danish,DK,Denmark,,,,Sharika,Estrada
+Sharilyn Owen,Female,56,1.69,51,33000,Cuban,CU,Cuba,JavaScript,Falcon,,Sharilyn,Owen
+Sharleen Herring,Female,34,1.83,79,121000,Ethiopian,ET,Ethiopia,Tcl,Java,,Sharleen,Herring
+Shaunta Calderon,Female,21,1.62,56,97000,Swedish,SE,Sweden,,,,Shaunta,Calderon
+Shavon Kim,Female,21,1.99,53,97000,Finnish,FI,Finland,Kotlin,Io,Clojure,Shavon,Kim
+Shavonne Meyer,Female,21,1.55,47,74000,Iranian,IR,Iran,Racket,,,Shavonne,Meyer
+Shawanda Love,Female,38,1.54,87,119000,Ethiopian,ET,Ethiopia,Ceylon,Fortran,,Shawanda,Love
+Shawanna Beach,Female,54,1.98,85,124000,Finnish,FI,Finland,haXe,,,Shawanna,Beach
+Shawn Hayden,Male,43,1.93,63,87000,Mexican,ME,Mexico,,,,Shawn,Hayden
+Shawnee Holcomb,Female,50,1.73,71,71000,Iranian,IR,Iran,Ceylon,Java,,Shawnee,Holcomb
+Shea Levine,Female,19,1.6,53,157000,Russian,RU,Russia,PL-I,,,Shea,Levine
+Shelby Leach,Male,42,1.66,64,56000,Costa Rican,CR,Costa Rica,,,,Shelby,Leach
+Sheldon Roach,Male,23,1.57,77,100000,Swedish,SE,Sweden,ASP,,,Sheldon,Roach
+Sherell Wiggins,Female,53,1.98,72,46000,Romanian,RO,Romania,,,,Sherell,Wiggins
+Sherill Beach,Female,24,1.75,78,114000,Jordanian,JO,Jordan,,,,Sherill,Beach
+Sherril Simpson,Female,30,1.84,56,76000,Australian,AU,Australia,Bash,Assembly,,Sherril,Simpson
+Sheryll Duffy,Female,30,1.58,58,92000,French,FR,France,,,,Sheryll,Duffy
+Shirl Mosley,Female,47,1.66,72,109000,Israeli,IS,Israel,Lua,,,Shirl,Mosley
+Shirley Gross,Male,45,1.94,86,111000,Jordanian,JO,Jordan,PHP,,,Shirley,Gross
+Shirley Harding,Male,16,1.82,54,96000,Dominican,DM,Dominica,Smalltalk,PowerShell,,Shirley,Harding
+Shirley Wolf,Male,25,1.72,72,83000,Dominican,DM,Dominica,PowerShell,J#,Tex,Shirley,Wolf
+Shizuko Buckner,Female,65,1.53,47,139000,Dutch,NL,Netherland,haXe,,,Shizuko,Buckner
+Shizuko Collier,Female,18,1.98,39,102000,Brazilian,BR,Brazil,Dylan,ECMAScript,,Shizuko,Collier
+Shon Johns,Male,51,1.74,41,123000,Finnish,FI,Finland,,,,Shon,Johns
+Shoshana Griffith,Female,28,1.72,53,66000,Egyptian,EG,Egypt,CoffeeScript,Delphi,,Shoshana,Griffith
+Shu Crane,Female,51,1.61,79,100000,Ethiopian,ET,Ethiopia,OCaml,Fortran,CoffeeScript,Shu,Crane
+Shyla Hunter,Female,34,1.74,69,117000,Swedish,SE,Sweden,,,,Shyla,Hunter
+Silas Stephenson,Male,41,1.5,43,91000,Danish,DK,Denmark,Perl,Bash,OCaml,Silas,Stephenson
+Silvana Mills,Female,63,1.76,38,64000,Brazilian,BR,Brazil,ASP,C#,,Silvana,Mills
+Sima Monroe,Female,46,1.69,81,136000,Swiss,CH,Switzerland,OCaml,,,Sima,Monroe
+Simona Cunningham,Female,49,1.79,69,166000,Greek,GR,Greece,,,,Simona,Cunningham
+Simona Rowland,Female,33,1.87,55,94000,Iranian,IR,Iran,J#,C Shell,,Simona,Rowland
+Simona Wallace,Female,60,1.5,48,98000,Cuban,CU,Cuba,Perl,PL-I,,Simona,Wallace
+Sina Vasquez,Female,50,1.6,70,104000,Canadian,CA,Canada,,,,Sina,Vasquez
+Sirena Morse,Female,28,1.69,62,157000,Uruguayan,UY,Uruguay,PHP,Tcl,Java,Sirena,Morse
+Skye Warren,Female,42,1.88,71,87000,Mexican,ME,Mexico,GNU Octave,Mathematica,,Skye,Warren
+Solomon Merrill,Male,66,1.88,47,97000,Spanish,SP,Spain,,,,Solomon,Merrill
+Son Burt,Female,63,1.58,79,81000,Italian,IT,Italy,AutoIt,,,Son,Burt
+Son O'neill,Female,37,1.64,38,71000,German,DE,Germany,Delphi,Racket,AutoIt,Son,O'neill
+Son Stokes,Male,24,1.87,74,74000,Polish,PO,Poland,Elixir,Tex,Assembly,Son,Stokes
+Soo Gates,Female,45,1.68,86,97000,Romanian,RO,Romania,Objective-C,Scheme,ECMAScript,Soo,Gates
+Soo Henderson,Female,50,1.59,73,139000,Brazilian,BR,Brazil,,,,Soo,Henderson
+Soo Walters,Female,36,1.67,40,67000,Canadian,CA,Canada,Julia,,,Soo,Walters
+Sook Short,Female,23,1.99,41,99000,Finnish,FI,Finland,ASP,Tex,Perl,Sook,Short
+Soraya Swanson,Female,47,1.95,68,100000,Chinese,HK,Hong Kong,C#,,,Soraya,Swanson
+Sparkle Barr,Female,35,1.74,44,92000,German,DE,Germany,Z shell,,,Sparkle,Barr
+Stacee Miranda,Female,28,1.9,73,123000,Canadian,CA,Canada,GNU Octave,,,Stacee,Miranda
+Stacy Gibson,Male,26,1.73,38,97000,Ukrainian,UA,Ukraine,,,,Stacy,Gibson
+Stan Franklin,Male,20,1.66,88,106000,Brazilian,BR,Brazil,Racket,Bash,,Stan,Franklin
+Stan Sosa,Male,44,1.69,52,85000,Chilean,CL,Chile,Lisp,Assembly,,Stan,Sosa
+Stasia Mercer,Female,25,1.96,66,48000,Irish,IE,Ireland,C,haXe,Io,Stasia,Mercer
+Stefan Whitaker,Male,42,1.95,66,154000,Mexican,ME,Mexico,JavaScript,,,Stefan,Whitaker
+Steffanie Kelley,Female,62,1.95,88,127000,Irish,IE,Ireland,PowerShell,,,Steffanie,Kelley
+Stephan Hart,Male,22,1.8,55,70000,Japanese,JP,Japan,Perl,Clojure,AutoIt,Stephan,Hart
+Stephan Le,Male,43,1.51,72,65000,Taiwanese,TW,Taiwan,OCaml,,,Stephan,Le
+Stephan Mcfadden,Male,40,1.74,54,149000,Cuban,CU,Cuba,Awk,,,Stephan,Mcfadden
+Stephen Swanson,Male,34,1.72,39,96000,Irish,IE,Ireland,Python,Dylan,,Stephen,Swanson
+Sterling Moore,Male,34,1.93,61,56000,German,DE,Germany,,,,Sterling,Moore
+Steve Justice,Male,20,1.94,80,104000,Polish,PO,Poland,,,,Steve,Justice
+Stevie Mcguire,Female,52,1.52,83,93000,Chinese,CH,China,Dylan,,,Stevie,Mcguire
+Sueann Klein,Female,65,1.83,47,103000,Cambodian,CM,Cambodia,TypeScript,TypeScript,,Sueann,Klein
+Suk Briggs,Female,34,1.58,69,107000,British,GB,United Kingdom,,,,Suk,Briggs
+Sulema Kane,Female,17,1.7,66,136000,Ukrainian,UA,Ukraine,Clojure,,,Sulema,Kane
+Sulema Marquez,Female,35,1.52,64,116000,Uruguayan,UY,Uruguay,C,,,Sulema,Marquez
+Sung O'donnell,Female,23,1.6,62,92000,Swiss,CH,Switzerland,Julia,,,Sung,O'donnell
+Sung Potts,Female,19,1.96,79,141000,Bolivian,BO,Bolivia,,,,Sung,Potts
+Sunni Crosby,Female,62,1.62,75,84000,Romanian,RO,Romania,Erlang,D,,Sunni,Crosby
+Sunni Douglas,Female,18,1.73,51,83000,Polish,PO,Poland,Bash,,,Sunni,Douglas
+Suzann Richmond,Female,64,1.99,44,142000,Dutch,NL,Netherland,Caml,ASP,GNU Octave,Suzann,Richmond
+Suzi House,Female,26,1.97,76,97000,Danish,DK,Denmark,Awk,Bash,,Suzi,House
+Svetlana Reid,Female,44,1.61,53,77000,Finnish,FI,Finland,Clojure,Go,Haskell,Svetlana,Reid
+Tabetha Woodward,Female,21,1.65,63,72000,Costa Rican,CR,Costa Rica,Clojure,,,Tabetha,Woodward
+Takako Welch,Female,22,1.97,75,67000,Irish,IE,Ireland,,,,Takako,Welch
+Talisha Cox,Female,24,1.87,40,132000,Japanese,JP,Japan,Objective-C,Tex,,Talisha,Cox
+Tam Dillard,Female,31,1.58,80,147000,Estonian,EE,Estonia,Emacs Lisp,CoffeeScript,,Tam,Dillard
+Tam Whitley,Female,18,1.65,85,83000,Irish,IE,Ireland,Dart,F#,,Tam,Whitley
+Tamala Alston,Female,53,1.93,48,123000,Chilean,CL,Chile,Tex,Kotlin,C Shell,Tamala,Alston
+Tammara Bradshaw,Female,36,1.75,53,97000,Swiss,CH,Switzerland,Scala,,,Tammara,Bradshaw
+Tandra Evans,Female,66,1.66,56,76000,Iranian,IR,Iran,,,,Tandra,Evans
+Tandy Frederick,Female,40,1.98,58,118000,Brazilian,BR,Brazil,Dylan,Dylan,,Tandy,Frederick
+Tandy Rhodes,Female,64,1.84,72,95000,Swedish,SE,Sweden,Transact-SQL,Transact-SQL,,Tandy,Rhodes
+Tanja Guzman,Female,58,1.54,84,127000,Bolivian,BO,Bolivia,haXe,PowerShell,,Tanja,Guzman
+Tasia Durham,Female,62,1.77,61,109000,Taiwanese,TW,Taiwan,,,,Tasia,Durham
+Tasia Hatfield,Female,42,1.64,46,98000,Dutch,NL,Netherland,AutoIt,Elixir,Falcon,Tasia,Hatfield
+Tatum Mcconnell,Female,57,1.67,52,102000,Iranian,IR,Iran,Mathematica,Java,Tcl,Tatum,Mcconnell
+Tawny Byrd,Female,48,1.7,68,55000,Jordanian,JO,Jordan,Elixir,C#,,Tawny,Byrd
+Telma Calderon,Female,20,1.54,64,123000,Russian,RU,Russia,Java,J#,Delphi,Telma,Calderon
+Temika Higgins,Female,57,1.53,80,73000,Iranian,IR,Iran,Scala,Python,,Temika,Higgins
+Teodora Browning,Female,48,1.55,65,84000,Uruguayan,UY,Uruguay,,,,Teodora,Browning
+Teofila Harrison,Female,28,1.97,89,125000,Cuban,CU,Cuba,Bash,,,Teofila,Harrison
+Tequila Lane,Female,26,1.71,43,115000,Spanish,SP,Spain,haXe,CoffeeScript,,Tequila,Lane
+Teresia Lewis,Female,42,1.76,70,118000,Ethiopian,ET,Ethiopia,Julia,Racket,,Teresia,Lewis
+Terrance Gallegos,Male,29,1.88,44,68000,Italian,IT,Italy,C#,Tcl,Lisp,Terrance,Gallegos
+Terrell Wooten,Female,37,1.53,45,171000,Estonian,EE,Estonia,Transact-SQL,C#,,Terrell,Wooten
+Terresa Baker,Female,53,1.73,75,97000,German,DE,Germany,C#,Groovy,,Terresa,Baker
+Terrilyn Gilmore,Female,57,1.7,51,133000,Uruguayan,UY,Uruguay,,,,Terrilyn,Gilmore
+Tesha Norman,Female,19,1.85,50,142000,Brazilian,BR,Brazil,Tcl,Objective-C,,Tesha,Norman
+Thaddeus Stone,Male,18,1.5,50,64000,Jordanian,JO,Jordan,Java,ECMAScript,OCaml,Thaddeus,Stone
+Theodore Cooper,Male,30,1.8,88,71000,Brazilian,BR,Brazil,OCaml,Falcon,Tex,Theodore,Cooper
+Theresia Noel,Female,65,2.0,79,93000,Chinese,HK,Hong Kong,GNU Octave,,,Theresia,Noel
+Theressa Chapman,Female,32,1.89,41,89000,Israeli,IS,Israel,Mathematica,PHP,Clojure,Theressa,Chapman
+Theressa Poole,Female,63,1.53,68,150000,Ukrainian,UA,Ukraine,,,,Theressa,Poole
+Theron Gay,Male,18,1.76,89,104000,Swedish,SE,Sweden,Tcl,CoffeeScript,C Shell,Theron,Gay
+Thersa Hancock,Female,61,1.72,70,93000,Swedish,SE,Sweden,C Shell,PL-I,R,Thersa,Hancock
+Thi Mckay,Female,27,1.92,72,105000,Belgian,BE,Belgium,Fortran,PowerShell,JavaScript,Thi,Mckay
+Thomasine Landry,Female,30,1.7,58,116000,Belgian,BE,Belgium,Ceylon,Lisp,Smalltalk,Thomasine,Landry
+Thresa Preston,Female,59,1.55,53,82000,Ethiopian,ET,Ethiopia,Kotlin,PowerShell,,Thresa,Preston
+Tianna Vaughan,Female,33,1.53,60,100000,Japanese,JP,Japan,,,,Tianna,Vaughan
+Tiffiny Melton,Female,19,1.63,64,78000,Swedish,SE,Sweden,Transact-SQL,Tex,,Tiffiny,Melton
+Timmy Browning,Male,21,1.55,46,155000,Italian,IT,Italy,Falcon,,,Timmy,Browning
+Timmy Marks,Male,42,1.54,58,78000,Australian,AU,Australia,OCaml,Erlang,,Timmy,Marks
+Timothy Duffy,Female,19,1.52,57,72000,Romanian,RO,Romania,,,,Timothy,Duffy
+Timothy Randolph,Female,27,1.88,47,93000,Brazilian,BR,Brazil,AutoIt,C#,,Timothy,Randolph
+Tiny Ayala,Female,31,1.77,52,107000,Italian,IT,Italy,C#,Delphi,,Tiny,Ayala
+Tobias Burnett,Male,60,1.83,63,152000,Belgian,BE,Belgium,AutoIt,F#,Lua,Tobias,Burnett
+Tobie Stafford,Female,59,1.53,70,140000,German,DE,Germany,Prolog,Ceylon,,Tobie,Stafford
+Toccara Moreno,Female,60,1.56,61,114000,Danish,DK,Denmark,Rust,,,Toccara,Moreno
+Toccara Wong,Female,63,1.76,65,115000,German,DE,Germany,C,Scala,,Toccara,Wong
+Toi Battle,Female,49,1.74,56,83000,Polish,PO,Poland,Scheme,,,Toi,Battle
+Tomiko Blanchard,Female,40,1.91,54,136000,Spanish,SP,Spain,Go,AutoIt,OCaml,Tomiko,Blanchard
+Tommie Terrell,Male,33,1.51,82,132000,Egyptian,EG,Egypt,Python,ECMAScript,,Tommie,Terrell
+Torrie Solomon,Female,52,1.76,72,103000,Russian,RU,Russia,,,,Torrie,Solomon
+Tory Dalton,Female,63,1.83,66,63000,Dominican,DM,Dominica,Kotlin,Lisp,,Tory,Dalton
+Tracy Ramos,Male,48,1.59,52,93000,Mexican,ME,Mexico,PL-SQL,Elixir,,Tracy,Ramos
+Tracy Walters,Male,18,1.58,40,147000,Danish,DK,Denmark,Common Lisp,,,Tracy,Walters
+Tran Morrow,Female,62,1.8,77,89000,Iranian,IR,Iran,C,PL-SQL,,Tran,Morrow
+Trevor Campbell,Male,65,1.98,53,116000,Australian,AU,Australia,Scheme,Tex,,Trevor,Campbell
+Trevor Hancock,Male,61,1.65,61,97000,Swiss,CH,Switzerland,OCaml,Dylan,Perl,Trevor,Hancock
+Trevor Weaver,Male,65,1.78,88,170000,Greek,GR,Greece,Dylan,AutoIt,Transact-SQL,Trevor,Weaver
+Troy Yang,Male,51,1.64,87,85000,Canadian,CA,Canada,Racket,Go,,Troy,Yang
+Trula Humphrey,Female,30,1.87,49,149000,Russian,RU,Russia,Lisp,,,Trula,Humphrey
+Trula Scott,Female,64,1.57,57,130000,Venezuelan,VE,Venezuela,Scheme,TypeScript,Ceylon,Trula,Scott
+Tuan Weeks,Male,61,1.96,86,99000,Jordanian,JO,Jordan,Perl,ECMAScript,Groovy,Tuan,Weeks
+Tula Riggs,Female,39,1.51,75,102000,Estonian,EE,Estonia,Dart,CoffeeScript,Lisp,Tula,Riggs
+Tuyet Dodson,Female,51,1.63,63,101000,Swedish,SE,Sweden,Clojure,,,Tuyet,Dodson
+Twana Gordon,Female,27,1.74,79,129000,Brazilian,BR,Brazil,Julia,,,Twana,Gordon
+Twanna Chaney,Female,57,1.73,72,75000,Jordanian,JO,Jordan,ECMAScript,Ruby,Clojure,Twanna,Chaney
+Tyler Garrison,Male,18,1.96,44,87000,Iranian,IR,Iran,Erlang,,,Tyler,Garrison
+Tynisha Tran,Female,63,1.62,38,102000,Belgian,BE,Belgium,Io,Caml,,Tynisha,Tran
+Tyrell Bruce,Male,21,1.79,86,81000,Estonian,EE,Estonia,Kotlin,C#,,Tyrell,Bruce
+Tyrone Farley,Male,34,1.7,38,117000,German,DE,Germany,TypeScript,haXe,,Tyrone,Farley
+Tyrone Snyder,Male,19,1.51,54,78000,Jordanian,JO,Jordan,Assembly,C,,Tyrone,Snyder
+Ula Mayo,Female,44,1.71,42,129000,Iranian,IR,Iran,Objective-C,Lua,Assembly,Ula,Mayo
+Ute West,Female,61,1.91,77,76000,Israeli,IS,Israel,Prolog,Assembly,Haskell,Ute,West
+Valentin Lawson,Male,42,1.96,81,82000,Jordanian,JO,Jordan,,,,Valentin,Lawson
+Valentine Melton,Male,32,1.52,52,118000,Greek,GR,Greece,,,,Valentine,Melton
+Valery Nieves,Female,35,1.86,76,89000,Estonian,EE,Estonia,Rust,,,Valery,Nieves
+Vanesa Melendez,Female,31,1.81,90,181000,Spanish,SP,Spain,Caml,Tex,,Vanesa,Melendez
+Vanesa Warner,Female,21,1.68,46,48000,Danish,DK,Denmark,Tcl,,,Vanesa,Warner
+Vanita Porter,Female,44,1.58,67,130000,Cambodian,CM,Cambodia,Falcon,Smalltalk,Falcon,Vanita,Porter
+Vanna Sweet,Female,65,1.82,66,74000,Dutch,NL,Netherland,,,,Vanna,Sweet
+Vannesa Bates,Female,59,1.86,50,63000,Swedish,SE,Sweden,,,,Vannesa,Bates
+Vannesa Stanton,Female,54,1.71,52,192000,Polish,PO,Poland,,,,Vannesa,Stanton
+Vella Little,Female,36,1.64,57,75000,Cambodian,CM,Cambodia,PowerShell,,,Vella,Little
+Vella York,Female,18,1.71,84,127000,Egyptian,EG,Egypt,Lisp,Haskell,,Vella,York
+Verdie Dalton,Female,61,1.95,87,60000,Polish,PO,Poland,R,,,Verdie,Dalton
+Vernon Oliver,Male,38,1.71,49,72000,Iranian,IR,Iran,,,,Vernon,Oliver
+Veronika Barrera,Female,45,1.86,52,146000,Israeli,IS,Israel,Assembly,C#,Bash,Veronika,Barrera
+Versie Bailey,Female,66,1.66,89,106000,Cambodian,CM,Cambodia,Groovy,,,Versie,Bailey
+Veta Griffin,Female,55,1.76,50,153000,French,FR,France,C Shell,Rust,,Veta,Griffin
+Veta Holland,Female,19,1.71,81,83000,Cuban,CU,Cuba,,,,Veta,Holland
+Viki Adkins,Female,30,1.93,45,74000,Danish,DK,Denmark,Go,Io,,Viki,Adkins
+Vinita Pittman,Female,35,1.76,53,58000,Danish,DK,Denmark,Kotlin,Tex,,Vinita,Pittman
+Vinnie Bauer,Female,42,1.9,78,80000,Israeli,IS,Israel,Groovy,Clojure,Clojure,Vinnie,Bauer
+Virgen Rivers,Female,34,1.81,88,112000,Uruguayan,UY,Uruguay,,,,Virgen,Rivers
+Vivien Hoffman,Female,46,1.9,57,83000,Costa Rican,CR,Costa Rica,Scheme,,,Vivien,Hoffman
+Vivienne Ramirez,Female,24,1.88,64,78000,Belgian,BE,Belgium,,,,Vivienne,Ramirez
+Voncile Stafford,Female,20,1.71,80,80000,Taiwanese,TW,Taiwan,Kotlin,Scheme,Haskell,Voncile,Stafford
+Wade Little,Male,64,1.86,84,149000,Cuban,CU,Cuba,Transact-SQL,Emacs Lisp,Scheme,Wade,Little
+Wade Mcclure,Male,45,1.62,67,108000,Dominican,DM,Dominica,Erlang,Clojure,PHP,Wade,Mcclure
+Walker Hunter,Male,32,1.76,61,145000,Irish,IE,Ireland,,,,Walker,Hunter
+Walker Morrow,Male,53,1.54,64,70000,Russian,RU,Russia,PHP,,,Walker,Morrow
+Wallace Dyer,Male,61,1.72,81,90000,Dutch,NL,Netherland,Kotlin,JavaScript,PowerShell,Wallace,Dyer
+Walton Dillon,Male,29,1.57,72,92000,Iranian,IR,Iran,,,,Walton,Dillon
+Warner Harvey,Male,55,1.54,54,77000,Dominican,DM,Dominica,Perl,,,Warner,Harvey
+Warren Santos,Male,56,1.96,75,59000,Swiss,CH,Switzerland,PHP,PHP,Fortran,Warren,Santos
+Wava Martinez,Female,45,1.84,86,121000,Japanese,JP,Japan,Awk,C#,,Wava,Martinez
+Waylon Pickett,Male,30,1.92,38,124000,Iranian,IR,Iran,ASP,Ceylon,,Waylon,Pickett
+Wen Leach,Female,29,1.54,54,85000,Cambodian,CM,Cambodia,Bash,Go,Ceylon,Wen,Leach
+Wenona Patrick,Female,20,1.83,56,104000,Japanese,JP,Japan,Dylan,Assembly,,Wenona,Patrick
+Wenona Rodgers,Female,56,1.97,77,89000,Swedish,SE,Sweden,,,,Wenona,Rodgers
+Werner Cameron,Male,20,1.56,89,80000,Bolivian,BO,Bolivia,PL-I,Ruby,Perl,Werner,Cameron
+Werner Head,Male,25,1.94,59,128000,Brazilian,BR,Brazil,Racket,Go,Common Lisp,Werner,Head
+Werner Slater,Male,60,1.95,52,77000,Chilean,CL,Chile,,,,Werner,Slater
+Wes Hood,Male,44,1.87,63,185000,Mexican,ME,Mexico,OCaml,Dylan,,Wes,Hood
+Wesley Swanson,Male,33,1.6,49,91000,Polish,PO,Poland,PowerShell,Smalltalk,,Wesley,Swanson
+Weston Zamora,Male,60,1.65,78,125000,Danish,DK,Denmark,,,,Weston,Zamora
+Whitney Trujillo,Male,60,1.71,39,105000,Cuban,CU,Cuba,Caml,Awk,Tex,Whitney,Trujillo
+Wilbur Daniels,Male,46,1.67,66,84000,Iranian,IR,Iran,Clojure,Caml,,Wilbur,Daniels
+Wilbur Haley,Male,54,1.65,53,106000,Finnish,FI,Finland,Perl,,,Wilbur,Haley
+Wilburn Stafford,Male,51,1.89,64,80000,Dominican,DM,Dominica,Dylan,Io,Tcl,Wilburn,Stafford
+Wilford Short,Male,39,1.54,65,116000,Greek,GR,Greece,Perl,Fortran,R,Wilford,Short
+Wilhemina Beard,Female,64,1.5,74,71000,Ethiopian,ET,Ethiopia,Scala,,,Wilhemina,Beard
+Will Meadows,Male,37,1.75,74,166000,Estonian,EE,Estonia,,,,Will,Meadows
+William Pena,Male,40,1.96,71,73000,Irish,IE,Ireland,,,,William,Pena
+Willian Cooley,Male,17,1.69,39,77000,Chinese,CH,China,Kotlin,,,Willian,Cooley
+Willie Wong,Male,61,1.89,80,143000,Finnish,FI,Finland,,,,Willie,Wong
+Willis Garrett,Male,34,1.69,72,101000,Canadian,CA,Canada,C Shell,Scala,,Willis,Garrett
+Wilmer Mcclain,Male,27,1.79,60,83000,Dominican,DM,Dominica,Z shell,Transact-SQL,Python,Wilmer,Mcclain
+Wilmer Stafford,Male,58,1.92,47,92000,Israeli,IS,Israel,Erlang,,,Wilmer,Stafford
+Wilson Keith,Male,46,1.84,49,68000,Spanish,SP,Spain,PL-SQL,Caml,Clojure,Wilson,Keith
+Wilson Richards,Male,35,1.73,82,49000,Dutch,NL,Netherland,,,,Wilson,Richards
+Wilson Sosa,Male,18,1.83,75,73000,Cameroonian,CM,Cameroon,PowerShell,Perl,Ruby,Wilson,Sosa
+Winfred Mayer,Male,44,1.74,66,77000,Venezuelan,VE,Venezuela,PL-SQL,Python,PowerShell,Winfred,Mayer
+Wonda Dale,Female,31,1.67,73,93000,Dominican,DM,Dominica,Fortran,C,Erlang,Wonda,Dale
+Wonda Wilder,Female,45,1.79,42,151000,Canadian,CA,Canada,Emacs Lisp,Z shell,,Wonda,Wilder
+Yael Hays,Female,61,1.74,61,78000,Polish,PO,Poland,C++,Kotlin,,Yael,Hays
+Yael Medina,Female,17,1.91,83,79000,Costa Rican,CR,Costa Rica,Perl,Java,Racket,Yael,Medina
+Yajaira Dickson,Female,19,1.93,88,75000,Italian,IT,Italy,,,,Yajaira,Dickson
+Yasuko Gibson,Female,27,1.73,86,91000,Ethiopian,ET,Ethiopia,Mathematica,Python,Common Lisp,Yasuko,Gibson
+Yen Gallegos,Female,41,1.56,84,113000,Dominican,DM,Dominica,Mathematica,Haskell,Dylan,Yen,Gallegos
+Yen Vaughn,Female,48,1.84,72,86000,Cambodian,CM,Cambodia,AutoIt,,,Yen,Vaughn
+Yen Wilder,Female,29,1.72,75,70000,British,GB,United Kingdom,PowerShell,,,Yen,Wilder
+Yer Frank,Female,38,1.6,60,125000,Japanese,JP,Japan,J#,D,,Yer,Frank
+Yevette Morales,Female,41,1.71,42,114000,Canadian,CA,Canada,,,,Yevette,Morales
+Yoko Fletcher,Female,64,1.69,88,48000,Iranian,IR,Iran,Objective-C,,,Yoko,Fletcher
+Yolande Ryan,Female,23,1.55,68,106000,German,DE,Germany,,,,Yolande,Ryan
+Youlanda Barry,Female,37,1.73,41,84000,Polish,PO,Poland,PL-I,ECMAScript,,Youlanda,Barry
+Yuki Kramer,Female,27,1.99,66,65000,Ethiopian,ET,Ethiopia,Dart,Assembly,,Yuki,Kramer
+Yukiko Branch,Female,28,1.69,82,89000,Ukrainian,UA,Ukraine,Falcon,,,Yukiko,Branch
+Yukiko Roach,Female,20,1.96,74,112000,Venezuelan,VE,Venezuela,Perl,Prolog,,Yukiko,Roach
+Yuko Baker,Female,18,1.55,41,117000,Cuban,CU,Cuba,,,,Yuko,Baker
+Yuko Maldonado,Female,37,1.97,67,72000,Polish,PO,Poland,PowerShell,C#,,Yuko,Maldonado
+Yulanda Ferguson,Female,60,1.74,54,91000,Ukrainian,UA,Ukraine,F#,Perl,Smalltalk,Yulanda,Ferguson
+Yun Lee,Female,27,1.73,59,49000,Egyptian,EG,Egypt,C++,Smalltalk,,Yun,Lee
+Yun O'brien,Female,58,1.71,54,70000,Romanian,RO,Romania,Lua,F#,,Yun,O'brien
+Zachary Myers,Male,36,1.85,74,131000,Uruguayan,UY,Uruguay,,,,Zachary,Myers
+Zada Moses,Female,38,1.91,65,135000,Irish,IE,Ireland,TypeScript,Scheme,CoffeeScript,Zada,Moses
+Zane Calhoun,Male,60,1.93,48,127000,Greek,GR,Greece,Io,Java,,Zane,Calhoun
+Zane Durham,Male,53,1.72,85,75000,Cambodian,CM,Cambodia,Common Lisp,C#,,Zane,Durham
+Zane Holden,Male,40,1.67,90,84000,Spanish,SP,Spain,,,,Zane,Holden
+Zulma Allen,Female,53,1.91,71,105000,British,GB,United Kingdom,Elixir,GNU Octave,,Zulma,Allen
+Zulma Leblanc,Female,34,1.87,74,124000,Cameroonian,CM,Cameroon,Python,Transact-SQL,,Zulma,Leblanc
+Zulma Myers,Female,47,1.99,71,78000,Ethiopian,ET,Ethiopia,,,,Zulma,Myers
+Zulma Wiggins,Female,27,1.63,42,71000,Venezuelan,VE,Venezuela,Groovy,Java,Python,Zulma,Wiggins

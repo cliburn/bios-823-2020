@@ -3,6 +3,8 @@ private/
 .vscode/
 *.png
 
+*my_pipeline_0.0.1_2020*
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
