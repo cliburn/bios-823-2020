@@ -4,6 +4,7 @@ private/
 *.png
 
 *my_pipeline_0.0.1_2020*
+*.db
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
