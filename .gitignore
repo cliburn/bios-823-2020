@@ -3,6 +3,13 @@ notebooks/redis_auth_config.yaml
 *profiles*
 *Copy*
 
+notebooks/catboost_info/
+notebooks/clf_best.pickle
+notebooks/data/X_test.csv
+notebooks/data/X_train.csv
+notebooks/data/y_test.csv
+notebooks/data/y_train.csv
+
 2019-material
 private/
 .vscode/
